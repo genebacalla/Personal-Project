@@ -29,6 +29,8 @@ def get_csv(hero):
             f.close()
 
 
+
+
 async def get_html(hero):
     
     browser = await launch(headless=True)
@@ -47,21 +49,66 @@ async def get_html(hero):
         file.close()
 
 
-def extract_trElements(hero):
+def build_csv(hero):
 
+    
+    td_elements = ""
     with open (f"html/{hero}.html","r",encoding="utf-8") as f:
         contents = f.read()
         soup = BeautifulSoup(contents,"html.parser")
 
-    for tag in soup.find_all('tr'):
-        print(tag.text)
+    for tag in soup.find_all('td'):
+        td_elements += tag.text +"\n"
 
+    
+    #print(td_elements)
+    
+    td_elements = td_elements.splitlines()
 
-#asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-#loop = asyncio.new_event_loop()
-#loop.run_until_complete(get_heroCSV("brewmaster"))
+    file_list,item_list = ["MOST USED ITEMS", "BEST VERSUS", "WORST VERSUS"],[None]*4
+    flag_start = False
+    idx_row,idx_item,idx_file,item_idx = 0,0,0,0
 
+    for row in td_elements:
 
-#extract_trElements("brewmaster")
+        if row == "":
+            flag_start = True
+            continue
+
+        if flag_start:
+            item_list[idx_row] = row
+            idx_row += 1
+
+            if (idx_row == 4):
+
+                # Not all rows are stored into one csv file. In fact, they are stored into multiple csv files. 
+                # Therefore, we need to create a method to save a specific number of rows into a file. This is
+                # done by specifying a range which corresponds to the targeted file name. 
+
+                if (idx_item < 12):
+                    idx_file = 0
+                elif (idx_item >= 12 and idx_item < 22):
+                    idx_file = 1
+                elif (idx_item >= 22 and idx_item < 32):
+                    idx_file = 2
+                else:
+                    break
+
+                with open("csv/"+f"{hero}/"+f"{file_list[idx_file]}.csv",'a', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerows([item_list])
+            
+                idx_item += 1
+                idx_row = 0
+            
+            
         
-get_csv("Brewmaster")
+asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+loop = asyncio.new_event_loop()
+loop.run_until_complete(get_html("brewmaster"))
+
+
+get_csv("brewmaster")
+build_csv("brewmaster")
+        
+#get_csv("Brewmaster")
