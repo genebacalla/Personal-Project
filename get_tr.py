@@ -93,7 +93,7 @@ async def get_html(hero):
         
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 loop = asyncio.new_event_loop()
-loop.run_until_complete(get_html("luna"))
+loop.run_until_complete(get_html("lina"))
 
 
-get_csv("luna")
+get_csv("lina")
