@@ -1,4 +1,4 @@
-#from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 import asyncio
 from pyppeteer import launch
 
@@ -21,9 +21,19 @@ async def get_heroCSV(hero):
         file.close()
 
 
+def extract_trElements(hero):
 
-asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-loop = asyncio.new_event_loop()
-loop.run_until_complete(get_heroCSV("brewmaster"))
+    with open (f"html/{hero}.html","r",encoding="utf-8") as f:
+        contents = f.read()
+        soup = BeautifulSoup(contents,"html.parser")
+
+    for tag in soup.find_all('tr'):
+        print(tag.text)
 
 
+#asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+#loop = asyncio.new_event_loop()
+#loop.run_until_complete(get_heroCSV("brewmaster"))
+
+
+extract_trElements("brewmaster")
