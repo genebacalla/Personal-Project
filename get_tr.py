@@ -1,9 +1,35 @@
 from bs4 import BeautifulSoup
 import asyncio
+import csv
+import os
 from pyppeteer import launch
 
 
-async def get_heroCSV(hero):
+
+
+
+def get_csv(hero):
+    csv_file = ["MOST USED ITEMS", "BEST VERSUS", "WORST VERSUS"]
+    try:
+        os.mkdir("csv/"+f"{hero}")
+    except FileExistsError:
+        print(f"csv/{hero}"+" folder already exists.")
+   
+    for i,file in enumerate(csv_file):
+
+        csv_file_path = "csv/"+f"{hero}/"+f"{file}.csv"
+        print(csv_file_path)
+
+        with open(csv_file_path,'w',newline='') as f:
+            writer = csv.writer(f)
+            if (i==0):
+                writer.writerows([["Item","Matches","Wins","Win Rate"]])
+            else:
+                writer.writerows([["Hero","Advantage","Win Rate","Matches"]])
+            f.close()
+
+
+async def get_html(hero):
     
     browser = await launch(headless=True)
     page = await browser.newPage()
@@ -36,4 +62,6 @@ def extract_trElements(hero):
 #loop.run_until_complete(get_heroCSV("brewmaster"))
 
 
-extract_trElements("brewmaster")
+#extract_trElements("brewmaster")
+        
+get_csv("Brewmaster")
