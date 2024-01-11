@@ -15,43 +15,6 @@ def get_csv(hero):
     except FileExistsError:
         print(f"csv/{hero}"+" folder already exists.")
    
-    for i,file in enumerate(csv_file):
-
-        csv_file_path = "csv/"+f"{hero}/"+f"{file}.csv"
-        print(csv_file_path)
-
-        with open(csv_file_path,'w',newline='') as f:
-            writer = csv.writer(f)
-            if (i==0):
-                writer.writerows([["Item","Matches","Wins","Win Rate"]])
-            else:
-                writer.writerows([["Hero","Advantage","Win Rate","Matches"]])
-            f.close()
-
-
-
-
-async def get_html(hero):
-    
-    browser = await launch(headless=True)
-    page = await browser.newPage()
-
-    await page.goto(f"https://www.dotabuff.com/heroes/{hero}")
-    
-    await page.waitFor(5000)
-
-    html_content = await page.content()
-    await browser.close()
-
-    file = "html/"+f"{hero}.html"
-    with open(file, "w", encoding="utf-8") as file:
-        file.write(html_content)
-        file.close()
-
-
-def build_csv(hero):
-
-    
     td_elements = ""
     with open (f"html/{hero}.html","r",encoding="utf-8") as f:
         contents = f.read()
@@ -60,9 +23,9 @@ def build_csv(hero):
     for tag in soup.find_all('td'):
         td_elements += tag.text +"\n"
 
-    
+
     #print(td_elements)
-    
+
     td_elements = td_elements.splitlines()
 
     file_list,item_list = ["MOST USED ITEMS", "BEST VERSUS", "WORST VERSUS"],[None]*4
@@ -96,19 +59,41 @@ def build_csv(hero):
 
                 with open("csv/"+f"{hero}/"+f"{file_list[idx_file]}.csv",'a', newline='') as f:
                     writer = csv.writer(f)
+                    if (idx_item==0):
+                        writer.writerows([["Item","Matches","Wins","Win Rate"]])
+                    elif (idx_item == 12 or idx_item == 22):
+                        writer.writerows([["Hero","Advantage","Win Rate","Matches"]])
+                    
                     writer.writerows([item_list])
             
                 idx_item += 1
                 idx_row = 0
-            
+
+
+async def get_html(hero):
+    
+    browser = await launch(headless=True)
+    page = await browser.newPage()
+
+    await page.goto(f"https://www.dotabuff.com/heroes/{hero}")
+    
+    await page.waitFor(5000)
+
+    html_content = await page.content()
+    await browser.close()
+
+    file = "html/"+f"{hero}.html"
+    with open(file, "w", encoding="utf-8") as file:
+        file.write(html_content)
+        file.close()
+
+
+
             
         
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 loop = asyncio.new_event_loop()
-loop.run_until_complete(get_html("brewmaster"))
+loop.run_until_complete(get_html("luna"))
 
 
-get_csv("brewmaster")
-build_csv("brewmaster")
-        
-#get_csv("Brewmaster")
+get_csv("luna")
