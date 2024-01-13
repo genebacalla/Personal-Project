@@ -4,10 +4,6 @@ import csv
 import os
 from pyppeteer import launch
 
-
-
-
-
 def get_csv(hero):
     csv_file = ["MOST USED ITEMS", "BEST VERSUS", "WORST VERSUS"]
     try:
@@ -77,7 +73,7 @@ async def get_html(hero):
 
     await page.goto(f"https://www.dotabuff.com/heroes/{hero}")
     
-    await page.waitFor(5000)
+    await page.waitFor(1500)
 
     html_content = await page.content()
     await browser.close()
@@ -93,7 +89,7 @@ async def get_html(hero):
         
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 loop = asyncio.new_event_loop()
-loop.run_until_complete(get_html("lina"))
+loop.run_until_complete(get_html("treant-protector"))
 
 
-get_csv("lina")
+get_csv("treant-protector")
