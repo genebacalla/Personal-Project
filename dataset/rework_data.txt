@@ -1,0 +1,131 @@
+Now is a basic Secret Shop item. Cost: 1800
+Item moved from the Secret Shop to the Miscellaneous category in the Main Shop
+Item moved from the Secret Shop to the Miscellaneous category in the Main Shop
+Recipe changed. Now requires Boots of Speed (500), Ring of Basilius (425) and a 375g recipe. Total cost unchanged
+Recipe changed. Now requires Orchid Malevolence (3475), Javelin (900), Hyperstone (2000) and a 450g recipe. Total cost increased from 6800 to 6825
+Recipe changed. Now requires Claymore (1350) instead of Quarterstaff (875). Total cost increased from 4975 to 5450
+Recipe changed. Now requires Claymore (1350), Blades of Attack (450) and a 200g recipe. Total cost increased from 1900 to 2000
+Recipe changed. Now requires Diffusal Blade (2500), Eaglesong (2800) and a 400g recipe. Total cost unchanged
+Recipe changed. Now requires Ogre Axe (1000), Broadsword (1000) and Void Stone (700). Total cost increased from 2500 to 2700
+Recipe changed. Now requires Cloak (800), Ogre Axe (1000), Vitality Booster (1000) and 800g recipe. Total cost increased from 3100 to 3600
+Recipe changed. Now requires Aether Lens (2275), Ghost Scepter (1500) and a 1600g recipe. Total cost increased from 4650 to 5375
+Recipe changed. Now requires Ultimate Orb (2800), Point Booster (1200) and a 1300g recipe.
+Recipe changed. Now requires Reaver (2800), Ring of Tarrasque (1800) and a 600g recipe. Total cost unchanged
+Recipe changed. Now requires Helm of the Dominator (2625), Ultimate Orb (2800) and a 775g recipe. Total cost decreased from 6400 to 6200
+Recipe changed. Now requires Diadem (1000), Magic Wand (450) and a 900g recipe. Total cost decreased from 2400 to 2350
+Recipe changed. Now requires Ultimate Orb (2800), Perseverance (1400) and a 600g recipe. Total cost increased from 4600 to 4800
+Recipe changed. Now also requires Gloves of Haste (450). Total cost increased from 2700 to 2950
+Recipe changed. Now requires Yasha (2050), Diadem (1000) and a 1550g recipe. Total cost unchanged
+Recipe changed. Now requires Morbid Mask (900) and Broadsword (1000). Total cost increased from 1775 to 1900
+Recipe changed. Now requires Crown (450), Kaya (2050) and a 800g recipe. Total cost increased from 2400 to 3300
+Recipe changed. Now requires Blitz Knuckles (1000), Sage's Mask (175) and Robe of the Magi (450). Total cost increased from 1500 to 1625
+Recipe changed. Now requires Tiara of Selemene (1800) and Soul Booster (3000). Total cost increased from 4600 to 4800
+Recipe changed. Now requires Orb of Venom (275), Ring of Protection (175) and Gloves of Haste (450). Total cost decreased from 925 to 900
+Recipe changed. Now requires Oblivion Staff (1625), Cornucopia (1200) and a 650g recipe. Total cost unchanged
+Recipe changed. Now requires Energy Booster (800), Ring of Protection (175), Fluffy Hat (250) and a 175g recipe. Total cost unchanged
+Recipe changed. Now requires a 200g recipe instead of a Sage's Mask (175). Total cost increased from 2375 to 2400
+Recipe changed. Now requires Cloak (800), Headdress (425), Ring of Tarrasque (1800) and a 700g recipe. Total cost increased from 3375 to 3725
+Recipe changed. Now requires Cornucopia (1200), Ring of Tarrasque (1800), Tiara of Selemene (1800) and a 200g recipe. Total cost unchanged
+Recipe changed. Now requires Sacred Relic (3400), Voodoo Mask (700) and a 800g recipe. Total cost decreased from 6200 to 4900
+Recipe changed. Now requires Mystic Staff (2800), Tiara of Selemene (1800) and a 600g recipe. Total cost decreased from 5550 to 5200
+Recipe changed. Now requires Veil of Discord (1725), Platemail (1400) and a 1700g recipe. Total cost decreased from 4850 to 4825
+Recipe changed. Now requires Shadow Blade (3000), Demon Edge (2200) and a 250g recipe. Total cost unchanged
+Recipe changed. Now requires Pavise (1400), Crown (450), Wind Lace (250) and a 600g recipe. Total cost increased from 2425 to 2700
+Shine can no longer be cast on enemies
+Recipe changed. Now requires Helm of Iron Will (975), Crown (450) and a 300g recipe. Total cost increased from 1525 to 1725
+Magic Weakness is now untargetable, applying a debuff to all enemies within 900 radius from caster
+Recipe changed. Now requires Oblivion Staff (1625), Chainmail (550) and a 600g recipe. Total cost increased from 2600 to 2775
+Returning Reworked Item
+Reworked Tier 1 Neutral item
+Provides +50 Health and +50 Mana
+Active: Consume. Consumes all charges of Jelly and grants a target allied unit a buff that provides +2 Health Regen and +1 Mana Regen per charge for 10s. If the target takes damage from Roshan or an enemy hero, the effect is lost. Max Charges: 10. Charge Restore Time: 8s. Cooldown: 12s
+Returning Reworked Item
+Returning Tier 3 Neutral item
+Armor bonus decreased from 12 to 6
+No longer decreases Attack Speed by 35
+Active: Toughen Up. Increases armor by an additional 12 at the cost of -30 movement speed. Duration: 8s. Cooldown: 12s
+Returning Item
+Now is a Tier 5 Neutral item
+Level 10 Talent +7 Strength replaced with Aphotic Shield provides +15 HP Regen
+Level 15 Talent +55 Damage replaced with +80 Curse of Avernus DPS
+Level 20 Talent +4s Ice Vortex Duration replaced with +5s Ice Blast Frostbitten Duration
+Level 10 Talent +10 Berserker's Call Armor replaced with +4s Culling Blade Speed Bonus Duration
+Level 20 Talent +35 Boar Attack Damage replaced with +30 Boar and Hawk Damage
+Damage type changed from Pure to Magical
+Level 15 Talent Half Track Bonus Speed to Allies replaced with to +45 Track Gold
+Level 25 Talent +250 Track Gold replaced with No Cooldown on Jinada
+Level 10 Talent +20 Damage replaced with +25 Attack Speed
+Ability reworked
+Passively provides an aura that increases Health Regen by 1/2/3/4 to all allied units within 1200 range. Can be cast on any ally within aura to provide them with 12/16/20/24 armor and increase any healing they receive by 20%. Effect duration: 6s. Self-casting also teleports any units under Chen's control to him after a 6 second delay. If a controlled unit takes damage from an enemy hero, its teleportation is canceled. Cooldown: 20/18/16/14s
+No longer self stuns after duration. Instead it slows Clockwerk's movement and attack speed by 100%
+Level 20 Talent Crypt Swarm applies 50% slow for 1s replaced with +15% Silence Move Speed Slow
+Level 15 Talent Gust Reveals Invisible Units replaced with +20% Lifesteal
+Level 10 Talent +8% Magic Resistance replaced with +10 Enchanted Creep Armor
+Eidolons now preserve their commanded attack target when they split
+Ability reworked
+Now always shoots 3 missile strikes in the vector targeted direction, but with a single missile per strike
+Each missile deals 250/400/550 damage and slows enemy movement by 50% for 4s
+Delay between strikes increased from 0.75s to 1s
+Strike Radius decreased from 600 to 400
+Mana Cost increased from 125 to 150/200/250
+Level 25 Talent 3x Call Down replaced with -30s Call Down Cooldown and Global Range
+Aghanim's Shard reworked. Now increases Blade Fury Radius by 100 and slows enemies movement speed by 35%
+Level 10 Talent +100 Blade Fury Radius replaced with +150 Healing Ward Radius
+Level 10 Talent +5 All Stats replaced with +10% Blade Dance Crit Damage
+Level 15 Talent +100 Blade Fury DPS replaced with +30 Movement Speed During Blade Fury
+Level 20 Talent Chakra Magic Dispels replaced with +1.5s Solar Bind Stun when target is fully slowed
+Level 25 Talent +1.2s Blinding Light Stun replaced with Chakra Magic Strong Dispels
+Level 20 Talent +65 Torrent AoE replaced with -4s Torrent Cooldown
+Level 10 Talent +8 Duel Bonus Damage replaced with +8% Press The Attack Movement Speed
+Level 20 Talent +11% Spell Amplification replaced with +5 Laguna Blade Supercharge Stacks
+Level 25 Talent Laguna Blade damage is Pure replaced with +150% Crit On Targets Affected By Dragon Slave (only affects Lina's attacks)
+Level 25 Talent Mana Drain Deals Damage replaced with +100% Mana Drain Damage
+No longer toggles off Bulwark if cast while Bulwark is active
+Damage type changed from Pure to Magical
+Level 20 Talent +45 Damage replaced with +20% Critical Strike (200% Damage)
+Level 10 Talent +0.2s Mischief Invulnerability Duration replaced with +75 Primal Spring Max Damage
+Level 10 Talent +6% Spell Amplification replaced with +75 Vendetta Damage
+Level 15 Talent +250 Health replaced with +2/0.01 Dumb Luck Max Mana/Mana Regen Per Strength
+Ability reworked
+Now a single target ability with a 900 Cast Range
+Mana Cost decreased from 150/200/250 to 100/150/200
+160/140/120s Cooldown replaced with 2 Charges. Charge Restore Time: 80/70/60s
+Aghanim's Scepter reworked. Now grants an additional charge, increased cast range to global and always casts Guardian Angel on Omniknight as well as the target
+Level 15 Talent -30s Guardian Angel Cooldown replaced with -15s Guardian Angel Charge Restore Time
+Level 15 Talent +80 Fortune's End Damage replaced with +60 Enemy Damage/Ally Heal Per Effect Dispelled by Fortune's End
+Level 20 Talent +20 Strength replaced with +20% Spell Lifesteal
+Damage type changed from Magical to Physical
+Cooldown in Ball form is now always decreased to 9/6/3s
+Level 15 Talent 3s Shield Crash CD in Ball replaced with +80 Shield Crash Barrier Per Hero
+Level 20 Talent +100 Shield Crash Barrier Per Hero replaced with +125 Shield Crash Radius
+Damage type changed from Pure to Physical
+Level 10 Talent +8 Strength replaced with +10 Phantom Rush Agility
+Level 10 Talent +6% Spell Amplification replaced with +20 Icarus Dive Damage Per Second
+Level 10 Talent +20 Movement Speed replaced with +10% Decrepify Movement Speed To Allies
+Level 10 Talent +8 Strength replaced with +10 Shadow Strike Heal Per Tick
+Level 10 Talent +14 Agility replaced with +10% Spell Lifesteal
+Level 15 Talent +14 Strength replaced with Static Link Steal 1 Armor per Second
+Level 20 Talent +240 Telekinesis Land Distance replaced with -4s Telekinesis Cooldown
+Level 25 Talent -12s Telekinesis Cooldown replaced with +400 Telekinesis Land Distance
+Level 10 Talent -2s Hex Cooldown replaced with +10% Hex Damage Amplification
+Now deals Magic Damage that doesn't pierce Debuff Immunity. This makes its damage affect Debuff Immune enemies, but it will be reduced by their Magic Resistance
+Now only triggers one cast of Spectral Dagger per illusion
+Now only triggers one cast of Spectral Dagger per illusion
+Level 10 Talent +5 All Attributes replaced with -100 Desolate Ally Radius
+Level 20 Talent +25% Greater Bash Damage replaced with +17% Greater Bash Chance
+Level 20 Talent 200 Charge of Darkness Bonus Speed replaced with Bulldoze Grants 400 All Damage Barrier
+Level 25 Talent +20% Greater Bash Chance replaced with +25% Greater Bash Damage
+Level 25 Talent Bulldoze 500 All Damage Barrier replaced with +200 Charge of Darkness Bonus Speed
+Level 10 Talent +20 Attack Speed replaced with +150 Attack Range when Overloaded
+Level 20 Talent +8% Warcry Movement Speed replaced with +20% God's Strength Slow Resistance
+Wave effect now follows Terrorblade and disappears if he is killed
+Level 15 Talent +275 Health replaced with -20s Metamorphosis Cooldown
+Level 10 Talent +200 Health replaced with +0.2 Reactive Armor Regeneration Per Stack
+Level 15 Talent +6 Reactive Armor Stacks and Duration replaced with +6 Max / +1 Hero Attack Reactive Armor Stacks
+Now allows Troll Warlord to receive movement orders if there are no valid targets within range
+Now takes Undying into account when counting nearby units
+Level 20 Talent -15s Nether Swap Cooldown replaced with Wave of Terror Steals 20% of Reduced Damage and Armor
+Level 25 Talent +40% Nether Swap Damage Reduction replaced with -18s Nether Swap Cooldown
+Damage is now calculated before reductions
+Level 10 Talent +225 Windrun Radius replaced with +20% Powershot Slow
+Level 25 Talent +1.5% Max Health Voodoo Restoration Heal/Damage replaced with +2% Max Health Voodoo Restoration Heal
