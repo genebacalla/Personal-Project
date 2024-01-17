@@ -1,0 +1,106 @@
+Pierce Damage decreased from 70 to 60
+Cost increased from 2050 to 2800
+Intelligence bonus decreased from +32 to +15. Mana Regen bonus decreased from +5 to +3. Damage bonus decreased from +35 to +10
+Magic Resistance bonus decreased from +35% to +25%
+Total cost increased from 4500 to 4700
+Intelligence bonus decreased from +16 to +10
+All Attributes bonus decreased from +10 to +9
+Chain Lightning damage decreased from 135 to 120
+Total cost increased from 2500 to 2625 (due to Oblivion Staff changes)
+Agility and Strength bonuses decreased from +8 to +6
+Meteor Hammer Damage Over Time for both Units and Buildings decreased from 60 to 50
+Meteor Hammer Building Impact Damage decreased from 95 to 90
+Meteor Hammer Unit Impact Damage decreased from 150 to 130
+Recipe cost increased from 600 to 800 (total cost unchanged)
+Damage bonus decreased from +20 to +10
+Intelligence bonus decreased from +35 to +30
+Intelligence bonus decreased from +30 to +8
+Magic Weakness Spell Damage Amplification decreased from +18% to +10%
+Level 15 Talent Magnetic Field Attack Speed/Bonus Damage decreased from +25 to +20
+Level 25 Talent Tempest Double Duration decreased from +12s to +10s
+Bonus Armor decreased from 25 to 16/19/22/25
+Max Health Damage per second decreased from 1.8% to 1.5%
+Earth Brewling's Demolish Bonus Building Damage decreased from 90/180/270 to 90/170/250
+Aghanim's Shard Stack Limit decreased from 7 to 6
+Aghanim's Scepter Cooldown increased from 20s to 24s
+Stomp Damage decreased from 120/180/240/300 to 90/160/230/300
+Level 15 Talent Double Edge Strength Damage decreased from +40% to +35%
+Critical Lifesteal decreased from 30/40/50/60% to 24/36/48/60%
+Initial Heal reduced from 200/300/400 to 150/250/350
+Mana Cost decreased from 45 to 40
+Cooldown decreased from 22s to 17s
+Level 20 Talent Shadow Realm Duration decreased from +2s to +1.5s
+Current Health as Damage decreased from 5/7/9/11% to 4/6/8/10%
+Radius decreased from 650 to 600
+Aghanim's Shard Damage/Heal bonus decreased from 40% to 30%
+Cooldown increased from 70/60/50s to 70/65/60s
+Level 10 Talent Ink Swell Cooldown Reduction decreased from 5s to 4s
+Level 15 Talent Ink Swell Movement Speed bonus decreased from +14% to +12%
+Base Damage decreased by 1
+Start Radius decreased from 225 to 150. End Radius is unchanged
+Movement Slow decreased from 28/32/36/40% to 25/30/35/40%
+Attack Slow decreased from 28/32/36/40 to 25/30/35/40
+Level 10 Talent Attack Range decreased from +250 to +200
+Mana Cost increased from 250 to 275
+Minimum spawn distance decreased from 300 to 115
+Movement Slow decreased from 30% to 25%
+Level 10 Talent Frost Blast Radius and Damage decreased from +150 to +125
+Movement Speed bonus decreased from 15/16/17/18% to 9/12/15/18%
+Strength gain decreased from 2.0 to 1.8
+Bear Armor decreased from 3/4/5/6 to 0/2/4/6
+Radius decreased from 375 to 350
+Level 15 Talent Spirit Bear Armor decreased from +8 to +7
+Level 15 Talent Savage Roar Cooldown Reduction decreased from 8s to 7s
+Damage decreased from 90/180/270/360 to 70/140/210/280
+Cooldown decreased from 100/80/60 to 90/75/60
+Distance decreased from 1000 to 800
+Bonus Attack Damage decreased from 70/110/150 to 70/100/130
+Strength gain decreased from 2.6 to 2.4
+Level 10 Talent Rip Tide Damage decreased from +30 to +25
+Agility gain decreased from 3.4 to 3.2
+Mana Cost increased from 100/120/140/160 to 115/130/145/160
+Aghanim's Scepter Health Regen to Decay decreased from 55% to 50%
+Level 20 Talent Heartstopper Regen Reduction decreased from +30% to +25%
+Aghanim's Shard Max Health Restore decreased from 35% to 30%
+Level 15 Talent Dark Ascension Damage decreased from +35 to +30
+Level 10 Talent Ignite DPS decreased from +16 to +15
+Cast Range decreased from 700/850/1000 to 700/800/900
+Intelligence gain decreased from 2.0 to 1.8
+Level 15 Talent Spirit Lance Cooldown Reduction decreased from 1.5s to 1s
+Aghanim's Shard Movement Speed Slow decreased from 12% to 10%
+Fragment Flight Distance decreased from 600 to 525
+Base Agility decreased from 24 to 21
+Cooldown increased from 35s to 40s
+Aghanim's Scepter Radius decreased from 400 to 375
+Damage Drain Rate decreased from 7/12/17/22 to 5/10/15/20
+Aghanim's Shard Throw Distance decreased from +50% to +35%
+Base Intelligence decreased from 19 to 17
+Base Damage decreased from 70/90/110/130 to 50/70/90/110
+Level 10 Talent Sand Storm Damage Per Second decreased from +20 to +15
+Illusion Damage decreased from 30/45/60/75% to 20/30/40/50%
+Aghanim's Shard Serpent Wards Duration decreased from 7s to 6s
+Radius decreased from 350 to 325
+Level 20 Talent Slithereen Crush Damage decreased from +150 to +125
+Level 25 Talent Slithereen Crush Cooldown Reduction decreased from 4s to 3s
+Base Health Regen decreased from 2.0 to 1.0
+Minimum Radius decreased from 400 to 300
+Movement Speed bonus decreased from 10/15/20/25% to 8/12/16/20%
+Attacks to Destroy decreased from 5 to 4
+Cast Range decreased from 600 to 450
+Range decreased from 2000 to 1500
+Aghanim's Shard Movement Speed bonus decreased from +15% to +8%
+Heal per second decreased from 3/4/5/6 to 2/3/4/5
+Mana Cost increased from 50 to 55
+Level 10 Talent Nature's Grasp Cooldown Reduction decreased from 5s to 4s
+Critical Damage decreased from 250/325/400% to 200/275/350%
+Aghanim's Shard Stun Duration on Tombstone's destruction decreased from 3s to 2s
+Slow Duration decreased from 6s to 4s
+Level 15 Talent Poison Sting Slow decreased from +8% to +6%
+Base Strength decreased from 24 to 22
+Mana Cost increased from 110/120/130/140 to 120/130/140/150
+Level 10 Talent Strength decreased from +9 to +8
+Cooldown increased from 180/140/100s to 180/150/120s
+Aghanim's Shard Additional Skeletons decreased from +3 to +2
+Aghanim's Scepter Cooldown Reduction decreased from 30s to 15s
+Level 15 Talent Skeletons Attack Damage decreased from +26 to +23
+Level 20 Talent Minimum Skeletons Spawned decreased from +6 to +5

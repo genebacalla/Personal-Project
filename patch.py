@@ -24,9 +24,16 @@ for li in soup.find_all('li'):
         if (li.find("span")):
             continue
 
+        #print(img_tag.get('alt'),)
+        #print("\n")
 
-        img_tag.get('alt')
-        print(li.text.strip())
-        print("\n")
+        if (img_tag.get('alt') == "Buff"):
+            file_name = "buff_data.txt"
+
+        elif (img_tag.get('alt')== "Nerf"):
+            file_name = "nerf_data.txt"
+
+        with open (f"dataset/{file_name}","a",encoding="utf-8", newline='') as f:
+            f.write(li.text.strip() + "\n")
 
     
