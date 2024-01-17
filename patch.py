@@ -7,7 +7,7 @@ import os
 
 # <li><img alt = "">
 
-data_list = []
+alt_target = ["Buff","Nerf"]
 
 url = "https://liquipedia.net/dota2/Version_7.35"
 resp = requests.get(url)
@@ -18,13 +18,15 @@ soup = BeautifulSoup(html_content,'html.parser')
 for li in soup.find_all('li'):
     #img = li.find('img')
 
-    if(li.find('img',alt='Buff') or li.find('img',alt='Nerf')):
-        img = li.find('img',alt='Buff')
-        #a_tag = li.find("a")
+    img_tag = li.find('img',alt=lambda value: value in alt_target)
+    if(img_tag):
+    
+        if (li.find("span")):
+            continue
 
-        if (img):
-            print(img)
-            print(li.text)
-            print("\n")
+
+        img_tag.get('alt')
+        print(li.text.strip())
+        print("\n")
 
     
