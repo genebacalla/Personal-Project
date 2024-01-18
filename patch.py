@@ -9,7 +9,7 @@ import os
 
 alt_target = ["Buff","Nerf","Rework"]
 
-url = "https://liquipedia.net/dota2/Version_7.35"
+url = "https://liquipedia.net/dota2/Version_7.34e"
 resp = requests.get(url)
 html_content = resp.content
 
@@ -21,21 +21,15 @@ for li in soup.find_all('li'):
 
     img_tag = li.find('img',alt=lambda value: value in alt_target)
     if(img_tag):
-    
-        # There are cases when a list contains a
-
-
-        #print(img_tag.get('alt'),)
-        #print("\n")
 
         if (img_tag.get('alt') == "Buff"):
-            file_name = "buff_data.txt"
+            file_name = "buff.txt"
 
         elif (img_tag.get('alt')== "Nerf"):
-            file_name = "nerf_data.txt"
+            file_name = "nerf.txt"
 
         elif (img_tag.get('alt')== "Rework"):
-            file_name = "rework_data.txt"
+            file_name = "rework.txt"
 
 
         with open (f"dataset/{file_name}","a",encoding="utf-8", newline='') as f:

@@ -104,3 +104,39 @@ Aghanim's Shard Additional Skeletons decreased from +3 to +2
 Aghanim's Scepter Cooldown Reduction decreased from 30s to 15s
 Level 15 Talent Skeletons Attack Damage decreased from +26 to +23
 Level 20 Talent Minimum Skeletons Spawned decreased from +6 to +5
+Base Charge Restore Time increased from 100s to 110s
+Recipe cost increased from 1300 to 1400. Total cost increased from 5100 to 5200
+Strength bonus decreased from +40 to +35
+Damage per second decreased from 12/20/28/36 to 12/18/24/30
+Frostbitten Duration decreased from 10/11/12s to 10s
+Max Damage decreased from 550 to 500
+Damage Threshold increased from 225 to 300/275/250/225
+Cast Range decreased from 1500 to 1000
+Cooldown increased from 10s to 13s
+Level 20 Talent Quill Spray Stack Damage decreased from +25 to +20
+Base Damage decreased by 5
+Lifesteal penalty against creeps increased from 40% to 70%
+Mana Cost increased from 75/125/175 to 100/200/300
+Cooldown increased from 20/18/16/14s to 22/20/18/16s
+Cooldown decreased from 26/24/22/20s to 24/22/20/18s
+Duration decreased from 5s to 4s
+Cooldown increased from 70s to 75s
+Damage decreased from 250 to 180
+Duration decreased from 7/8/9/10s to 5/6/7/8s
+Movement Slow decreased from 30% to 15/20/25/30%
+Mana Cost increased from 50 to 75
+Regen Duration decreased from 8s to 7s
+Aghanim's Scepter Health Regen to Decay decreased from 60% to 55%
+Cooldown increased from 16s to 19s
+Mana Cost increased from 90/85/80/75 to 90
+Cooldown increased from 36/32/28s to 40/36/32s
+Level 25 Talent Pulverize Duration decreased from +100% to +67%
+Base Armor decreased by 1
+Cooldown increased from 21/18/15/12s to 22/19/16/13s
+Aghanim's Scepter Cooldown increased from 8s to 9s
+Damage multiplier against creeps decreased from 1.5x to 1.3x
+Mana Cost decreased from 120 to 90/100/110/120
+Damage/Heal per second decreased from 25/40/55/70 to 20/35/50/65
+Cooldown increased from 7/5.5/4/2.5s to 8.5/6.5/4.5/2.5s
+Damage multiplier against creeps decreased from 2.0x to 1.5x
+Skeleton Damage decreased by 3

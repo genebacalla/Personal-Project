@@ -180,3 +180,20 @@ Cast Range increased from 700/750/800 to 800
 Mana Cost decreased from 250 to 200/225/250
 Heal increased from 10/22/34/46 to 20/30/40/50
 Level 20 Talent Cleave increased from +25% to +35%
+Magic Resistance bonus increased from +30% to +35%
+Vladmir's Aura Armor increased from 3 to 4
+Protect Cooldown decreased from 18s to 16s
+Vladmir's Aura Armor increased from 3 to 4
+Cooldown decreased from 200/180/160s to 180/170/160s
+Rocket Damage increased from 6/12/18/24 to 8/14/20/26
+Bonus Damage increased from 30/40/50 to 40/45/50
+Damage Delayed decreased from 45% to 35%
+Slow Duration increased from 0.4/0.6/0.8/1.0s to 0.45/0.7/0.95/1.2s
+Cast Range increased from 575 to 650
+Base Agility increased from 16 to 18
+Agility gain increased from 1.4 to 1.8
+Cast Range increased from 700 to 1000
+Damage Amplification increased from 5/10/15/20% to 10/15/20/25%
+Stat Loss Percent increased from 10% to 13%
+Base Movement Speed decreased from 285 to 280
+Base Heal per second increased from 30/35/40/45 to 40/45/50/55

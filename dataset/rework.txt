@@ -129,3 +129,6 @@ Level 25 Talent +40% Nether Swap Damage Reduction replaced with -18s Nether Swap
 Damage is now calculated before reductions
 Level 10 Talent +225 Windrun Radius replaced with +20% Powershot Slow
 Level 25 Talent +1.5% Max Health Voodoo Restoration Heal/Damage replaced with +2% Max Health Voodoo Restoration Heal
+No longer affects any Blink Dagger's 3s mute period after taking damage
+Cooldown now begins when the current roll is completed
+Now prioritizes heroes within its attack range over creeps
