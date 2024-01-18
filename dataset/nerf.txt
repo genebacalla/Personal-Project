@@ -1,142 +1,834 @@
-Pierce Damage decreased from 70 to 60
-Cost increased from 2050 to 2800
-Intelligence bonus decreased from +32 to +15. Mana Regen bonus decreased from +5 to +3. Damage bonus decreased from +35 to +10
-Magic Resistance bonus decreased from +35% to +25%
-Total cost increased from 4500 to 4700
-Intelligence bonus decreased from +16 to +10
-All Attributes bonus decreased from +10 to +9
-Chain Lightning damage decreased from 135 to 120
-Total cost increased from 2500 to 2625 (due to Oblivion Staff changes)
-Agility and Strength bonuses decreased from +8 to +6
-Meteor Hammer Damage Over Time for both Units and Buildings decreased from 60 to 50
-Meteor Hammer Building Impact Damage decreased from 95 to 90
-Meteor Hammer Unit Impact Damage decreased from 150 to 130
-Recipe cost increased from 600 to 800 (total cost unchanged)
-Damage bonus decreased from +20 to +10
-Intelligence bonus decreased from +35 to +30
-Intelligence bonus decreased from +30 to +8
-Magic Weakness Spell Damage Amplification decreased from +18% to +10%
-Level 15 Talent Magnetic Field Attack Speed/Bonus Damage decreased from +25 to +20
-Level 25 Talent Tempest Double Duration decreased from +12s to +10s
-Bonus Armor decreased from 25 to 16/19/22/25
-Max Health Damage per second decreased from 1.8% to 1.5%
-Earth Brewling's Demolish Bonus Building Damage decreased from 90/180/270 to 90/170/250
-Aghanim's Shard Stack Limit decreased from 7 to 6
-Aghanim's Scepter Cooldown increased from 20s to 24s
-Stomp Damage decreased from 120/180/240/300 to 90/160/230/300
-Level 15 Talent Double Edge Strength Damage decreased from +40% to +35%
-Critical Lifesteal decreased from 30/40/50/60% to 24/36/48/60%
-Initial Heal reduced from 200/300/400 to 150/250/350
-Mana Cost decreased from 45 to 40
-Cooldown decreased from 22s to 17s
-Level 20 Talent Shadow Realm Duration decreased from +2s to +1.5s
-Current Health as Damage decreased from 5/7/9/11% to 4/6/8/10%
-Radius decreased from 650 to 600
-Aghanim's Shard Damage/Heal bonus decreased from 40% to 30%
-Cooldown increased from 70/60/50s to 70/65/60s
-Level 10 Talent Ink Swell Cooldown Reduction decreased from 5s to 4s
-Level 15 Talent Ink Swell Movement Speed bonus decreased from +14% to +12%
-Base Damage decreased by 1
-Start Radius decreased from 225 to 150. End Radius is unchanged
-Movement Slow decreased from 28/32/36/40% to 25/30/35/40%
-Attack Slow decreased from 28/32/36/40 to 25/30/35/40
-Level 10 Talent Attack Range decreased from +250 to +200
-Mana Cost increased from 250 to 275
-Minimum spawn distance decreased from 300 to 115
-Movement Slow decreased from 30% to 25%
-Level 10 Talent Frost Blast Radius and Damage decreased from +150 to +125
-Movement Speed bonus decreased from 15/16/17/18% to 9/12/15/18%
-Strength gain decreased from 2.0 to 1.8
-Bear Armor decreased from 3/4/5/6 to 0/2/4/6
-Radius decreased from 375 to 350
-Level 15 Talent Spirit Bear Armor decreased from +8 to +7
-Level 15 Talent Savage Roar Cooldown Reduction decreased from 8s to 7s
-Damage decreased from 90/180/270/360 to 70/140/210/280
-Cooldown decreased from 100/80/60 to 90/75/60
-Distance decreased from 1000 to 800
-Bonus Attack Damage decreased from 70/110/150 to 70/100/130
-Strength gain decreased from 2.6 to 2.4
-Level 10 Talent Rip Tide Damage decreased from +30 to +25
-Agility gain decreased from 3.4 to 3.2
-Mana Cost increased from 100/120/140/160 to 115/130/145/160
-Aghanim's Scepter Health Regen to Decay decreased from 55% to 50%
-Level 20 Talent Heartstopper Regen Reduction decreased from +30% to +25%
-Aghanim's Shard Max Health Restore decreased from 35% to 30%
-Level 15 Talent Dark Ascension Damage decreased from +35 to +30
-Level 10 Talent Ignite DPS decreased from +16 to +15
-Cast Range decreased from 700/850/1000 to 700/800/900
-Intelligence gain decreased from 2.0 to 1.8
-Level 15 Talent Spirit Lance Cooldown Reduction decreased from 1.5s to 1s
-Aghanim's Shard Movement Speed Slow decreased from 12% to 10%
-Fragment Flight Distance decreased from 600 to 525
-Base Agility decreased from 24 to 21
-Cooldown increased from 35s to 40s
-Aghanim's Scepter Radius decreased from 400 to 375
-Damage Drain Rate decreased from 7/12/17/22 to 5/10/15/20
-Aghanim's Shard Throw Distance decreased from +50% to +35%
-Base Intelligence decreased from 19 to 17
-Base Damage decreased from 70/90/110/130 to 50/70/90/110
-Level 10 Talent Sand Storm Damage Per Second decreased from +20 to +15
-Illusion Damage decreased from 30/45/60/75% to 20/30/40/50%
-Aghanim's Shard Serpent Wards Duration decreased from 7s to 6s
-Radius decreased from 350 to 325
-Level 20 Talent Slithereen Crush Damage decreased from +150 to +125
-Level 25 Talent Slithereen Crush Cooldown Reduction decreased from 4s to 3s
-Base Health Regen decreased from 2.0 to 1.0
-Minimum Radius decreased from 400 to 300
-Movement Speed bonus decreased from 10/15/20/25% to 8/12/16/20%
-Attacks to Destroy decreased from 5 to 4
-Cast Range decreased from 600 to 450
-Range decreased from 2000 to 1500
-Aghanim's Shard Movement Speed bonus decreased from +15% to +8%
-Heal per second decreased from 3/4/5/6 to 2/3/4/5
-Mana Cost increased from 50 to 55
-Level 10 Talent Nature's Grasp Cooldown Reduction decreased from 5s to 4s
-Critical Damage decreased from 250/325/400% to 200/275/350%
-Aghanim's Shard Stun Duration on Tombstone's destruction decreased from 3s to 2s
-Slow Duration decreased from 6s to 4s
-Level 15 Talent Poison Sting Slow decreased from +8% to +6%
-Base Strength decreased from 24 to 22
-Mana Cost increased from 110/120/130/140 to 120/130/140/150
-Level 10 Talent Strength decreased from +9 to +8
-Cooldown increased from 180/140/100s to 180/150/120s
-Aghanim's Shard Additional Skeletons decreased from +3 to +2
-Aghanim's Scepter Cooldown Reduction decreased from 30s to 15s
-Level 15 Talent Skeletons Attack Damage decreased from +26 to +23
-Level 20 Talent Minimum Skeletons Spawned decreased from +6 to +5
-Base Charge Restore Time increased from 100s to 110s
-Recipe cost increased from 1300 to 1400. Total cost increased from 5100 to 5200
-Strength bonus decreased from +40 to +35
-Damage per second decreased from 12/20/28/36 to 12/18/24/30
-Frostbitten Duration decreased from 10/11/12s to 10s
-Max Damage decreased from 550 to 500
-Damage Threshold increased from 225 to 300/275/250/225
-Cast Range decreased from 1500 to 1000
-Cooldown increased from 10s to 13s
-Level 20 Talent Quill Spray Stack Damage decreased from +25 to +20
-Base Damage decreased by 5
-Lifesteal penalty against creeps increased from 40% to 70%
-Mana Cost increased from 75/125/175 to 100/200/300
-Cooldown increased from 20/18/16/14s to 22/20/18/16s
-Cooldown decreased from 26/24/22/20s to 24/22/20/18s
-Duration decreased from 5s to 4s
-Cooldown increased from 70s to 75s
-Damage decreased from 250 to 180
-Duration decreased from 7/8/9/10s to 5/6/7/8s
-Movement Slow decreased from 30% to 15/20/25/30%
-Mana Cost increased from 50 to 75
-Regen Duration decreased from 8s to 7s
-Aghanim's Scepter Health Regen to Decay decreased from 60% to 55%
-Cooldown increased from 16s to 19s
-Mana Cost increased from 90/85/80/75 to 90
-Cooldown increased from 36/32/28s to 40/36/32s
-Level 25 Talent Pulverize Duration decreased from +100% to +67%
-Base Armor decreased by 1
-Cooldown increased from 21/18/15/12s to 22/19/16/13s
-Aghanim's Scepter Cooldown increased from 8s to 9s
-Damage multiplier against creeps decreased from 1.5x to 1.3x
-Mana Cost decreased from 120 to 90/100/110/120
-Damage/Heal per second decreased from 25/40/55/70 to 20/35/50/65
-Cooldown increased from 7/5.5/4/2.5s to 8.5/6.5/4.5/2.5s
-Damage multiplier against creeps decreased from 2.0x to 1.5x
-Skeleton Damage decreased by 3
+Pierce Damage decreased
+Cost increased
+Intelligence bonus decreased Mana Regen bonus decreased Damage bonus decreased
+Magic Resistance bonus decreased
+Total cost increased
+Intelligence bonus decreased
+Attributes bonus decreased
+Chain Lightning damage decreased
+Total cost increased due Oblivion Staff changes
+Agility Strength bonuses decreased
+Meteor Hammer Damage Time Units Buildings decreased
+Meteor Hammer Building Impact Damage decreased
+Meteor Hammer Unit Impact Damage decreased
+Recipe cost increased total cost unchanged
+Damage bonus decreased
+Intelligence bonus decreased
+Intelligence bonus decreased
+Magic Weakness Spell Damage Amplification decreased
+Level Talent Magnetic Field Attack Damage decreased
+Level Talent Tempest Double Duration decreased
+Bonus Armor decreased
+Max Health Damage per second decreased
+Earth Brewling Demolish Bonus Building Damage decreased
+Aghanim Shard Stack Limit decreased
+Aghanim Scepter Cooldown increased
+Stomp Damage decreased
+Level Talent Double Edge Strength Damage decreased
+Critical Lifesteal decreased
+Initial Heal reduced
+Mana Cost decreased
+Cooldown decreased
+Level Talent Shadow Realm Duration decreased
+Current Health Damage decreased
+Radius decreased
+Aghanim Shard bonus decreased
+Cooldown increased
+Level Talent Ink Swell Cooldown Reduction decreased
+Level Talent Ink Swell Movement Speed bonus decreased
+Base Damage decreased
+Start Radius decreased End Radius unchanged
+Movement Slow decreased
+Attack Slow decreased
+Level Talent Attack Range decreased
+Mana Cost increased
+Minimum spawn distance decreased
+Movement Slow decreased
+Level Talent Frost Blast Radius Damage decreased
+Movement Speed bonus decreased
+Strength gain decreased
+Bear Armor decreased
+Radius decreased
+Level Talent Spirit Bear Armor decreased
+Level Talent Savage Roar Cooldown Reduction decreased
+Damage decreased
+Cooldown decreased
+Distance decreased
+Bonus Attack Damage decreased
+Strength gain decreased
+Level Talent Rip Tide Damage decreased
+Agility gain decreased
+Mana Cost increased
+Aghanim Scepter Health Regen Decay decreased
+Level Talent Heartstopper Regen Reduction decreased
+Aghanim Shard Max Health Restore decreased
+Level Talent Dark Ascension Damage decreased
+Level Talent Ignite DPS decreased
+Cast Range decreased
+Intelligence gain decreased
+Level Talent Spirit Lance Cooldown Reduction decreased
+Aghanim Shard Movement Speed Slow decreased
+Fragment Flight Distance decreased
+Base Agility decreased
+Cooldown increased
+Aghanim Scepter Radius decreased
+Damage Drain Rate decreased
+Aghanim Shard Throw Distance decreased
+Base Intelligence decreased
+Base Damage decreased
+Level Talent Sand Storm Damage Per Second decreased
+Illusion Damage decreased
+Aghanim Shard Serpent Wards Duration decreased
+Radius decreased
+Level Talent Slithereen Crush Damage decreased
+Level Talent Slithereen Crush Cooldown Reduction decreased
+Base Health Regen decreased
+Minimum Radius decreased
+Movement Speed bonus decreased
+Attacks Destroy decreased
+Cast Range decreased
+Range decreased
+Aghanim Shard Movement Speed bonus decreased
+Heal per second decreased
+Mana Cost increased
+Level Talent Nature Grasp Cooldown Reduction decreased
+Critical Damage decreased
+Aghanim Shard Stun Duration Tombstone destruction decreased
+Slow Duration decreased
+Level Talent Poison Sting Slow decreased
+Base Strength decreased
+Mana Cost increased
+Level Talent Strength decreased
+Cooldown increased
+Aghanim Shard Additional Skeletons decreased
+Aghanim Scepter Cooldown Reduction decreased
+Level Talent Skeletons Attack Damage decreased
+Level Talent Minimum Skeletons Spawned decreased
+Max Inventory Stacks decreased
+Initial Stock decreased
+Restock Time increased
+Quell Bonus Damage units heroes decreased
+Recipe cost increased Total cost unchanged
+Overwhelming Blink Damage impact decreased Strength Strength
+Intelligence bonus decreased
+Replenish Mana Cooldown increased
+Movement Speed bonus decreased
+Magic Resistance bonus decreased
+Attributes bonus decreased
+Afterburn effect longer applied illusions
+Aquila Aura Bonus Mana Regen decreased
+Strength Magic Resistance bonus decreased
+Mana bonus decreased
+Status Resistance bonus decreased
+Agility bonus decreased
+Movement Speed bonus decreased
+Attributes bonus decreased
+Mana Regen bonus decreased
+Evasion bonus decreased
+Magic Resistance bonus decreased
+Strength bonus decreased
+Intelligence bonus decreased
+Max Stacks decreased
+Duration decreased
+Level Talent Blink Cast Range decreased
+Level Talent Magnetic Field Cooldown Reduction decreased
+Cast Point increased
+Max Health Heal Creeps decreased
+Duration decreased
+Fire Stance Crit Chance decreased
+Base Armor decreased
+Lifesteal creeps reduced
+Impact Damage decreased
+Radius decreased
+Aghanim Scepter Martyrdom Cast Range decreased global
+Cooldown increased
+Cast Range decreased
+Level Talent Tar Bomb Bonus Attack Damage decreased
+Projectile vision range traveling decreased
+Scepter Time Frostbite increased
+Radius decreased
+Mana Cost increased
+Distance Max Power increased
+Health Cost Increase Duration decreased
+Level Talent Multishot Waves decreased talent longer increases total channel time making waves faster
+Radius decreased
+Cast Point increased
+Aghanim Shard Burn Radius decreased
+Base Damage decreased
+Attack Slow decreased
+Targets decreased
+Additional Enemy Search Range decreased
+Cooldown increased
+Level Talent Eidolon Attack Speed decreased
+Base Damage decreased
+Damage level decreased
+Agility gain decreased
+Intelligence gain decreased
+Strength per level decreased
+Agility per level decreased
+Intelligence per level decreased
+Freeze Cooldown decreased
+Aghanim Scepter Bonus Duration decreased
+Mana Restore decreased
+Base Strength decreased
+Base Movement Speed decreased
+Ability reworked Buff permanent Marci ally dispellable upon death buffing another ally Marci lifesteal also heals ally ally lifesteal heals Marci Marci ally apart units Marci receives bonus ally receives bonus buff get closer Bonus Damage decreased Lifesteal decreased Lifesteal reduced vs creeps Cooldown rescaled
+Bonus Damage decreased
+Lifesteal decreased Lifesteal reduced vs creeps
+Strength gain decreased
+Agility gain decreased
+Base Intelligence decreased
+Maximum Bonus Damage decreased
+Physical Body Damage Reduction decreased
+Armor Base Armor decreased
+Bonus Damage decreased
+Damage decreased
+Level Talent Spirit Lance Damage decreased
+Level Talent Spirit Lance Cooldown Reduction decreased
+Bonus Damage per hit decreased
+Level Talent Trample Attack Multiplier decreased
+Bonus Speed decreased
+Base Armor decreased
+Base Damage decreased
+Backstab Agility Damage Multiplier decreased
+Aghanim Shard Bonus Throw Range decreased
+Cast Range decreased
+Aghanim Scepter Burrowstrike spine radius equals Sand Storm current radius Decreased Level talent increases radius
+Decreased Level talent increases radius
+Mana Cost increased
+Cooldown increased
+Mana Cost increased
+Damage decreased
+Base Strength decreased
+Charge Bonus Speed decreased
+Damage decreased
+Level Talent Gush Damage decreased
+Base Damage decreased
+Strength gain decreased
+Mana Cost increased
+Mana Cost increased
+Level Talent Missile Ministun decreased
+Cooldown increased
+Level Talent Firestorm Burn Damage decreased
+Base Damage decreased
+Cooldown increased
+Level Talent Fury Swipes Damage decreased
+Level Talent Poison Sting Health Regen Reduction decreased
+Damage per second decreased
+Phase Duration decreased
+Level Talent Windrun Cooldown Reduction decreased
+Level Talent Focus Fire Kills Advance Cooldown decreased
+Strength gain decreased
+Damage decreased
+Attack Speed Reduction increased
+Mana Cost increased
+Damage decreased
+Envenomed Weapon Health Regen Reduction increased
+Break Cooldown decreased
+Take Movement Speed Penalty decreased
+Chain Lightning Jump Damage Loss decreased
+Ogre Smash Stun Duration decreased
+Hurl Boulder Stun Duration decreased
+War Stomp Stun Duration decreased
+Thunder Clap Cooldown decreased
+Purge Mana Cost decreased
+Hurricane Cooldown decreased
+Tornado Cooldown decreased
+Icefire Bomb Mana Cost decreased
+Max stock decreased
+Restock time increased
+Health Regen bonus decreased
+Mana Regen bonus decreased
+Cost increased
+Magic Resistance bonus decreased
+Insight Aura Magic Resistance decreased
+Bash Stun Duration decreased
+Overwhelm Stun Duration decreased
+Bash Stun Duration decreased
+Damage bonus decreased
+Damage bonus decreased
+Mana Regen bonus decreased
+Damage bonus decreased
+Health Regen bonus decreased
+Guard Duration decreased
+Strength bonus decreased
+Cyclone Cooldown decreased
+Movement Speed bonus decreased
+Mana Regen bonus decreased
+Eternal Chains Radius decreased
+Strength bonus decreased
+Total cost increased
+Dominated Creep Attack Damage Bonus decreased
+Dominated Creep Armor Bonus decreased
+Dominated Creep Movement Speed decreased
+Health Regen bonus decreased
+Mana Regen bonus decreased
+Total cost increased
+Valor Cooldown increased
+Valor Duration decreased
+Shine Duration decreased
+Shine Cooldown increased
+Meteor Hammer Stun Duration decreased
+Health Regen bonus decreased
+Mana Regen bonus decreased
+Damage bonus decreased
+Mana Regen bonus decreased
+Hex Duration decreased
+GPM bonus decreased
+Impeding Corruption Armor Reduction decreased
+Impeding Corruption Movement Slow decreased
+Fallen Sky Stun Duration decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Base Damage decreased
+Damage Damage level decreased
+Damage Damage gain per level increased
+considered damage barrier Stacks additively damage barriers
+Cooldown increased
+Level Talent Borrowed Time Cooldown replaced DPS Borrowed Time Immolation Radius effect Borrowed Time active damages Abaddon enemies
+Duration decreased
+Max Stun Duration decreased
+Stun Duration decreased
+Duration decreased
+Cooldown increased
+Strength Base Strength decreased
+Mana Burned per hit decreased
+Cooldown increased
+Level Talent Blink Cast Range decreased
+Damage Base Damage decreased
+Damage Damage level decreased
+Mana Cost increased
+Duration decreased
+Duration decreased
+Level Talent Fiend Grip Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Application Damage decreased
+Damage per stack decreased
+Slow per stack decreased
+Duration decreased
+Damage Base Damage decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Dive Bomb Aghanim Shard Root Duration decreased
+Stun Duration decreased
+Max Health Damage per second decreased
+Damage Base Damage decreased
+Damage Damage level decreased
+Void Stance Status Resistance decreased
+Void Stance Slow attack decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Base Agility decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Health Regen decreased
+Damage decreased
+Level Talent Spin Web Restore Time decreased
+Stun Duration decreased
+Level Talent Hoof Stomp Stun Duration decreased
+Minimum Stun Duration decreased
+Maximum Stun Duration decreased
+Critical Lifesteal creeps reduced
+Level Talent Chaos Bolt Duration decreased
+Damage Base Damage decreased
+Damage Damage level increased
+Damage Damage gain per level increased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Damage Damage gain per level increased
+Knockback Duration decreased
+Stun Duration decreased
+Damage Base Damage decreased
+Damage Damage level decreased
+Damage Damage gain per level increased
+Base Health Regen increased
+Tick Interval increased
+Max Stun Duration decreased
+Damage Base Damage decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Stun Duration decreased
+Level Talent Cursed Crown Stun Duration decreased
+Smash Stun Duration decreased
+Landing Stun Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level unchanged
+Damage Damage gain per level decreased
+Aghanim Shard Hex Duration decreased
+Min Damage decreased
+Max Damage decreased
+Cooldown increased
+Level Talent Static Storm Duration decreased pulses
+Stun Duration decreased
+Aghanim Shard Base Stun Duration decreased
+Aghanim Shard Bonus Stun Duration decreased
+Aghanim Scepter Radius decreased
+Level Talent Scorched Earth Damage decreased
+Strength Strength gain increased
+Stun Duration decreased
+Level Talent Dragon Tail Stun Duration decreased
+Level Talent Elder Dragon Form Attack Range decreased
+Stun Duration decreased
+Rock Bonus Stun Duration decreased
+Remnant Duration decreased
+Level Talent Rolling Boulder Stun Duration decreased
+Level Talent Fissure Range decreased
+Sleep Duration decreased
+Magic Absorb decreased
+Level Talent Magic Resistance decreased
+Damage Base Damage decreased
+Damage Damage level decreased
+Damage Damage gain per level increased
+Base Mana Regen increased
+Stun Duration decreased
+Aghanim Shard Stun Duration decreased
+Duration decreased
+Duration decreased
+Max Stun Duration decreased
+Level Talent Phantom Embrace DPS increased
+Stun Duration decreased
+Cooldown increased
+Aghanim Shard Area Effect decreased
+Level Talent Homing Missile Stun Duration decreased
+Level Talent Rocket Barrage damage decreased
+Stun Duration decreased
+Lesser Bushwack Duration decreased
+Level Talent Berserker Blood Regen decreased
+Freeze Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Damage Damage level decreased
+Damage Damage gain per level increased
+Max Stun Duration decreased
+Mana Cost increased
+Damage per second decreased
+Level Talent Ice Path Duration decreased
+Duration decreased
+Mana Cost increased
+Radius decreased
+Sleep Duration decreased
+Stun Duration decreased
+Duration decreased
+Aghanim Shard Duration decreased
+Duration decreased
+Aghanim Scepter Duration decreased
+Level Talent Overwhelming Odds Hero Damage decreased
+Stun Duration decreased
+Movement Slow decreased
+Duration decreased
+Level Talent Sinister Gaze Duration decreased
+Armor Base Armor increased
+Stun Duration decreased
+Stun Duration decreased
+Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain increased
+Damage Damage level decreased
+Duration decreased
+Aghanim Shard Ally Bonus Attack Speed decreased
+Aghanim Shard Ally Bonus Movement Speed decreased
+Stun Duration decreased
+Attack Damage Bonus Allies decreased
+Level Talent Lucent Beam Ministun decreased
+Level Talent Lunar Blessing Damage decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Damage Damage gain per level decreased
+Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage level decreased
+Damage gain per level increased
+Mana Cost decreased
+Mana Cost decreased
+Stun Duration decreased
+Level Talent Reverse Polarity Stun Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Stun Duration decreased
+Minimum Jump Distance decreased
+Level Talent Rebound Range decreased
+Level Talent Rebound Stun Duration decreased
+Stun Duration decreased
+Level Talent Spear Mars Stun Duration decreased
+Strength Base Strength decreased
+Strength Strength gain decreased
+Mana Cost decreased
+Scepter Stone Base Duration decreased
+Stone Form duration decreased
+Level Talent Mana Shield Damage per Mana replaced Stone Gaze Bonus Physical Damage
+Level Talent Intelligence replaced Mana Shield Damage per Mana
+Duration decreased
+Max HP Restore decreased
+Damage Base Damage decreased
+Strength Base Strength increased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Damage Damage gain per level increased
+Mana Cost decreased
+Level Talent Adaptive Strike Stun Duration decreased
+Silence Duration decreased
+Duration decreased
+Level Talent Dead Shot Damage decreased
+Base Health Regen decreased
+Damage decreased
+Cooldown increased
+Mana Cost increased
+Cooldown increased
+Treant Duration decreased
+Treant Damage decreased
+Level Talent Death Pulse Heal decreased
+Level Talent Ghost Shroud Slow decreased
+Level Talent Heartstopper Regen Reduction decreased
+Damage Base Damage decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain increased
+Damage Damage level increased
+Damage Damage gain per level increased
+Stun Duration decreased
+Stun Duration decreased
+Level Talent Impale Stun Duration decreased
+Level Talent Spiked Carapace Stun Duration decreased
+Intelligence Base Intelligence decreased
+Intelligence Intelligence gain decreased
+Intelligence Always Intelligence Always
+Damage Base Damage decreased
+Stun Duration decreased
+Stun Duration decreased
+Aghanim Scepter additional duration decreased
+Cooldown increased
+per second decreased
+Damage Base Damage decreased
+Agility Agility gain decreased
+Damage Damage level decreased
+Damage decreased
+Stun Duration decreased
+Cooldown increased
+Level Talent Swashbuckle Slash Range decreased
+Level Talent Swashbuckle Damage decreased
+Level Talent Rolling Thunder Cooldown reduction decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Damage Damage level decreased
+Stun Duration decreased
+Level Talent Supernova Stun Duration decreased
+Stun Duration decreased
+Max Channel Time increased
+Time Max Charge increased
+Min Charge Distance decreased
+Hit Damage decreased
+Stun Duration decreased
+Cooldown increased
+Stun Duration decreased
+Break Stun Duration decreased
+Aghanim Scepter Bonus Damage decreased
+Aghanim Scepter Regen Reduction decreased
+Duration decreased
+Duration creeps decreased
+Level Talent Dismember Duration decreased
+Lift Duration decreased
+Stun Duration decreased
+Level Talent Telekinesis Lift Duration decreased
+Damage Base Damage decreased
+Damage Damage level decreased
+Stun Duration decreased
+Level Talent Burrowstrike Stun Duration decreased
+Cooldown decreased
+Cleanse Aghanim Scepter Max Charges decreased
+Aghanim Shard Fear Duration decreased
+Every enemy hero killed near Shadow Fiend improves armor reduction Duration refreshed hero kill
+Fear Duration per soul hit decreased
+Fear Duration Max decreased
+Level Talent Requiem Souls Fear Duration per line decreased
+Cooldown decreased
+Mana Cost decreased
+Duration decreased
+Duration decreased
+Level Talent Ancient Seal Increased Magic Damage decreased
+Level Talent Mystic Flare Damage decreased
+Stun Duration decreased
+Bash Duration decreased
+Level Talent Corrosive Haze Armor decreased
+Damage decreased
+Cast Range decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Impact Stun Duration decreased
+Stun Duration decreased
+Aghanim Scepter Stun Duration decreased
+Level Talent Headshot Knockback Distance decreased
+Level Talent Spectral Dagger Damage decreased
+Level Talent Haunt Illusion Damage decreased
+Stun Duration decreased
+Stun Duration decreased
+Duration decreased
+Level Talent Electric Vortex Duration decreased
+Damage decreased
+Duration decreased
+Cooldown increased
+Level Talent Storm Hammer Stun Duration decreased
+Aghanim Scepter Upgrade moved Aghanim Shard effect unchanged
+Cast Time increased
+Mana Cost rescaled
+Fear Duration decreased
+Level Talent Sunder Cooldown reduction decreased
+Duration decreased
+Level Talent Ravage Stun Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Damage Damage level decreased
+Cooldown increased
+Cast Range decreased
+Cooldown increased
+Cooldown increased
+Stun Duration decreased
+Snowball Speed decreased
+Mana Cost increased
+Cooldown increased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage gain per level decreased
+Stun Duration decreased
+Base Damage Bonus decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Dispel Stun Duration decreased
+Cast Range increased
+Damage Base damage decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Stun Duration decreased
+Damage Base Damage decreased
+Damage Damage gain per level increased
+Pull Duration decreased
+Stun Duration decreased
+Cooldown decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Intelligence Intelligence gain decreased
+Damage Damage level decreased
+Fail Stun Duration decreased
+Latch Stun Duration decreased
+Level Talent Shackleshot Latch Stun Duration decreased
+Damage Base Damage decreased
+Strength Strength gain decreased
+Strength Agility gain decreased
+Strength Intelligence gain decreased
+Damage Damage level decreased
+Curse Duration decreased
+Level Talent Winter Curse Curse Duration decreased
+Stun Duration decreased
+Stun Duration decreased
+Skeletons deal less damage buildings
+Level Talent Wraithfire Blast Stun Duration decreased
+Base Damage decreased
+Ministun Duration decreased
+Level Talent Lightning Bolt Ministun decreased
+Avatar Mana Cost
+Agility decreased
+Recipe cost increased Total cost decreased Mekansm total cost decreased
+Lifesteal affects creeps value
+Lifesteal affects creeps value
+Lifesteal affects creeps value
+Cooldown increased
+Mana Cost increased
+Mana Cost increased
+Lifesteal affects creeps value
+Lifesteal affects creeps value
+Intelligence decreased
+Lifesteal affects creeps value
+Lifesteal affects creeps value
+Mana Cost increased
+Cooldown increased
+Mana Cost decreased
+Scepter radius decreased
+Level Talent Movement Speed replaced Curse Avernus Movement Slow
+Duration decreased
+Cooldown decreased
+Mana Cost decreased
+Slow decreased
+Strength Strength gain decreased
+Agility Agility gain decreased
+Shard Damage Reduction decreased
+Duration decreased
+Radius decreased
+Damage per stack decreased
+Shard applies Sticky Napalm every second attack
+Slow decreased
+Dive Bomb Cast Range decreased
+Bonus Attack Speed decreased
+Shard enemy Max Health decreased
+Level Talent Bloodrage Attack Speed bonus decreased
+Level Talent Brewling Health decreased
+Attack Damage Bonus per stack decreased
+Level Talent Warpath Damage per Stack decreased
+Bonus Movement Speed decreased
+Armor Base Armor decreased
+Level Talent Holy Persuasion Bonus Damage decreased
+Damage Per Arrow decreased
+Mana Cost increased
+Level Talent Death Pact Bonus Health decreased
+Level Talent Power Cogs Mana Burn replaced Power Cogs Cooldown
+Cooldown increased
+Cast Range increased
+Armor Base Armor decreased
+Cast Range decreased
+Duration decreased
+Level Talent Heal Shallow Grave End decreased
+Movement Speed Base Movement Speed decreased
+passively provides Movement Speed
+Level Talent Spirit Siphon Max Health damage replaced Spirit Siphon
+deals damage upon arrival based distance start end point Min Damage units Max Damage units
+Level Talent Glimpse Arrival Damage replaced Glimpse Max Damage
+Level Talent Bonus Multishot Damage decreased
+Movement Speed Base Movement Speed decreased
+Cooldown increased
+Cooldown decreased
+Level Talent Movement Speed replaced Movement Speed Nature Attendants
+Shard Bonus Range decreased
+Projectile Speed Projectile speed increased
+Level Talent Bushwhack Cooldown reduction decreased
+Scepter Cast Range decreased
+Level Talent Inner Fire Duration decreased
+Duration decreased
+Transfer decreased
+Mana Cost decreased
+Strength Strength gain decreased
+Max Health Damage per Second decreased
+Level Talent Attack Range decreased
+Movement Speed Base Movement Speed decreased
+Heal Radius decreased
+Cooldown increased
+Cast Range increased
+Mana Cost per Second increased
+Level Talent Diabolic Edict Explosions decreased
+Mana Cost decreased
+Level Talent Attack Range replaced Laguna Blade Pure Damage Pierces Spell Immunity
+Level Talent Lucent Beam Cooldown Reduction decreased
+Movement Speed Base Movement Speed decreased
+Magic Resistance decreased
+Permanent Invisibility fade delay increased
+Global cast Night time
+Level Talent Shapeshift Crit replaced Howl Reduces Total Attack Damage
+Base Mana Regen increased
+Cooldown decreased
+Slow duration increased
+Throw Distance decreased
+Ally Movement Speed decreased
+Landing Damage decreased
+Landing effect radius decreased
+Slow duration increased
+Level Talent Split Shot Damage decreased
+Strength Strength gain increased
+Health Steal Creeps decreased
+Health restored decreased
+Agility Agility gain decreased
+Level Talent Tree Dance Vision Range replaced Mischief Damage Immunity
+Strength Base Health Regen decreased
+Armor Base Armor decreased
+Damage Base Damage increased
+Duration decreased
+Level Talent Heavenly Grace Strength Health Regen per Debuff decreased
+Duration decreased
+Proc chance decreased
+Level Talent Rolling Thunder Cooldown Reduction decreased
+Level Talent Fire Spirits Damage Per Second decreased
+Base Health Regen increased
+Level Talent Waning Rift Damage decreased
+Level Talent Waning Rift Cooldown Reduction decreased
+Scepter Bonus Radius decreased
+Mana Cost increased
+Level Talent Flesh Heap Stack Str Damage Block bonuses decreased
+Movement Speed Base Movement Speed decreased
+Buff duration decreased
+Bonus Damage decreased
+Level Talent Smoke Screen Radius decreased
+Damage Base Damage decreased
+Turn Rate increased
+Base Attack Speed decreased
+Attack Time Base Attack Time improved
+Silence damage multiplier decreased
+Penalty Duration increase per cast decreased
+Intelligence multiplier decreased
+Mana Cost increased
+Level Talent Intelligence decreased
+Level Talent Bash Deep Damage decreased
+Agility Agility gain decreased
+Intelligence Intelligence gain decreased
+Damage decreased
+Agility Agility gain increased
+Base Health Regen increased
+Duration decreased
+Cast Time increased
+Strength Strength gain increased
+Bonus Health Regen per stack decreased Max Health Regen decreased
+Bonus Armor per stack decreased Max Armor rescaled
+Mana Cost increased
+Cast Range decreased
+Agility Agility gain decreased
+Movement speed bonus decreased
+Strength Strength gain decreased
+Mana Cost increased
+Cast Point increased
+Level Talent Tombstone Zombie Damage decreased
+Mana Cost increased
+Level Talent Magic Missile Cooldown reduction decreased
+Mana Cost increased
+Level Talent Venomous Gale Cooldown Reduction decreased
+Mana Cost increased
+Duration decreased
+Mana Cost increased
+Bonus Attack Damage decreased
+Level Talent Visage Familiars Attack Damage decreased
+Level Talent Armor Corruption Visage Familiars decreased
+Level Talent Visage Familiars Movement Speed decreased
+decreased
+Slow per second decreased
+Cast Range decreased
+Strength Strength gain decreased
+Level Talent Windrun Cooldown reduction decreased
+Strength Strength decreased
+Flight Duration decreased
+Cast Range decreased
+Attack Range Base Attack Range decreased
+Cast Range decreased
+Heal decreased
+Skeleton duration decreased
+Cooldown increased
+Slow decreased
+Slow Duration decreased
+Health Damage decreased
