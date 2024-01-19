@@ -213,7 +213,6 @@ Damage increased
 fully pierces debuff immunity
 Level Talent Brain Sap Cooldown Reduction increased
 Level Talent Brain Sap increased
-Ability reworked Beastmaster summons Hawk circles around dives onto enemy within range dealing damage rooting Hawk controlled prioritizes heroes killed upon Beastmaster death Hawk attack interval scales attack speed Hawk Duration Cooldown Hawk Base Health increased Magic Resistance increased XP bounty decreased
 Hawk Base Health increased Magic Resistance increased XP bounty decreased
 Base Armor increased
 Dealing receiving magic damage also extends Brewmaster Brewed duration

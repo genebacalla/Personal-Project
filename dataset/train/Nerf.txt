@@ -172,7 +172,6 @@ Aghanim Scepter Bonus Duration decreased
 Mana Restore decreased
 Base Strength decreased
 Base Movement Speed decreased
-Ability reworked Buff permanent Marci ally dispellable upon death buffing another ally Marci lifesteal also heals ally ally lifesteal heals Marci Marci ally apart units Marci receives bonus ally receives bonus buff get closer Bonus Damage decreased Lifesteal decreased Lifesteal reduced vs creeps Cooldown rescaled
 Bonus Damage decreased
 Lifesteal decreased Lifesteal reduced vs creeps
 Strength gain decreased
@@ -193,7 +192,6 @@ Base Damage decreased
 Backstab Agility Damage Multiplier decreased
 Aghanim Shard Bonus Throw Range decreased
 Cast Range decreased
-Aghanim Scepter Burrowstrike spine radius equals Sand Storm current radius Decreased Level talent increases radius
 Decreased Level talent increases radius
 Mana Cost increased
 Cooldown increased

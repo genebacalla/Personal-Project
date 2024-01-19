@@ -1,0 +1,767 @@
+Gold bounty rescaled
+Gold bounty rescaled
+Gold bounty reduced
+Bounty XP reduced
+Gold bounty reduced
+Gold bounty increased
+XP bounty increased
+Gold bounty reduced
+XP bounty increased
+Gold bounty rescaled
+XP bounty reduced
+Gold bounty increased
+XP bounty decreased
+Gold bounty reduced
+XP bounty reduced
+Gold bounty reduced
+XP bounty reduced
+Gold bounty reduced
+XP bounty reduced
+Gold bounty reduced
+XP bounty increased
+Gold bounty rescaled
+XP bounty increased
+Gold bounty rescaled
+XP bounty increased
+XP bounty decreased
+Gold bounty increased
+Using Bottle removes lingering fountain buff use free leave fountain
+cast without interrupting channeling
+Recipe reworked requires Blade Alacrity Robe Magi Recipe total cost reduced
+active Gives True Sight AoE area within range seconds CD Note grant vision area vision invisible
+Recipe reworked requires Sacred Relic Talisman Evasion total cost reduced
+disassembled
+Mega Shield affects heroes
+Reworked Shard Causes Mist Coil deal Abaddon attack damage impact applying hit effects increases Curse Avernus base slow
+deals damage intervals instead Total damage remains unchanged
+stack Diffusal Blade mana burn
+attack damage penalty units away Arc Warden
+Level Talent Armor replaced Flux Duration
+Level Talent Lifesteal replaced Tempest Double Cooldown Reduction
+deals physical damage
+slows enemies long facing Axe
+Shard debuff reduces total attack damage taken Axe affected unit makes Blade Mail deal full damage back since outgoing damage reduced
+Damage pure pierces magic immunity
+Level Talent magic resistance replaced movement speed
+Level Talent movement speed replaced Battle Hunger slow
+Level Talent HP regen replaced permanent armor per Culling Blade kill Note retroactive
+Level Talent Culling Blade threshold replaced Culling Blade
+Level Talent Battle Hunger DPS replaced Battle Hunger armor multiplier
+reduces cast range
+Reworked Shard Flaming Lasso longer disarms attacks apply stack Sticky Napalm
+Level Talent spell amplification replaced Sticky Napalm radius
+Level Talent armor replaced Flamebreak knockback
+Level Talent health replaced Flaming Lasso cooldown
+Level Talent Sticky Napalm damage replaced movement speed
+Level Talent movement speed replaced Flamebreak charges
+Level Talent magic resistance replaced Sticky Napalm damage
+Level Talent Flaming Lasso cooldown replaced Flamebreak applies Sticky Napalm charges
+Level Talent Movement Speed replaced Movement Speed Beastmaster Controlled Units
+Level talent Health replaced Spell Lifesteal
+Level Talent Bloodrite cooldown replaced Rupture charges
+Level Talent Shadow Walk Slow Duration replaced Shadow Walk Slow
+Reworked Brewmaster gains three stances based elements freely switch Stances stronger effects Brewmaster affected Cinder Brew Earth Brawler Stance grants armor magic resist Effect tripled Brewmaster affected Cinder Brew Storm Brawler Stance grants Brewmaster evasion movement speed Effect tripled Brewmaster affected Cinder Brew Fire Brawler Stance grants Brewmaster chance dealing damage critical hit Chance tripled Brewmaster affected Cinder Brew
+Level Talent Drunken Brawler critical strike replaced Cinder Brew Applies Fear Ignited Lasts seconds
+cast anywhere web regardless cast range behavior Spin Web
+Level Talent Agility replaced Spin Web Max Webs Note affect charges
+Level Talent attack speed replaced Agility
+Level Talent Spiderling building damage replaced Silken Bola slow
+Shard applies Strength bonus dealing damage
+Scepter leashes affected enemies duration debuff
+Level Talent armor replaced Strength
+Level Talent Hand God heal replaced Hand God time
+Level talent Mana Regen replaced Searing Arrows Damage
+Level Talent magic resistance replaced Skeleton Walk cooldown
+Level Talent Searing Arrows Damage replaced Death Pact Gains Creep Abilities steals first ability
+Level Talent Skeleton Walk cooldown replaced Death Pact health
+Level Talent Death Pact replaced Burning Barrage damage
+Level Talent Rocket Flare Damage replaced Power Cogs Leash Units Inside
+Level Talent Arcane Aura magic resistance replaced Arcane Aura mana per cast
+Level Talent swipe damage replaced damage
+Reworked Scepter Good Juju also reduces Dazzle item cooldowns cast ally reset item cooldowns CD Mana cost
+Whenever unit affected one Dazzle abilities armor seconds activated deal damage enemies heal allies within radius Mana cost CD
+Level Talent Strength replaced Shadow Wave
+Shard longer target allies causes allies within radius Thunder Strike gain attack speed movement speed every strike Radius
+Level Talent movement speed replaced Enchant Totem damage
+Level Talent movement speed replaced Astral Spirit move speed per hero
+absorbs magical damage taken
+deals damage based current HP
+Level Talent Sharpshooter pierces magic immunity replaced Bushwhack radius
+Melting Strike longer armor max cap instead stack cap Max armor reduction rescaled
+Level Talent Forged Spirit armor reduction replaced Forged Spirit attack speed
+Reworked Shard Passively grants Io spell lifesteal Increases Overcharge spell amplification causes also share Io current spell lifesteal Tethered units
+Level Talent damage replaced damage Tethered units
+Level Talent spell lifesteal replaced Tether movement speed
+Level Talent Spirits max range replaced spirit damage
+Level Talent Spirit damage replaced Overcharge max HP regen bonus
+Level Talent health replaced health Tethered units
+deals instances damage instead duration
+Level Talent Attack Speed replaced Blade Fury duration
+Level Talent armor replaced Blade Dance lifesteal
+Level Talent Strength replaced X Mark Spot movement speed Affects Enemies negatively allies positively
+Reworked Shard Legion Commander gains armor every hero hit Overwhelming Odds armor creep Increases Overwhelming Odds duration seconds
+Level Talent movement speed replaced AoE Press Attack
+Level Talent AoE Press Attack replaced Press Attack grants spell immunity
+Leshrac gaining Magic immunity longer ends Nihilism
+first tick casting total unchanged
+Reworked Shard Lina spells deal damage Fiery Soul charge
+Entangle deals damage immediately applied
+Dying casting True Form put ability cooldown
+Shard target nearest creep heroes nearby
+Level Talent Feral HP regen replaced Howl attack damage reduction
+Reworked Scepter Increases Shockwave range radius Shockwaves Erupt seconds dealing additional Shockwave base damage applying debuff slows reduces base Armor Affected units recover seconds
+Level Talent Health replaced Shockwave Damage
+longer escaped vertically
+longer activates spellcaster units away
+Level Talent attack damage replaced Attack Speed
+Level Talent evasion replaced Mana Shield damage per mana
+Level Talent Attack Speed replaced Split Shot Damage Penalty
+Level Talent Mystic Snake mana gain replaced Mystic Snake bounces
+Level Talent Base Damage replaced Poof Damage
+Level Talent Poof Damage replaced Earthbind grants True Strike targets
+Reworked Shard Grants Leap Charge Sagan pounces dealing damage forward cone units within range Mirana slowing seconds
+Reworked Scepter Replicate steals stat replicated hero replicated hero primary attribute Strength also steal status resistance Agility steal attack speed Intelligence steal spell amplification Reduces Replicate Cooldown
+Level Talent Agility replaced Riptide Damage
+Level Talent Rip Tide chance replaced Rip Tide hits
+Level Talent damage replaced Nature Call cooldown
+Level Talent armor replaced Sprout leashes
+Shard increases target incoming spell damage instead reducing magic resistance
+Shard applies debuff damage
+Level Talent movement speed replaced Mana Burn damage multiplier
+Level Talent Agility replaced AoE Mana Burn
+Level Talent bash chance replaced Fireblast chance
+basic skill
+Mana cost
+Level Talent Repel replaced Heavenly Grace Buff duration
+Level Talent movement speed replaced Guardian Angel cooldown
+Level Talent Degen Aura slow replaced Heavenly Grace regen per stack
+Level Talent Heavenly Grace cooldown replaced Hammer Purity cooldown
+Level Talent Guardian Angel cooldown replaced Hammer Purity damage
+Reworked Scepter Grants Rain Destiny Brings forth rain unit area seconds Enemies standing area receive damage per second heal amplification Allies heal health per second increased incoming heal amplification CD Mana cost
+Level Talent Armor Corruption replaced Stifling Dagger damage
+Level Talent Attack Speed replaced Phantom Rush Bonus Agi Duration
+Level Talent Evasion replaced Strength
+Level Talent Icarus Dive cast range replaced max health Sun Ray damage
+Level Talent max health Sun Ray damage replaced Icarus Dive cast range
+Reworked Shard Causes Phase Shift attack enemies within attack range radius Puck
+Reworked Scepter Waning Rift extra radius range knocks enemies back distance seconds Reveals invisible enemy units wards area seconds
+Level Talent Illusory Orb distance replaced Illusory Orb cooldown
+Level Talent Phase Shift attack replaced Dream Coil Cooldown
+Level Talent spell amplification replaced Waning Rift Damage
+Level Talent Illusory Orb cooldown replaced Dream Coil break stun duration
+Level Talent Waning Rift AoE range replaced Dream Coil pierces magic immunity
+Reworked Shard Life Drain target Nether Ward causing life drain refract enemy heroes range ward damage effect interrupted ward destroyed Increases Nether Ward cast range
+cast target already linked
+Level Talent Static Link duration replaced Storm Surge movement speed
+Level Talent Eye Storm target replaced Static Link Charges
+Level Talent Strength replaced Smoke Screen AoE
+Level Talent attack speed replaced Blink Strike slow duration
+Level Talent Smoke Screen AoE replaced Tricks Trade applies basic dispel also cast
+Aghanim Scepter lets steal spells Note steal spell subabilities like Sun Ray take spell slots
+Level Talent health replaced Caustic Finale slow
+Level Talent Caustic Finale slow replaced Caustic Finale damage
+Level Talent Caustic Finale damage replaced Epicenter Radius
+Level Talent Spell Amplification replaced Shadowraze Stack Damage
+Level Talent health replaced Global Silence cooldown
+Level Talent Agility replaced Pounce Leash
+Level Talent Shadow Dance attack speed replaced Shadow Dance regen
+Level Talent Pounce leash replaced Shadow Dance attack speed
+Level Talent health replaced Firesnap Cookie stun
+Level Talent Scatterblast slow duration replaced Firesnap Cookie restores health
+Level Talent Firesnap Cookie restores health replaced Lil Shredder attacks
+Level Talent Static Remnant damage replaced attack speed
+Level Talent attack speed replaced Static Remnant damage
+Reworked Shard Warcry undispellable passively grants armor allies radius
+Level Talent Lifesteal replaced God Strength Cooldown
+Level Talent movement speed replaced Warcry movement speed
+Reworked Scepter Reactive Tazer cast allies within range deals damage final detonation
+Mines deal full damage targets within radius decreasing damage enemies edge
+Mines detonate damageable target within range Magic immune enemies reveal ca attack wo detonate
+Level Talent movement speed replaced Sticky Bomb damage
+Level Talent Proximity Mines replaced Proximity Mine activation delay
+Level Talent Psi Blades Attack Range replaced Psi Blades Range
+Level Talent evasion replaced Conjure Image outgoing damage
+Level Talent attack speed replaced Reflection slow
+New Ability granted Shard Throws grenade towards unit dealing damage teleporting units away tinker reduces cast attack range seconds Mana cost Cooldown Cast Range Projectile speed
+Level Talent Keen Conveyance cooldown replaced Defense Matrix damage absorbed
+Level Talent Defense Matrix damage absorbed replaced Keen Conveyance cooldown
+Level Talent Tree Grab Unit damage bonus replaced Tree Grow bonus damage
+Level Talent Evasion replaced Battle Trance Cooldown
+Level Talent Battle Trance Duration replaced Whirling Axes pierce Magic Immunity
+unit vector targeted
+Reworked Scepter Fiend Gate spawns Pit Malice portals Pit Malice slows enemies
+Level Talent Earthshock range replaced Earthshock cooldown
+Reworked Shard Bounces enemy prioritizing heroes Increases Cast Range
+Level Talent Poison Nova AoE replaced Poison Nova reduces attack speed
+Level Talent Spell Lifesteal replaced Corrosive Skin Damage
+Level Talent Nethertoxin Max Damage replaced Nethertoxin Damage
+Level Talent Attack Damage replaced Poison Attack Magic Resistance Reduction
+Level Talent attack damage replaced damage Visage Familiars
+Level Talent Corruption replaced Corruption Visage Familiars Corruption different sources stack Visage familiars hitting enemy would give armor
+Level Talent Familiar movement speed replaced movement speed Visage Familiars
+Level Talent Gravekeeper Cloak stacks replaced Gravekeeper Cloak aura also grants armor
+Level Talent Golem movement speed replaced Shadow Word duration
+Shard Cast Range
+Reworked Scepter Windrun undispellable slow increased enemies affected blinded
+Level Talent mana regen replaced Powershot damage reduction per unit
+Level Talent Powershot damage replaced Windrun cooldown
+Level Talent Windrun undispellable replaced Windrun radius
+granted Shard Whenever Zeus attacks casts ability enemy deals current HP damage
+basic ability Zeus performs Heavenly Jump shocking closest visible nearby enemy prioritizing heroes within range Reducing movement attack speed increasing cast time Zeus gets unobstructed vision around seconds Ca cast leashed Mana cost Cooldown
+Level Talent Static Field Damage replaced Heavenly Jump Target
+Strength
+Level Talent Cooldown Reduction replaced Aphotic Shield Health
+Level Talent Aphotic Shield Health replaced Curse Avernus Attacks Required
+Level Talent Unstable Concoction Cooldown replaced Unstable Concoction Radius
+Level Talent HP Regen replaced Cold Feet Break Distance
+Reworked Shard Counterspell also passively grants range offensive aura reducing enemies magic damage Grants triple effect enemies within range
+Blink Fragment scepter charges recharge time
+Level Talent Attack Speed replaced Blink Cooldown
+Level Talent armor replaced Mana Void Stun
+Level Talent Mana Void Stun replaced Blink Cast Range
+Level Talent Attack Speed replaced Magnetic Field Attack Speed
+Level talent Attack Range replaced Flux Damage Per second
+Reworked Shard causes Counter Helix apply stacking debuff reduces attack damage increases Counter Helix chance
+Level Talent Strength replaced Magic Resistance
+Level Talent Health replaced Counter Helix Damage
+Aghanim Shard Call Wild Hawk unit targeted cause hawk move direction target cast dive range
+Level Talent armor replaced Bloodrage Spell Amplification
+Level Talent Lifesteal replaced HP Rupture Initial Damage
+Jinada toggled disable autocast
+Level Talent Movement Speed replaced Shadow Walk Slow
+Level Talent Health replaced Track Bonus Move Speed allies
+Level Talent Attack Speed replaced Track grants ground vision around target
+Level Talent Evasion replaced Shuriken Toss Charges
+Spin Web grants Broodmother spiderlings movement speed based health unit Grants full amount health unit health less
+Reworked Scepter Vector Targeted Broodmother creates width invisible web line takes seconds form Enemy Heroes cross web line make visible become rooted slow also visible fog receive seconds Broodmother team notified Minimap whenever someone trips Web line Multiple Heroes trip line duration expires illusions trigger Maximum Snares active Snares ca cast overlapping another Charges Mana Cost Cooldown Cast Range
+Level Talent Spider Attack Damage replaced Spiders Damage buildings
+Level talent Movement Speed replaced Reality Rift Target Pull Distance
+Level talent stats replaced Chaos Strike Lifesteal
+Level talent Cleave replaced Chaos Bolt Cooldown
+Reworked Shard Allows Holy Persuasion target Ancient creeps based Hand God level Old Scepter effect
+Reworked Scepter Hand God applies Strong Dispel
+Strafe removed
+New Ability Burning Barrage Channels shooting piercing arrows target direction distance away hit enemy units dealing attack damage applying attack modifiers Arrow width Cooldown Mana Cost
+Level Talent Agility replaced Magic Resistance
+Level Talent Strafe Cooldown replaced Burning Barrage Arrows
+Level talent Movement Speed replaced Power Cogs Mana Burn
+Level talent Armor replaced Rocket Flare Cooldown
+Freezing Field explosion distribution even across radius
+Level Talent Ion Shell Radius replaced Wall Replica Illusion Damage
+Level Talent Wall Replica Illusion Damage replaced Ion Shell Radius
+Level Talent Damage replaced Shadow Realm Duration
+Starbreaker longer ignores movement restriction abilities Kinetic Field
+Starbreaker longer gets cancelled Starbreaker gets rooted instead movement interrupted
+Level Talent Strength replaced Celestial Hammer Slow
+Level Talent Movement Speed replaced Starbreaker Swipe Damage
+Level Talent Attack Damage replaced Luminosity Crit Damage
+Level Talent Luminosity Crit Damage replaced Luminosity Attacks Required
+Level Talent Starbreaker charges replaced Solar Guardian Radius
+Level Talent Solar Guardian Radius replaced Starbreaker Charges
+Poison Touch refreshes duration Dazzle attacks target
+Level Talent Heal Shallow Grave end replaced Strength
+Level Talent Movement Speed replaced Heal Shallow Grave
+Silence fires speed projectile towards targeted area silences units AOE upon impact
+Level Talent Movement Speed replaced Crypt Swarm Cooldown
+Level Talent Crypt Swarm Cooldown replaced Spirit Siphon Slow
+Level Talent Stats replaced Frost Arrow Bonus Damage
+Level Talent Agility replaced Gust Width
+Level talent Cooldown Reduction replaced Multishot Waves
+Level Talent damage replaced Magnetize Duration
+Level talent Armor replaced Boulder Smash Push Distance
+Level Talent mana replaced Fissure Damage
+Level Talent armor replaced Aftershock Damage
+Level Talent Magic Resistance replaced Aftershock Radius
+Level Talent Spell Amplification replaced Searing Chains Targets
+Black Hole scepter deals bonus pure damage instead current level Midnight Pulse
+Level Talent Eidolon Health replaced Eidolon Attack Speed
+Level Talent Cooldown Reduction replaced Malefice Damage per Instance
+Level Talent Agility replaced Time Dilation Damage Per Second
+Level Talent Strength replaced Time Walk Backtracked Time
+Level Talent Health replaced Time Walk Cooldown
+Level Talent Time Lock Damage replaced Time Dilation slow per Cooldown
+Level Talent Attack Speed replaced Attack Speed Chronosphere
+Level Talent Time Walk Cooldown replaced Time Lock Damage
+Reworked Shard Homing Missile constantly fires radius Rocket Barrage starting second casting Rocket Barrage prioritizes Homing Missile target
+Level Talent Attack Damage replaced Flak Cannon Range
+Level Talent Call cooldown Flak Cannon attacks
+Level Talent Homing Missile Charges replaced Flak Cannon Cooldown
+Level Talent Global Call replaced Air Strike Causes Call vector targeted fires Call attacks vector direction range seconds Secondary call downs deal damage
+Bushwhack damage dealt time interval duration debuff Damage stops hero released
+Hunter Boomerang ground targeted
+Level Talent Health replaced Scurry Duration
+Level Talent Agility replaced Acorn Shot Bounces
+Level Talent Health replaced Inner Fire Duration
+Level Talent Attack Damage replaced Life Break Slow Duration
+Level Talent Spell Lifesteal replaced Life Break Damage
+Level Talent Ice Wall replaced Forged Spirit Armor Reduction
+Level Talent Forged Spirit Armor Reduction replaced Passive Bonuses
+Level Talent Movement Speed replaced Blade Fury Radius
+Level Talent Strength replaced Duel Cast Range
+Level Talent Mana Regen replaced Overwhelming Odds Radius
+Level Talent Attack Speed replaced Press Attack HP Regen
+Diabolic Edict deals pure damage
+Diabolic Edict longer deals bonus damage towers
+Level Talent Attack Damage replaced Sinister Gaze Duration
+Level Talent Movement Speed replaced Rage Move Speed Bonus
+Level Talent Attack Speed replaced Moon Glaives Damage Reduction
+Level Talent Movement Speed replaced Eclipse Cooldown
+Level Talent Stats replaced Global Lunar Blessing
+Level Talent Lifesteal replaced Lunar Blessing Damage
+Shard Wolves Low Attack Priority acquire enemy aggro unit aggro range
+Shard Wolves Cripple towers affect regular wolves
+Level Talent Damage replaced Summon Wolves Damage
+Level Talent Cooldown Reduction replaced Shapeshift Cooldown
+Level Talent Damage replaced Empower Duration
+Level Talent Damage replaced God Rebuke Slow
+Level Talent Movement Speed replaced Bulwark Movement Penalty
+Level Talent Armor replaced Spear Mars Damage
+Level Talent Spear Mars Damage replaced Bulwark Damage Reduction
+Poof deals Pure Damage
+Reworked Shard Divided Stand cast Meepo long another Meepo within radius causing nearby Meepo fling towards target within range dealing damage slowing target movement speed Cooldown Mana Cost Meepo independent cooldown
+Level Talent damage replaced Sacred Arrow Cooldown
+Level Talent health replaced Leap Distance
+Level Talent Sacred Arrow Cooldown replaced Moonlight Shadow gives Evasion Evasion always active Moonlight Shadow even units visible
+Level Talent Spell Amplification replaced Moonlight Shadow Cooldown
+Level Talent Moonlight Shadow Cooldown replaced Starstorm Damage
+Reworked Shard reduces Mischief Cooldown increases invulnerability time disjoints projectiles transformation Mischief longer reduces move speed current one
+Level Talent Attack Speed replaced Boundless Strike Stun
+Level Talent Boundless Strike Crit replaced Jingu Mastery Charges
+Reworked Shard makes Song Siren heal allies Max HP per second
+Level Talent Mirror Image Damage replaced Agility
+Level Talent Agility replaced Mirror Image Damage
+Level Talent Song Siren Cooldown replaced Rip Tide chance
+Level talent Cooldown Reduction replaced Miss Chance Sprouted units
+Level Talent damage replaced Reaper Scythe Cast Range
+Level Talent armor replaced Dark Ascension Duration
+Level Talent Strength replaced Dark Ascension Damage
+Level Talent damage replaced Strength
+Shard Fire Shield longer procs creep attacks
+Hammer Purity longer cast creeps
+Arcane Orb affects Roshan
+Grants additional Mana Capacity steal Astral Imprisonment Also allows allies move movement speed Astral Imprisonment visible untargettable ca perform actions
+Level Talent Health replaced Phantom Strike Duration
+Level talent Attack Damage replaced Illusory Orb distance
+Meat Hook instantly kills creep hits
+Level Talent Cooldown Reduction replaced Shadow Strike Damage Instances Duration ticks happen often
+Level Talent Spell Lifesteal replaced Scream Pain Damage
+Eye Storm applies armor reduction applying damage
+Level Talent Health replaced Plasma Field Damage
+Level Talent armor replaced Static Link Drain Duration
+Level Talent Fade Bolt Borrows Hero Damage replaced Fade Bolt Damage Reduction
+Level Talent base damage replaced Stolen Spell Cooldown
+Level Talent damage per Epicenter Pulse replaced Sand Storm DPS
+Level Talent Sand Storm DPS replaced Sand Storm Radius
+Level Talent Health Regen replaced Caustic Finale Damage
+Reworked Shard Necromastery attack modifier consumes soul granting next attack crit second cooldown Additionally enemies killed grant extra soul
+Level Talent Move Speed replaced Shadowraze Damage
+Level Talent Shadowraze Damage replaced Requiem per line Maximum
+Level Talent Cooldown Reduction replaced Requiem Souls Cooldown
+Level Talent Health replaced Hex Cooldown
+Level Talent Hex Cooldown replaced Shackle Duration
+Level Talent Shackle Duration replaced Hex Breaks
+Level Talent Armor replaced Arcane Curse Damage
+Level Talent Arcane Curse Damage replaced Attack Range
+Level Talent Permanent Intelligence per kill replaced Arcane Curse Slow
+Level Talent Attack Range replaced Health
+Level Talent Arcane Curse Slow replaced Last Word Int Multiplier
+Level Talent Cooldown Reduction replaced Last Word Mutes Items
+Level Talent Attack Damage replaced Guardian Sprint Cooldown
+Level Talent HP Regen replaced Slithereen Crush Speed Slow
+Level Talent Lifesteal replaced Slithereen Crush Damage
+Level Talent Strength replaced Dark Pact Cooldown
+Level Talent Lifesteal replaced Shadow Dance Attack Speed
+Level Talent Attack Speed replaced Dark Pact Damage
+Level Talent Dark Pact Damage replaced Agi per Essence Shift stack
+Level Talent Movement Speed replaced Scatterblast Slow Duration
+Level Talent Cooldown Reduction replaced Take Aim Duration
+Reworked Shard Causes dispersion fire spectral dagger every damage absorbed direction last source damage fire maximum one dagger every seconds triggers player based damage within range
+Spectral Dagger debuff dispellable
+Level Talent HP Regen replaced Spectral Dagger Cooldown
+Level Talent Spectral Dagger Cooldown replaced Spectral Dagger Damage
+Level Talent HP Regen replaced Bulldoze Cooldown
+Level Talent Bulldoze Cooldown replaced movement speed Charge Darkness
+Level Talent Greater Bash Damage replaced Greater Bash Chance
+Level Talent Greater Bash Chance replaced Greater Bash Damage
+Level talent Health replaced Static Remnant Damage
+Level talent Static Remnant Damage replaced Health
+Level talent Psi Blades Range replaced Psionic Trap Damage
+Level talent Psionic Trap Damage replaced Psi Blades Range
+Level Talent Movement Speed replaced Reflection duration
+Level talent Metamorphosis Attack Range replaced Metamorphosis Duration
+Level Talent Movement Speed replaced Gush Slow
+Level Talent Mana Regen replaced damage Kraken Shell Threshold
+Level Talent Damage replaced chance proc Anchor Smash attacks
+Level Talent Cooldown Reduction replaced Ravage Stun Duration
+Level Talent Cooldown Reduction replaced Chakram Slow
+Defense Matrix basic skill
+New Rearm Keen Conveyance Channel teleport friendly Building Level allows targeting units level allows targeting heroes Mana cost
+March Machines shard ability
+Level Talent Spell Amplification replaced Laser Blind Duration
+Level Talent March Machines Duration replaced Keen Teleport Channel Time
+Level Talent March Machines Damage replaced Defense Matrix Damage Absorbed
+Level Talent Armor replaced Spell Amplification
+Level Talent Mana Regen replaced Living Armor Heal
+Level Talent Living Armor Heal replaced Leech Seed Slow
+Level Talent Health replaced Berserker Rage Armor
+Level Talent Agility replaced Berserker Rage Movement Speed
+Reworked Shard Enemies within radius center ice shard suffer slow take damage per second Increases length ice shard
+Level talent HP Regen replaced Tag Team Damage
+Reworked Scepter Grants new ability Fiend Gate Cast within range create Portal next Underlord Portal target location Allies click either Portal teleport one channel Portals indestructible last seconds cast locations Wards placed
+Level Talent Attack Speed replaced Firestorm Burn Damage
+Level Talent Health Regen replaced Atrophy Aura Damage Reduction
+Level Talent increased Allies Atrophy Aura
+Reworked Shard Reduces Flesh Golem Cooldown causes Undying spawn one zombie attack
+Level Talent changed armor Decay Damage
+Level Talent Attack Range replaced Health
+Level Talent Attack Range replaced Nethertoxin Max Damage
+Level Talent Damage replaced Aether Remnant Damage
+Level Talent DPS Upheaval replaced Attack Speed per second allies Maximum
+Geminate Attack toggled disable autocast
+Level Talent Swarm Armor Reduction replaced Strength
+Level Talent Strength replaced Swarm Attacks Kill
+Level Talent damage replaced Geminate Attack Damage
+Level Talent Swarm Attacks Kill replaced Swarm Armor Reduction
+Reworked Shard Grants Gale Force Vector Targeted Summons strong wind pushes enemies within AoE units per second target direction seconds Units still move attack cast spells interrupt channeling Mana Cost Cooldown
+Level Talent Attack Range replaced Windrun Undispellable
+Level Talent Cooldown Reduction replaced Focus Fire Kills Advance Cooldown
+Level Talent Cold Embrace Heal replaced Cold Embrace Heal
+Level Talent Health replaced Arctic Burn Debuff Duration
+Level Talent Night Vision replaced Splinter Blast Radius
+Level Talent damage replaced Voodoo Restoration Mana Per Second
+Level Talent Health replaced Maledict Radius
+Level Talent Maledict Radius replaced Health
+Level Talent Wraithfire Blast duration replaced Movement Speed
+Level Talent Movement Speed replaced Wraithfire Blast Stun Duration
+Level Talent Strength replaced Cleave
+Level Talent Spell Lifesteal replaced range AoE Lightning Bolt
+Mist Coil self damage values instead fixed numbers
+Reworked Shard upgrade causes Blink range reduces cooldown
+Level Talent changed Blink Cast Range Max Mana Burn
+Level Talent changed Blink Cooldown Mana Void Stun
+Level Talent changed Attack Speed Strength
+Reworked Shard upgrade Causes Brain Sap become target AoE spell Secondary units heal
+Reworked Scepter upgrade Reduces Fiend Grip cooldown seconds causes Fiend Grip create two uncontrollable illusions channel Fiend Grip target Illusions take damage
+Level Talent changed Spell Amplification Brain Sap cooldown
+Level Talent changed Cast Range Fiend Grip Max Mana Drain
+Reworked Shard causes Flamebreak two charges apply Sticky Napalm charge impact
+Flamebreak debuff longer stacks multiple instances instead adds duration
+Level Talent changed Flamebreak Charges Magic Resistance
+Divebomb Shard longer grants free hawk control
+Level Talent changed Armor Health Beastmaster Controlled
+Level Talent changed Wild Axes Damage Primal Roar Cooldown
+Level Talent changed Health Beastmaster Controlled Wild Axes Damage Amp Per Stack
+Reworked Shard Shadow Walk grants reduced incoming damage invisible Attacking invisibility stuns target second Lowers cooldown seconds
+Level Talent changed Thunder Clap Slow Thunder Clap AoE
+Incapacitating Bite removed
+Reworked Shard causes Silken Bola AoE spell increases miss rate
+Insatiable Hunger basic ability
+Level Talent changed Stampede Duration Armor
+Chaos Bolt shard illusion always lasts seconds rather duration stun
+Level Talent changed Cooldown Reduction Cleave
+Level Talent changed Phantasm Duration Chaos Bolt Duration
+Level Talent changed Chaos Bolt Duration Phantasm Duration
+Level Talent changed Cast Range Penitence Deals Damage
+Reworked Shard allows move cast attack Freezing Field movement speed reduced Freezing Field follows movement Interruptions Silences still interrupt spell
+Level Talent changed Cast Range Crystal Nova AoE
+Level Talent changed Vacuum AoE Armor
+Level Talent changed Armor Vacuum AoE
+Level Talent changed Wall Replica slow Wall Replica cooldown
+Level Talent changed Cast Range Cursed Crown AoE
+Reworked Shard upgrade causes Poison Touch hex affected targets seconds
+Level Talent changed Cast Range Heal Shallow Grave End
+Reworked Shard Increases Spirit Siphon charges causes enemies feared seconds siphoned seconds consecutively
+Level Talent changed Cast Range Movement Speed
+Level Talent increased Crypt Swarm Cooldown
+Level Talent changed Static Storm Duration
+Level Talent changed Cast Range Glimpse Arrival Damage
+Level Talent changed Kinetic Field Grants True Sight Kinetic Field Duration
+Level Talent changed Kinetic Field Duration Static Storm AoE
+Level Talent changed Doom Duration Magic Resistance
+Level Talent changed Scorched Earth Movement Speed Scorched Earth Damage
+Level Talent changed Scorched Earth Damage Scorched Earth Cooldown
+Level Talent changed Devour Bonus Gold Devour Target Ancients
+Level Talent changed Devour Target Ancients Scorched Earth Movement Speed
+Level Talent changed Mana Regen Damage
+Level Talent changed Damage Dragon Tail Stun Duration
+Level Talent changed Cooldown Reduction Elder Dragon Form Attack Range
+Level Talent changed Dragon Blood Dragon Blood Armor Regeneration
+Level Talent changed Dragon Tail AoE Dragon Tail Dragon Form
+Time Walk shard return ability hotkey
+Level Talent changed Damage Agility
+Level Talent changed Time Walk Cast Range Health
+Reworked Shard upgrade Causes Ink Swell deal damage heal target damage Ink Swell deals Upon expiration target receive strong dispel
+Level Talent changed Cast Range Phantom Embrace DPS
+Acorn Shot Initial projectile uses attacker projectile speed halved bounces
+Acorn Shot planted tree longer considered special Tango usage
+Acorn Shot may placed always use ground targeting
+Level Talent changed Attack Range Spell Lifesteal
+Reworked Shard upgrade Causes two extra Chaos Meteors land alongside primary cast slight angles Reduces cooldown seconds
+Tether shard stuns upon connecting Tether rather Tether Break affect unit every seconds
+Level Talent changed Ice Path Cooldown Liquid Fire Attack Speed
+Level Talent changed Dual Breath Damage Health
+Level Talent changed Liquid Fire Attack Speed Ice Path Duration
+Level Talent changed Dual Breath Range Macropyre Damage
+Level Talent changed Macropyre Pure Pierces Immunity Dual Breath Damage Range
+Level Talent changed Ice Path duration Ice Path Cooldown
+Reworked Shard upgrade grants Recall Spirit Form
+Level Talent changed Cast Range Solar Bind Charges
+Level Talent changed Blinding Light Cooldown Chakra Magic Cooldown
+Level Talent changed Chakra Magic Cooldown Chakra Magic Dispels
+Level Talent changed Cast Range Torrent Knock Duration
+Level Talent changed Health Regen Strength
+Level Talent changed Strength Tidebringer Cleave
+Level Talent changed Tidebringer Cleave Tidebringer Cooldown
+Reworked Shard Causes Press Attack apply Spell Immunity seconds Reduces cooldown seconds
+Level Talent changed Overwhelming Odds Cooldown Overwhelming Odds Damage Per Hero
+Level Talent changed Strength Lightning Storm Damage
+Level Talent changed Lightning Storm Slow Strength
+Level Talent changed Lightning Storm Damage Magic Resistance
+Level Talent changed Frost Blast AoE Damage Frost Blast Radius Damage
+Level Talent changed Cast Range Frost Shield Damage Reduction
+Level Talent changed Health Movement Speed
+Level Talent changed Movement Speed Health
+Level Talent changed Cast Range Dragon Slave Cooldown
+Level Talent changed Dragon Slave Cooldown Laguna Blade Cooldown
+Reworked Shard upgrade Causes Mana Drain affect three enemies become Spell Immune channeling
+Level Talent changed Mana Drain Slow Movement Speed
+Level Talent changed Cast Range Max Health per Finger Death Kill
+Level Talent changed Mana Drain Multi Target Mana Drain Restores Allies
+Level Talent changed Cast Range Lucent Beam Stun
+Level Talent changed Shapeshift Movement Speed Summon Wolves Health
+Collision size reduced
+Reworked Shard allows Poof allies within max range directly targeting
+Level Talent changed Poof Damage
+Level Talent changed Primal Spring Damage Boundless Strike Cooldown
+Level Talent changed Armor Wukong Command Cooldown Primal Spring
+Level Talent changed Agility Magic Resistance
+Level Talent reduced Waveform Range
+Level Talent changed Attack Speed Agility
+Level Talent changed Cooldown Reduction Strength
+Level Talent changed Strength Attribute Shift Stunned
+Level Talent changed Evasion Mirror Image Cooldown
+Death Seeker shard reworked longer Instead applies decrepify target enemy ally seconds enemies reduces magic resistance Mana cost Cooldown
+Level Talent changed Movement Speed Crippling Fear Cooldown
+Level Talent changed Spiked Carapace Damage Spiked Carapace Cooldown
+Level Talent changed Cast Range Fireblast Cooldown
+Level Talent changed Cast Range Armor False Promise
+Level Talent changed Purifying Flames Allied Damage Purifying Flames Enemy Damage
+Level Talent changed Fortune End Max Channel Time Instant Fortune End
+Essence Flux shard second cast time instead second channel
+Shard reworked causes Sun Ray slow enemies castable Supernova
+Level Talent changed Sun Ray Supernova Supernova Stun Duration
+Level Talent changed Cast Range Waning Rift Silence Duration
+Level Talent changed Illusory Orb Illusory Orb Cooldown
+Level Talent changed Sonic Wave Damage Blink Cooldown
+Sleeping Dart shard sleep longer makes target invulnerable damage wake taking damage
+Level Talent changed Health Regen Strength
+Level Talent changed Damage Cloak Dagger Movement Speed Invisible
+Level Talent changed Blink Strike Cast Range Blink Strike Replenish Time
+Level Talent changed Health Telekinesis Landing Damage
+Level Talent changed Cast Range Telekinesis Lift Duration
+Epicenter shard longer triggers enemies nearby
+Level Talent changed Intelligence Shadow Poison Damage
+Level Talent changed Cast Range Strength
+Level Talent changed Shadow Poison Damage Demonic Purge Damage
+Level Talent changed Demonic Purge Damage Demonic Purge Cooldown
+Shard reworked causes Presence Dark Lord reduce magic resistance
+Level Talent changed Cast Range Serpent Wards Attack Range
+Arcane Curse longer pauses damage debuff duration delayed
+Reworked Shard upgrade Every time cast abilities gain Intelligence Armor seconds Stacks independently
+Level Talent changed Movement Speed Health
+Slithereen Crush shard applies debuff damage
+Reworked Shard upgrade Grants Depth Shroud Creates AoE cloud target location seconds allies inside radius hidden increased regeneration movement speed Cast Range Cooldown Manacost
+Take Aim active reworked longer gives double range attack lasts seconds grants True Strike Headshot chance Causes move slower Cooldown Manacost
+Concussive Grenade knocks sniper back units away target direction
+Dispersion shard target enemy hero damaged last seconds ground target find closest valid target
+Electric Rave Shard upgrade active Overload instead dedicated hotkey
+Level Talent changed Overload Damage Health
+Level Talent changed Health Attack Speed
+Level Talent changed Attack Speed Static Remnant Cooldown
+Level Talent changed Mana Regen Attack Speed
+Level Talent changed Strength Warcry Duration
+Level Talent changed Warcry Duration Great Cleave
+Level Talent changed Storm Hammer Cooldown Warcry Armor
+Level Talent reduced Mana Regen
+Level Talent changed Movement Speed Psi Blades Range
+Level Talent changed Reactive Armor Stacks Reactive Armor Stacks Duration
+Level Talent changed Cast Range Mana loss Reduction
+Level Talent changed Mana loss Reduction Missile
+Reworked Shard upgrade causes Tree Grab charge limit
+Level Talent changed Damage Strength
+Level Talent changed Tree Grab Attack Charges Tree Grab Unit Damage Bonus
+Level Talent changed Strength Status Resistance
+Level Talent changed Damage Mana Regen
+Level Talent changed Nature Guise Invisibility Nature Grasp Cooldown
+Level Talent changed Cooldown Reduction Living Armor Bonus Armor
+Reworked Shard upgrade Grants Rampage Globally causes allied heroes gain Attack Speed Status resistance seconds based whichever stance Troll currently Ranged provides attack speed melee provides status resistance Cooldown Manacost
+Level Talent changed Firestorm Wave Count Firestorm Radius
+Level Talent changed Firestorm Building Damage Atrophy Allied Hero Bonus
+Level Talent changed Decay Duration Armor
+Level Talent changed Cast Range Tombstone Cooldown
+Reworked Shard upgrade causes Earthshock apply second Enrage buff Reduces cooldown seconds
+Level Talent changed Earthshock Cooldown Enrage Status Resistance
+Level Talent changed Wave Terror Armor Agility
+Level Talent changed Agility Wave Terror Armor
+Level Talent changed Cast Range Nether Swap Cooldown
+Level Talent changed Plague Ward Duration Attack Range
+Level Talent changed Attack Range Spell Lifesteal
+Level Talent changed Spell Lifesteal Plague Wards Cooldown
+Level Talent changed Corrosive Skin Stats Health
+Level Talent changed Poison Attack Affects Buildings Corrosive Skin Slow Resistance
+Level Talent changed Cast Range Grave Chill Cooldown
+Level Talent changed Cast Range Chaotic Offering Golem Movement Speed
+Level Talent changed Armor Upheaval DPS
+Level Talent changed Shadow Word AoE Shadow Word
+Level Talent changed Damage Swarm Armor Reduction
+Level Talent changed Swarm Armor Reduction Damage
+Level Talent changed Shukuchi Movement Speed Shukuchi Charges
+Powershot kill threshold longer scales based powershot channel
+Windrun scepter provides haste instead increasing speed
+Winter Curse ends enemies area seconds
+Level Talent changed Cold Embrace cooldown Splinter Blast Damage
+Level Talent changed Armor Health
+Level Talent changed Wraithfire Blast Cooldown Wraithfire Blast Stun Duration
+Level Talent changed Strength Movement Speed
+Level Talent changed Movement Speed Strength
+Level Talent changed Health Movement Speed
+Level Talent changed Movement Speed Health
+Level Talent changed Cast Range Spell Lifesteal
+Converge cast rooted
+Converge longer procs Magic Stick
+Level Talent changed Armor Damage
+Level Talent changed Damage Armor
+ally already scepter buff item refunds based version either
+Level Talent changed Agility Armor
+Level Talent changed Blink Uncontrollable Illusion Mana Void Damage Multiplier
+Scepter Rework Grants Blink Fragment Blinks illusion target enemy location attacks seconds Uses Blink Cast Range Illusion controlled deals damage takes Casting Counterspell also casts Fragment illusion Cooldown Manacost
+Level Talent changed Spark Wraith Cooldown Reduction Spark Wraith Damage
+Level Talent changed Spark Wraith Damage Tempest Double Duration
+Scepter Rework impacting enemy Spark Wraiths spawn new Wraith starts activation period second spawn delay Duplicated Wraiths duplicate
+Level Talent changed Movement Speed Mana Regen
+Level Talent changed Mana Regen Movement Speed
+Level Talent changed Attacking Procs Counter Helix Health
+Scepter Rework Berserker Call applies Battle Hunger affected units Lowers Berserker Call cooldown seconds Battle Hunger also reduces enemy armor grants per affected target half creeps
+Brain Sap damage type changed Magical Pure
+Fiend Grip damage type changed Magical Pure
+Swapped Nightmare Enfeeble hotkeys
+Reworked Enfeeble Reduces attack damage regeneration cast speed Lasts seconds pierce Spell Immunity Cooldown Cast Range Manacost Cast Point
+Level Talent changed Cooldown Reduction Flamebreak Charges
+Level Talent changed Flamebreak Cooldown Flaming Lasso Cooldown
+Level Talent changed Hawk Vision Mana Regen
+Level Talent changed Health Wild Axes Damage
+Level Talent changed Wild Axes Damage Health Beastmaster Controlled Units affects Beastmaster summoned units
+Drunken Brawler activated provide chance evasion critical strike alternate slower faster seconds
+Scepter Rework Primal Split charges canceled time hero forms back whichever brewling canceled Charge replenish time equal normal cooldown
+Level Talent changed Health Thunder Clap Slow
+Level Talent changed Thunder Clap Slow Cinder Brew
+Level Talent changed Magic Resistance Health
+Level Talent changed Primal Split Cooldown Brewlings Gain Drunken Brawler Passive
+Level Talent changed Max Goo Stacks Attack Speed
+Level Talent changed Damage Stampede Duration
+Level Talent changed Divine Favor Cooldown Penitence Slow
+Level Talent changed Holy Persuasion Max Units Holy Persuasion Max Units Charges
+Level Talent changed Skeleton Walk Exit Summons Burning Army Skeleton Agility
+Level Talent changed Kills Reset Death Pact Cooldown Strafe Cooldown
+Level Talent changed Magic Resistance Spell Immunity Inside Power Cogs
+Frostbite damage interval changed overall damage first instance
+Frostbite DPS changed fixed per tick rather defined total damage overall damage heroes creeps normally affects things change spell duration like talent status resistance
+Level Talent changed Ion Shell Provides Max Health Armor
+Level Talent changed Armor Wall Replica slow
+Scepter Rework Upgrades Ion Shell Causes Ion Shell Charges increases duration seconds provides Health
+Level Talent changed Cast Range Shadow Realm Cooldown
+Level Talent changed Shadow Realm Cooldown Cast Range
+Level Talent changed Shadow Wave Attack Speed
+Scepter Rework Causes Shadow Wave dispel allies increases heal increases damage
+Level Talent changed Exorcism Grants Haste Spirit Siphon Replenish Time
+Scepter Rework Causes Doom apply Break reduces cooldown
+Level Talent changed Gust Silence Duration Gust Cooldown
+Level Talent changed Midnight Pulse Duration Malefice Stun Duration
+Level Talent changed Malefice Stun Duration Midnight Pulse Radius
+Level Talent changed Ink Swell Damage Ink Swell Cooldown
+Level Talent changed Life Break Cast Range Life Break Cooldown
+Level Talent changed Forged Spirit Summoned DPS Ice Wall
+Spirits sub abilities
+Omnislash longer restricted initially cast Ancients
+Swiftslash longer restricted initially cast Ancients
+Level Talent changed Blade Fury movement speed Healing Ward cooldown
+Chakra Magic longer cast enemies
+Removed Blinding Light basic ability
+New Ability Solar Bind new basic ability Lowers target magic resistance causes target become increasingly slowed target moves units moved reduces target movement speed Lasts seconds Cast Range Manacost Cooldown
+Spirit Form ultimate ability Transforms hero spirit form granting Movement Speed Cast Range Grants Blinding Light cd cast range miss seconds knockback distance damage manacost Recall cd second delay manacost Also causes Illuminate longer require channeling Cooldown Duration Manacost
+Scepter Rework Grants However instead stun flicker applies movement manipulation pulls units inwards rate units per second prevent Cooldown
+Level Talent changed Flicker Blinding Light Cooldown
+Level Talent changed AoE Spirit Form Duration
+Level Talent changed Health Count Blinding Light Stun
+Level Talent changed Illuminate Illuminate Damage
+Level Talent changed Armor Cast Range
+Scepter Rework Grants Nihilism Grants temporary aura causes nearby enemies AoE turn ethereal preventing attacking causing take magic damage slowed seconds Increases speed rather reducing Cooldown Manacost
+New Ability Replaced Open Wounds Ghoul Frenzy Passively causes Lifestealer attacks slow enemy movement speed seconds Additionally grants Attack Speed
+Level Talent changed Open Wounds Cooldown Ghoul Frenzy Slow
+Scepter Rework Allows Infesting enemy heroes seconds attacking inside every seconds Enemy heroes gain bonuses Infest Doubles self regen rate increases cast range reduces cooldown seconds
+Mana Drain multi target searches units within cast range rather radius around target Prioritizes heroes
+Level Changed True Form Health True Form Spirit Bear Health
+Lunar Blessing damage bonus changed flat
+Level Talent changed Armor Feral HP Regen
+Level Talent changed Feral HP Regen Shapeshift Speed
+Level Talent changed Shockwave Damage Skewer Cooldown
+Scepter Rework Releases shockwaves going outwards degree angles hit one reaching end shockwaves come back origin deal damage pull towards cast point second time
+Scepter Rework Creates invulnerable soldiers front Bulwark toggled Soldiers move alongside hero deal full damage bonus damage applies procs well Enemies attacked soldier time Soldiers apply slow second attacks
+Level Talent changed Spear Cooldown Movement Speed
+Level Talent changed Movement Speed God Rebuke Cooldown
+Level Talent changed Mana Intelligence
+Level Talent changed Lifesteal Ransack Health Steal
+Level Talent changed Poof Cooldown Divided Stand clone
+Scepter Rework Grants new skill Dig Clones also ability Channels seconds digs ground seconds dispelling causing become invulnerable untargetable Restores total max health duration cast rooted Cooldown Manacost
+Scepter Rework Causes Sacred Arrow release Starfall enemies within AoE along travel path active primary arrow Drops second Starfall deals damage impacted unit
+Level Talent changed Multishot Adaptive Strike Strength
+Level Talent changed Ensnare Cooldown Song Siren Cooldown
+Scepter Rework Allows Ensnare target Spell Immune sleeping units Reduces Ensnare cooldown seconds increases cast range
+Scepter Rework Lowers cooldown Entangles enemies hits Duration scales seconds seconds max bounce
+Level Talent changed Hunter Night Movement Speed Armor
+Level Talent changed Lifesteal Hunter Night Movement Speed
+Level Talent changed Movement Speed Bash
+Scepter Rework Causes Fate Edict longer disarm allies make enemies magic damage immune
+Level Talent changed False Promise Invisibility Purifying Flames Allied Damage
+Renamed Outworld Devourer Outworld Destroyer
+Astral Imprisonment steals max mana enemies seconds increase current mana values reduce enemy current mana value directly
+Arcane Orb manacost changed current mana
+Essence Flux longer active component
+Sanity Eclipse longer provides abilities mana capacity charge counter
+Level Talent changed Critical Damage Coup de Grace Chance
+Scepter Rework Juxtapose cast destroying juxtapose illusions quickly creating max illusions allows bonus seconds duration Cooldown Manacost
+Level Talent changed Rot Damage Rot Slow
+Level Talent changed Rot Slow Meat Hook Damage
+Scepter Rework Increases Rot radius damage Reduces health regen affected enemies
+Level Talent changed Scream Pain Fear Sonic Wave Damage
+Level Talent changed Base Damage Fade Bolt Steals Hero Damage
+Level Talent changed Fade Bolt Steals Hero Damage Base Damage
+Epicenter uses cast time instead channel time
+Gobble impact damage changed match current Glob values ultimate
+Level Talent changed Overload Pierces Immunity Overload Bounce Causes attack bounce times random enemies bounce back enemies
+Level Talent changed Storm Hammer Dispels Enemies Warcry Duration
+Terror Wave ability gained equipping Scepter rather Metamorphosis cast
+Terror Wave fear sends units away rather towards fountain
+Level Talent changed Gush Damage Mana Regen
+Level Talent changed Mana regen Gush Damage
+Chakram scepter slow stacks independently primary Chakram
+Reworked Aghanim Scepter Upgrades laser Shrink Ray causing cast range reduces enemy model size current health values stacks Laser bounces furthest target range primary target prioritizes heroes
+Level Talent changed Whirling Axes Cooldown Battle Trance Duration
+Reworked Aghanim Scepter Causes Ranged Axes dispel enemies melee axes dispel Reduces cooldown manacost half
+Walrus Kick targets direction kicks closest enemy unit within radius Prioritizes heroes
+Reworked Aghanim Scepter Dark Rift cast allied heroes Reduces cast delay second cooldown seconds
+Level Talent changed Health Regen Decay Duration
+Level Talent changed Decay Duration Soul Rip
+Level Talent changed Tombstone Attacks Destroy Decay Cooldown
+Level Talent changed Decay Cooldown Tombstone Attacks Destroy
+Reworked Aghanim Scepter Upon death creates cast spells deals damage takes damage Illusion movement speed bonus illusion alive respawn take place XP earned illusion given hero
+Level Talent changed Vengeance Aura Attack Range Cast Range
+Level Talent changed Vengeance Aura Illusion Casts Spells Vengeance Aura Base Damage
+Level Talent changed Gale Hero Impact Summons Wards Attack Range
+Level Talent changed Nethertoxin Silences Nethertoxin Cooldown
+Reworked Aghanim Scepter Grants Silent Grave Turns familiars invisible movement speed well upgrading movement type flying familiars exit invisibility deal bonus damage seconds Lasts seconds Cooldown Manacost
+Reworked Mortal Strike passive cooldown critical strike ability Crit Cooldown
+Reworked Vampiric Aura called Vampiric Spirit Provides Lifesteal activated summon skeletons numbers Mortal Strike Skeletons also Vampiric Spirit ability
+Level Talent changed Reincarnation Mana Cost Movement Speed
+Level Talent changed Vampiric Aura Mortal Strike Cooldown
+Level Talent changed Cooldown Reduction Thundergod Wrath Damage

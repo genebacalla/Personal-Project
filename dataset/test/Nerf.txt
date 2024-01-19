@@ -1,0 +1,698 @@
+Base attack time increased
+Base attack time increased
+Model size increased
+Base attack time increased
+Base attack time increased
+Base attack time increased
+Heal mana cost increased
+Heal cooldown increased
+Damage reduced
+Base attack time increased
+Envenomed Weapon duration decreased
+Envenomed Weapon hero duration decreased
+Base attack time increased
+Base attack time increased
+Damage reduced
+Base attack time increased
+Damage reduced
+Health reduced
+Base attack time increased
+Damage reduced
+Health reduced
+Magic resistance decreased
+Base attack time increased
+Magic resistance decreased
+Base attack time increased
+Damage decreased
+Health decreased
+Base attack time increased
+Damage decreased
+Base attack time increased
+Base attack time increased
+Active longer grants cooldown reduction
+Health drain per second increased
+Movement speed bonus reduced
+Movement speed bonus reduced
+longer grants spell amplification
+Damage reduced
+Agility bonus reduced
+Intelligence bonus reduced
+Melee Illusion mana burn reduced
+Bonus stats reduced
+longer reveals invisibility dropped
+Cooldown increased
+Healing per second reduced Total heal reduced
+Bonus Mana reduced
+Magic resistance reduced
+Bonus Status Resistance reduced
+Unit damage per second reduced
+Stun duration decreased
+longer slows enemy
+Quell damage reduced
+Blind effect reduced
+longer toggled owner game Shadow Demon Disruption
+Mana Regen reduced
+Cooldown increased
+Bonus Status Resistance reduced
+Cooldown increased
+Recipe cost increased total cost increased
+Active longer grants attack damage attack speed
+Bonus health decreased
+Bonus Intelligence reduced
+Damage decreased
+Movement speed Bonus decreased
+Damage decreased
+Bonus mana regen reduced
+Bonus movement speed decreased
+Bonus range reduced
+Cooldown reduction reduced
+Bonus mana reduced
+Bonus Intelligence reduced
+Psychic Push range reduced
+Bonus damage reduced
+Bonus attack range reduced
+Bonus cast range reduced
+Explosion damage reduced
+Debuff duration amplification reduced
+Bonus attack speed reduced
+Cooldown reduction reduced
+Strength reduced
+Intelligence reduced
+Damage per second units reduced
+Strength gain reduced
+Level Talent Mist Coil reduced
+Level Talent AoE Mist Coil reduced
+Damage reduced
+Level Talent Ice Vortex resistance reduced
+Base Strength reduced
+longer grants movement speed Axe
+Cooldown increased
+longer reduces cast speed
+Damage reduced
+Base Damage reduced
+Cooldown increased
+Shard longer grants Brewmaster attack procs Void Brewling
+Strength gain reduced
+Level Talent mana regen reduced
+Level Talent spell lifesteal reduced
+Spiderling duration reduced
+Poison Sting longer deals damage per second
+Strength gain reduced
+Damage increased
+Scepter damage reduction decreased
+Level Talent decreased Retaliate Damage
+Heal reduced
+Channel time decreased
+Intelligence gain decreased
+Scepter bonus duration reduced
+Illusion duration reduced
+Shard longer reduces cooldown
+Seconds per revolution decreased
+Damage reduced
+Level Talent Bedlam damage reduced
+Level Talent attack speed reduced
+Mana cost increased
+Swipe radius reduced
+Smash damage reduced
+Return impact radius reduced
+Damage per strike reduced
+Gold reduced
+Mana cost increased
+Base Strength reduced
+Range multiplier
+Strength gain decreased
+Mana cost increased
+Stone speed multiplier reduced
+Cast point increased
+Cast point increased
+Absorb amount reduced Shield disables receiving damage
+Cast point increased
+Level Talent Flame Guard absorption reduced
+Shard outer radius reduced
+Base damage reduced
+Projectile speed reduced
+Stun duration reduced
+longer benefits twice cast range bonus
+Strength reduced
+Bonus movement speed decreased
+Mana cost increased
+Level Talent Alacrity reduced
+Cooldown increased
+Spell Amplification reduced
+Base Strength reduced
+Cooldown increased
+Scepter duration reduced
+Level Talent Bladefury DPS reduced
+Cooldown increased
+Intelligence gain decreased
+Cooldown increased
+Duration reduced
+Movement speed bonus per charge reduced
+Attack speed bonus per charge reduced
+Level Talent Fiery Soul per stack reduced
+Entangle damage interval reduced
+Level Talent Lucent Beam cooldown reduced
+Damage decreased
+Duration reduced
+Level Talent Summon Wolves Damage decreased
+Level Talent Shapeshift critical chance reduced
+longer target enemy units
+Pulse damage reduced
+Cooldown increased
+Spear damage reduced
+Mana cost reduced
+Cooldown increased
+Base attack speed reduced
+Perched vision reduced
+longer triggers random chance
+Treant Base damage reduced
+Agility gain reduced
+Level Talent Dark Ascension duration reduced
+Level Talent Dark Ascension damage reduced
+Cooldown reduced
+Intelligence damage multiplier reduced
+Mana cost increased
+Cooldown increased
+Level Talent health reduced
+Scepter longer grants HP regen
+Cooldown increased
+Current mana damage reduced
+Max mana restored reduced
+Mana cost increased
+Base armor reduced
+Bonus Strength per death reduced
+Shard cooldown reduction reduced
+Mana cost increased
+Shard damage reduced
+Mana cost increased
+Damage decreased
+Mana cost increased
+Aghanim Scepter longer reduces cooldown
+Tinker Rearm longer stealable
+Damage reduced
+Mana Cost increased
+Level Talent Arcane Curse damage reduced
+Magic resistance reduction reduced
+Sprint Passive River Speed reduced
+Base Strength reduced
+Latch Radius increased
+Level Talent Essence Shift duration reduced
+Cooldown increased
+Shard stun duration reduced
+Armor reduction decreased
+Mana cost increased
+Impact damage reduced
+Search radius reduced
+Level Talent health reduced
+Level Talent Spectral Dagger reduced
+Mana cost increased
+Movement speed bonus reduced
+Level Talent Charge Darkness Speed reduced
+Level Talent mana regen reduced
+Base movement speed reduced
+Base armor reduced
+Self damage reduced
+Damage reduced
+longer cast leashed
+longer deals lethal damage Techies
+Level Talent Blast damage reduced
+Level Talent Blast cooldown reduced
+Level Talent Refraction charges reduced
+Agility gain reduced
+Shard Bonus damage reduced
+Primary attribute reduction reduced
+Cooldown increased
+Cooldown increased
+Damage per Second reduced
+Base damage reduced
+Status Resistance reduced
+Channeling Time increased
+Damage reduced
+Bonus damage multiplier Tossed units reduced
+Bonus building damage reduced
+Cooldown increased
+Movement speed reduced
+Critical damage reduced
+Cooldown increased
+Level Talent Walrus Punch critical damage reduced
+Shard longer reduces cast point
+Shard cooldown reduction increased
+longer deals damage tick applies debuff
+Shard bonus damage reduced Level damage
+Level Talent Shadow Word reduced
+Hero attacks destroy reduced
+Cooldown increased
+Aghanim Scepter longer reduces cooldown
+Stun duration units reduced
+Base Agility reduced
+Lifesteal reduced
+Mana cost increased
+Cold Feet cooldown increased
+Ice Blast cooldown increased
+Firefly cooldown increased
+Shuriken Toss damage reduced
+Shuriken Toss scepter longer reduces cooldown
+Void Brewling base attack damage reduced
+Viscous Nasal Goo base slow reduced
+Viscous Nasal Goo scepter radius reduced
+Viscous Nasal Goo scepter max stacks reduced
+Spawn Spiderlings mana cost increased
+Spawn Spiderlings damage reduced
+Hoof Stomp stun duration decreased
+Strength gain reduced
+Reality Rift cooldown increased
+Chaos Strike lifesteal decreased
+Divine Favor aura longer provides Heal Amplification
+Skeleton Walk longer cast spells without breaking invisibility
+Level Talent Skeleton Walk reduced
+Overclocking bonus movement speed decreased
+Base attack speed reduced
+Wall Replica duration reduced
+Level Talent reduced Ion Shell damage
+Level Talent Cursed Crown duration reduced
+Base Agility reduced
+Exorcism cooldown increased
+Intelligence gain reduced
+Devour bonus gold reduced
+Level Talent reduced Scorched Earth cooldown
+Level Talent reduced Infernal Blade Damage
+Dragon Tail stun duration reduced
+Dragon Blood health regen reduced
+Black Elder Dragon Splash damage reduced
+Fireball DPS reduced
+Echo Stomp damage reduced
+Fire Remnant Aghanim Scepter maximum travel distance reduced
+Level Talent reduced Magic Resistance
+Level Talent reduced Nature Attendance Wisps
+Midnight Pulse multiple instances longer stack
+Agility Gain reduced
+Flak Cannon range reduced
+Movement Speed reduced
+Inner Fire Shard longer reduces Healing
+Base Movement Speed reduced
+Deafening Blast damage reduced
+Deafening Blast knockback reduced
+Macropyre cooldown increased
+Healing Ward movement Speed reduced
+Ghost Ship Fleet Interval increased
+Tidebringer cleave percentage reduced
+Diabolic Edict damage per explosion reduced
+Movement Speed reduced
+Infest longer target Undying zombies
+Fiery Soul attack speed bonus per stack reduced
+Armor reduced
+Earth Spike travel distance reduced Cast Range unchanged bonus length reduced
+Finger Death Scepter damage reduced
+Level talent reduced damage
+Lucent Beam cooldown increased
+Lucent Beam Shard glaives acquisition range reduced
+Moon Glaives damage reduction percentage increased
+Empower duration reduced
+Arena Blood cooldown increased
+Mystic Snake jump radius reduced
+Mana Shield damage per mana reduced
+Strength gain reduced
+Agility gain reduced
+Poof damage reduced
+Level talent reduced Poof Damage
+Sacred Arrow max stun reduced
+Sacred Arrow vision reduced
+Adaptive Strike Agility base damage reduced
+Morph replicate longer steals abilities Morphling
+Agility gain reduced
+Sprout vision range reduced
+Strength gain reduced
+Ghost Shroud self restoration amplification reduced
+Dark Ascension cooldown increased
+Base Strength reduced
+Base Agility reduced
+Base Health Regen reduced
+Burrow HP Mana regeneration reduced
+Strength gain reduced
+Unrefined Fireblast mana cost increased current mana
+Level Talent Bloodlust reduced
+Strength reduced
+Hammer Purity longer heals Omniknight attack
+Hammer Purity manacost increased
+Hammer Purity cooldown increased
+Purifying Flames cooldown increased
+False Promise duration reduced
+Shield Crash cooldown reduced
+Lucky Shot longer slows enemies
+Icarus Dive dash length reduced
+Sun Ray max health heal per second reduced
+Base damage reduced
+Phase Shift cooldown increased
+Dream Coil longer initial stun still cancels TPs since leashes target
+Dismember Shard cast range allies reduced
+Nether Ward longer mana reducing aura
+Shadow Strike tick damage reduced
+Tricks Trade damage per attack reduced
+Sleeping Dart cast range reduced
+Strength gain reduced
+Strength gain reduced
+Guardian Sprint cooldown increased
+Take Aim longer grants True Strike
+Take Aim active self move speed slow increased
+Take Aim duration reduced
+Strength reduced
+Charge Darkness mana cost increased
+Charge Darkness Scepter longer grants bonus movement speed
+Proximity Mines damage reduced
+Psi Blades spill range multiplier reduced
+Psi Blades deals less spill damage successive enemy first one
+Psionic Projection channel time increased
+Psionic Projection longer teleports Templar Assassin rooted leashed
+Agility gain reduced
+Metamorphosis duration decreased
+Gush armor reduction decreased
+Anchor Smash bonus damage reduced
+Kraken Shell threshold timer increased
+Whirling Death damage reduced
+Timber Chain damage reduced
+Laser Shrink Ray bonus cast range reduced
+Laser Shrink Ray hp reduction reduced
+Defense Matrix damage absorbed reduced
+Defense Matrix status resistance reduced
+March Machines mana cost increased
+Nature Grasp duration reduced
+Base movement speed reduced
+Firestorm mana cost increased
+Earthshock cooldown increased
+Earthshock Shard longer reduces cooldown
+Agility reduced
+Nethertoxin max damage reduced
+Grave Chill move speed drain reduced
+Summon Familiars turn rate increased
+Agility gain reduced
+Arctic Burn attack range bonus decreased
+Arctic Burn movement speed slow reduced
+Winter Curse cast range reduced
+Cold Embrace Shard cooldown reduction reduced
+Cold Embrace percentage heal reduced
+Level Talent Damage reduced
+Paralyzing Cask hero damage reduced
+Reincarnation cooldown increased
+Nimbus duration reduced
+Nimbus Lightning Bolt interval increased
+Nimbus bounty increased
+Aphotic Shield mana cost increased
+Greevil Greed gold bonus cap reduced
+Ice Vortex Cooldown increased
+Level Talent reduced Flux Cast Range
+Level Talent reduced Mana Regen
+Enfeeble cast range reduced
+Flamebreak range reduced
+Rupture damage reduced
+Shadow Walk slow longer pierces Spell Immunity
+Quill Spray stack damage reduced
+Level Talent reduced Mana Regen
+Spin Web movement speed reduced
+Insatiable Hunger damage reduced
+Insatiable Hunger duration reduced
+Stampede damage reduced
+Strafe mana cost increased
+Skeleton Walk shard skeleton duration reduced seconds
+Jetpack shard movement speed bonus reduced
+Ion Shell mana cost increased
+Ion Shell scepter max health reduced
+Bramble Maze cast range reduced
+Terrorize cast range reduced
+Base damage reduced
+Movement speed reduced
+Devour longer provides health regen
+Doom scepter longer reduces cooldown
+Dragon Tail Cooldown increased
+Boulder Smash stone slow reduced
+Geomagnetic Grip remnant pull speed reduced Boulder Smash
+Stone Remnant vision radius reduced
+Rolling Boulder distance reduced
+Rolling Boulder stone distance reduced
+Rolling Boulder damage increased
+Enchant Totem longer True Strike
+Enchant Totem scepter leap range reduced
+Earth Splitter cooldown increased
+Echo Stomp mana cost increased
+Fire Remnant cast range reduced
+Fire Remnant scepter cast range reduced
+Demonic Conversion cooldown increased
+Time Dilation duration reduced
+Time Dilation cooldown slow reduced
+Chronosphere cast range reduced
+Time Walk cast range reduced
+Flak Cannon cooldown increased
+Bushwhack radius decreased
+Bushwhack damage decreased
+Scurry active speed reduced
+Sharpshooter max damage reduced
+Sharpshooter movement slow reduced
+Sharpshooter max debuff duration reduced
+Sharpshooter longer grants vision along sight
+Quas regen reduced
+Exort damage reduced
+Level Attack Talent attacks Io capable attacking
+Tether cast range reduced
+Tether longer unlocks max movement speed
+Spirits max distance reduced
+Spirits collision damage reduced
+Level Talent reduced Damage
+Level Talent reduced Spirits Max Range
+Liquid Frost shard slow reduced
+Macropyre scepter longer increases damage
+Omnislash attack rate multiplier reduced
+Swiftslash mana cost increased
+Swiftslash cast range reduced
+Spirit Form longer grants Recall
+Torrent cast range reduced
+Duel scepter longer grants spell immunity
+Duel scepter damage immunity participants changed
+Frost Blast primary target damage reduced
+Chain Frost mana cost increased
+Mana Drain break distance reduced
+Lucent Beam shard longer increases stun duration
+Lucent Beam shard longer provides movement speed
+Shapeshift movement speed reduced
+Wolf Bite grants Shapeshift target rather target units controls
+Skewer speed reduced
+Agility gain reduced
+God Rebuke damage vs heroes reduced
+Arena Blood damage reduced
+Intelligence gain reduced
+Poof damage reduced
+Dig scepter duration increased
+Increased turn rate
+Base health regen reduced
+Tree Dance range reduced
+Boundless Strike cast range reduced
+Wukong Command scepter soldiers longer attack Roshan
+Wukong Command scepter soldiers die Monkey King dies
+Level Talent reduced Tree Dance Cast Range
+Attribute Shift mana cost per second shift attributes
+Adaptive Strike shard longer removes second shard cooldown
+Ensnare cooldown increased
+Ensnare cast range reduced
+Rip Tide shard longer active
+Teleportation cooldown increased
+Wrath Nature increment per bounce reduced
+Level Talent reduced Impale Damage
+Level Talent reduced Bloodlust Attack Speed
+Level Talent reduced Strength
+Intelligence gain reduced
+Astral Imprisonment cast point increased
+Astral Imprisonment scepter longer increases cast range
+Swashbuckle cast range reduced
+Rolling Thunder speed reduced
+Rolling Thunder damage reduced
+Level Talent reduced Mana Regen
+Level Talent reduced Phantom Strike Cast Range
+Doppelganger cast range reduced
+Phantom Rush range reduced
+Level Talent reduced Phantom Rush Range
+Sun Ray max health damage reduced
+Sun Ray cast range reduced
+Supernova radius reduced
+Level Talent reduced Icarus Dive Cast Range
+Phase Shift cooldown increased
+Waning Rift cooldown increased
+Level Talent reduced Waning Rift AoE Range
+Meat Hook cooldown reduced
+Blink distance reduced
+Static Link buff duration reduced
+Tricks Trade attack damage reduced
+Burrowstrike scepter cast range reduced
+Arcane Curse damage reduced
+Arcane Bolt damage multiplier reduced
+Level Talent reduced Mystic Flare Damage
+Sprint longer unlocks max movement speed
+Firesnap Cookie jump distance reduced
+Spectral Dagger cast range reduced
+Shadow Step cooldown reduced
+Bulldoze speed reduced
+Overload bounce talent longer applied allies Shard buff Storm Spirit benefits
+Overload bounce talent causes secondary attacks damage instead
+Storm Hammer scepter cast range reduced
+Minefield Sign longer placed fountain areas
+Blast shard cast range reduced
+Meld cooldown increased
+Psionic Trap cast range reduced
+Base armor reduced
+Metamorphosis attack damage bonus reduced
+Metamorphosis attack range bonus reduced
+Reactive Armor duration reduced
+Reactive Armor regen per stack reduced
+Timber Chain cast range reduced
+Laser scepter current health reduction reduced
+Rearm mana cost increased
+Rearm channel time increased
+Tree Volley cast range reduced
+Tree Throw cast range reduced
+Whirling Axes Ranged mana cost increased
+Whirling Axes Ranged distance reduced
+Battle Trance movement speed reduced form
+Level Talent reduced Agility
+Base HP regen reduced
+Tag Team damage reduced
+Snowball cast range reduced
+Ice Shards cast range reduced
+Frozen Sigil shard longer reduces attack speed
+Firestorm shard longer provides healing
+Dark Rift scepter longer reduces cooldown
+Flesh Golem illusions longer apply debuff
+Level Talent reduced Agility Agility
+Vengeance Aura scepter illusion movement speed reduced
+Wave Terror shard damage steal reduced
+Poison Sting slow reduced
+Level Talent reduced Poison Sting Slow
+Poison Attack Shard armor reduction reduced
+Aether Remnant cast range reduced
+Astral Step cast range reduced
+Resonant Pulse mana cost increased
+Resonant Pulse cooldown increased
+Level Talent reduced Astral Step Charge Restore Time
+Shadow Ward shard movement reduced
+Upheaval AoE reduced
+Upheaval max duration reduced
+Level Talent reduced Shadow Word Cooldown
+Shukuchi longer unlocks max movement speed
+Level Talent reduced Swarm Attacks Kill
+Windrun scepter longer unlocks max movement speed still provides charges
+Cold Embrace shard longer increases Splinter Blast damage
+Bottle refills charges capturing Water Bounty Runes
+Strength gain decreased
+Base damage decreased
+Movement speed decreased
+Gold bonus cap reduced last hit count
+Scepter amp bonus reduced
+Level Talent reduced Cleave
+Mana Break max burn reduced
+Level Talent reduced Blink Cast Range
+Strength gain reduced
+Level Talent reduced Flux Cast Range
+Level Talent reduced Cooldown Reduction
+Level Talent reduced Attack Speed
+Brain Sap damage reduced
+Brain Sap scepter longer improves cast point
+Fiend Grip damage reduced
+Level Talent reduced Cast Range
+Level Talent reduced Brain Sap
+Sticky Napalm damage per stack reduced
+Sticky Napalm turn rate slow reduced
+Firefly movement speed decreased
+Flaming Lasso cooldown increased
+Base intelligence reduced
+Blood Rite damage reduced
+Blood Rite cooldown increased
+Blood Rite manacost increased
+Thirst longer provides half heal within range dying creeps
+Thirst hero heal reduced
+Level Talent reduced Blood Rite Cooldown
+Base agility reduced
+Drunken Brawler cooldown increased
+Primal Split Storm health reduced
+Level Talent reduced Drunken Brawler Critical Strike Damage
+Agility gain reduced
+Divine Favor longer active component
+Base mana regen reduced
+Terrorize cast range reduced
+Level Talent reduced Bramble Maze CD
+Spirit Siphon longer drains movement speed
+Base damage reduced
+Frost Arrows slow reduced
+Marksmanship damage bonus reduced
+Earth Remnant duration reduced minutes minute
+Activate Fire Remnant scepter manacost increased
+Sproink upgrade longer grants attack range passively
+Sproink cooldown increased seconds
+Level Talent reduced Cooldown Reduction
+Base agility reduced base damage unchanged
+Time Lock bonus damage reduced
+Level Talent reduced Time Walk Cast Range
+Ink Swell Max damage reduced
+Cataclysm cooldown increased
+Level Talent reduced Alacrity
+longer instant turning actions
+Attack point increased
+Tether heal transfer reduced
+Overcharge attack speed reduced
+Relocate cooldown increased
+Level Talent reduced Attack Speed
+Feast longer grants attack speed
+Rage manacost increased
+Infest manacost increased
+Base damage reduced
+Base armor reduced
+Light Strike Array cooldown increased
+Hex unit movement speed reduced
+Level Talent reduced Cast Range
+Level Talent reduced Empower
+God Rebuke manacost increased
+Arena Blood damage reduced
+Nature Call treant base damage reduced
+Base damage reduced
+Ignite manacost increased
+Heavenly Grace duration reduced seconds
+Agility reduced
+Astral Imprisonment scepter upgrade cast range bonus reduced
+Astral Imprisonment duration reduced
+Astral Imprisonment longer deals area damage
+Arcane Orb cooldown increased
+Blur evasion reduced
+Level Talent reduced Health
+Level Talent reduced Phantom Strike Cast Range
+Level Talent decreased Phantom Rush Range
+Supernova cooldown increased
+Sunray manacost increased
+Level Talent reduced Waning Rift AoE Range
+Agility gain reduced
+Strength gain reduced
+Tricks Trade scepter cast range reduced
+Arcane Supremacy longer provides debuff amplification
+Level Talent reduced Wards Attack Damage
+Guardian Sprint movement speed reduced
+Slithereen Crush manacost increased
+Scepter hp regen reduced
+Scepter armor bonus reduced
+Firesnap Cookie manacost increased
+Gobble Manacost
+Agility gain reduced
+Base attack speed reduced
+Spectral Dagger cooldown increased
+Spectral Dagger manacost increased
+Charge Darkness scepter cooldown increased
+God Strength reduced
+Storm Hammer scepter longer applies attacks impact
+Storm Hammer scepter bonus range reduced
+Terror Wave fear duration reduced
+Avalanche deals damage tossed units rather
+Decay manacost increased
+Soul Rip per unit reduced
+Vengeance Aura longer increases attack range primary attribute
+Vengeance Aura longer mechanics
+Nether Swap longer charges
+Summon Familiars base attack time increased
+Level Talent reduced Astral Step Charge Restore Time
+Windrun scepter movement speed reduced
+Thundergod Wrath manacost increased
+Thundergod Wrath cooldown increased
+Level Talent reduced Mana Regen
+Level Talent reduced Arc Lightning Damage
