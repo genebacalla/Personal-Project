@@ -1,3 +1,353 @@
+Damage bonus increased
+Strength bonus increased
+Cost decreased
+True Sight Radius increased
+Boldness Attack Speed increased
+Boldness Enemy hero search range increased
+Courage Damage increased
+CCourage Armor increased
+Dig Cooldown decreased
+Afterburn Burn Damage increased
+Mana Regen bonus increased
+Sixth Sense Cooldown decreased
+Spell Lifesteal increased
+Armor bonus increased
+Attack Range bonus increased
+Attack Speed bonus increased
+Health Regen bonus increased
+Endurance Duration increased
+Havoc Damage Strength multiplier increased
+Magic Resistance bonus increased
+Attributes bonus decreased
+Movement Speed bonus increased
+Damage Base Damage decreased Level damage unchanged
+Damage Base Damage decreased Level damage unchanged
+Base Damage decreased Level damage unchanged
+Strength Base Strength increased
+Minimum Damage increased
+Lifesteal creeps increased
+Level Talent Chaos Strike Lifesteal increased
+Level Talent Phantasm Illusion Incoming Damage Reduction increased
+Agility Agility gain increased
+Intelligence Intelligence gain increased
+Level Talent Attack Speed increased
+Level Talent Poison Touch DPS increased
+Movement Speed Base Movement Speed increased
+Attack Time Base Attack Time improved
+Fissure Range increased
+Cast Point improved
+Stun Duration increased
+Echo Damage increased
+Radius increased
+Cooldown decreased
+Cooldown decreased
+Movement Speed Base Movement Speed increased
+Slow Duration increased
+Mana Cost decreased
+Damage increased
+Strength Base Strength increased
+Strength Base Strength increased
+Contact Damage increased
+Burn Damage per second increased
+Aghanim Shard Pull Speed increased
+Travel Distance increased
+Strength Strength gain decreased
+Cooldown decreased
+Movement Slow increased
+Cooldown decreased
+Damage increased
+Damage increased
+Level Talent Light Strike Array Damage increased
+Level Talent Health increased
+Intelligence Base Intelligence increased
+Cooldown decreased
+Damage increased
+Aghanim Shard Magic Resistance increased
+Cooldown decreased
+Aghanim Shard Damage per second increased
+Bonus Damage vs Heroes increased
+Cooldown decreased
+Max Stacks increased
+Damage increased
+Chance increased
+Intelligence Intelligence gain increased
+Roar Bonus Armor per stack increased
+Hit Damage increased
+Level Talent Uproar Armor Per Stack increased
+Agility Agility gain increased
+Armor Base Armor increased
+Bonus Speed increased
+Strength Base Armor decreased
+Strength Strength gain increased
+Mana Cost decreased
+Status Resistance increased
+Cooldown decreased
+Movement Speed Damage increased
+Movement Speed Base Movement Speed increased
+Damage increased
+Strength Base Damage decreased Level damage decreased
+Lifesteal creeps increased
+Level Talent Lightning Bolt Ministun increased
+Level Talent Arc Lightning Current Health Damage increased
+Empower Spell Bonus Damage increased
+Empower Spell Slow Duration increased
+Verdurous Dale Radius increased
+Damage bonus increased
+Ogre Seal Flop Slow Duration increased
+Ogre Seal Flop Radius increased
+Attack Speed bonus increased
+Vengeance Armor bonus hero stunned increased
+Strength bonus increased
+Damage bonus increased
+Movement Speed bonus increased
+Bottled Lightning Slow Duration increased
+Attack Cast Range bonus increased
+Strength Strength gain increased
+Damage per second increased
+Mana Cost decreased
+Strength Base Strength increased
+Mana Cost decreased
+Max Stacks increased
+Strength Base Damage increased
+Attack Range Base Attack Range increased
+Strength Strength gain increased
+Base Attack Damage Bonus increased
+Radius increased
+Mana Cost decreased
+Agility Base Agility increased
+Intelligence Base Intelligence increased
+Projectile Speed increased
+Radius increased
+Bonus Health increased
+Strength Base Strength increased
+Mana Cost decreased
+Level Talent Power Cogs Cooldown Reduction increased
+Strength Base Mana Regen increased
+Mana Cost decreased
+Mana Cost decreased
+Level Talent Malefice Instance Damage increased
+Strength Strength gain increased
+Agility Agility gain increased
+Strength Strength gain increased
+Mana Cost decreased
+Level Talent Rebound Stun Duration increased
+Intelligence Base Intelligence increased
+Outgoing Damage increased
+Main Gain increased
+Damage Per Mana increased
+Illusions benefit Mana Shield
+Strength Base Strength increased
+Mana Cost decreased
+Mana Cost decreased
+Strength Base Strength increased
+Mana Cost decreased
+Charge Bonus Speed increased
+Bonus Damage increased
+Level Talent Greater Bash Chance increased
+Strength Strength gain increased
+Agility Agility gain increased
+Strength Base Strength increased
+Strength Base Agility increased
+Mana Cost decreased
+Duration increased
+Recipe cost decreased total cost decreased
+Active Spell Lifesteal multiplier increased
+Attack Range increased
+Damage increased
+Bonus Health increased
+Cooldown decreased
+Cast Range increased
+Magic Resistance increased
+Fade Time decreased
+Active healing increased
+used Neutral Creep secure Neutral Item drop available
+Cast Range increased
+Lifesteal increased heroes
+Cooldown decreased
+Magic Resistance increased
+Lifesteal increased heroes
+Recipe cost decreased total cost decreased
+Cooldown decreased
+Lifesteal increased heroes
+Armor increased
+Nullify cooldown decreased
+Insight Aura magic resistance increased
+Burn miss chance increased
+Lifesteal increased heroes
+Lifesteal increased heroes
+Lifesteal increased heroes
+Giving Aghanim Scepter ally grants Alchemist bonus Damage Spell Amplification even Alchemist one yet
+Radius increased
+Slow duration increased
+Mana Cost decreased
+Mana Cost decreased
+Slow always applied Damage still applied allies nearby
+Cast point improved
+Slow increased
+Shard Max Stacks increased
+Cast Range increased
+Cast Point improved
+Shard cooldown reduction increased
+Movement Speed slow increased
+longer damages Bloodseeker Spell Immunity
+Level Talent Max Thirst Movement Speed bonus increased
+duration increased
+Base Movement Speed increased
+additionally improves Turn Rate
+Miss chance increased
+Base Health Regen increased
+Return Damage decreased
+Slow duration increased
+Level Talent Reality Rift pull distance increased
+Level Talent Chaos Strike Lifesteal increased
+Bonus Attack Speed Allies decreased
+Number arrows increased
+Self Bonus factor increased
+Min Damage increased
+Max Damage increased
+Illusion spawn delay decreased
+Cooldown decreased
+Spawn delay decreased
+Mana Cost decreased
+Cast Point improved
+decreased
+Agility Agility increased
+Damage increased
+Agility Agility increased
+Level Talent Scorched Earth Cooldown Scorched Earth Movement Speed
+Mana Cost decreased
+Attack Damage Reduction increased
+Bonus Movement Speed increased
+Arrow Damage increased
+Cooldown decreased
+Level Talent Fissure Damage increased
+Level Talent Base Damage increased
+Agility Base Agility increased
+Damage increased
+Agility Agility gain increased
+Base Health Regen increased
+Turn rate improved
+Mana Cost decreased
+Mana Cost decreased
+Duration decreased
+Range increased
+Level Talent Time Dilation Slow per Cooldown increased
+Slow Duration increased
+Cooldown decreased
+Mana Cost decreased
+Projectile Speed Initial projectile speed increased
+Armor Base Armor increased
+Max Strength Health Regen increased
+Level Talent Life Break Cooldown reduction increased
+Damage increased
+Cooldown decreased
+Slow Radius increased
+Mana Cost decreased
+Damage increased
+Level Talent Spirits Hero Damage increased
+Cooldown decreased
+Shard Bonus Movement Speed decreased
+Illuminate Heal increased
+Damage increased
+Movement Speed Slow increased
+Shard Bonus Armor per creep increased
+Shard Bonus Armor per hero increased
+Level Talent Moment Courage Proc Chance increased
+Damage Base damage increased
+Bonus Attack Speed increased
+Level Talent Rage Movement Speed increased
+Level Talent Ghoul Frenzy Slow increased
+Turn Rate Turn Rate improved
+Duration decreased
+Scepter cooldown reduction increased
+Mana Cost decreased
+Redirect range increased
+Level Talent Mystic Snake Cooldown Reduction increased
+Cooldown decreased
+Cooldown decreased
+Secondary target search radius increased
+Speed bonus duration increased
+Shard Wave end radius increased
+Shard Wave projectile speed increased
+Level Talent Leap Distance increased
+Scepter Stolen Status Resistance increased
+Scepter Stolen Attack Speed increased
+Scepter Stolen Spell Damage Amplification increased
+Cooldown decreased
+Cooldown decreased
+Mana Cost increased
+Scepter Stun Duration increased
+Cast Range increased
+Cooldown decreased
+Mana Cost decreased
+Bonus Base Damage increased
+Mana Cost decreased
+Cooldown decreased
+per second increased
+Level Talent Fortune End Duration increased
+Mana Cost decreased
+Incoming Damage Reduction per Hero increased
+Base Health Regen increased
+Base Health Regen increased
+Damage per second increased
+Base damage increased
+Agility Damage Multiplier doubled creeps
+Level Talent Blink Strike Slow Talent increased
+Armor Base Armor increased
+Mana Cost decreased
+Jump Reduction decreased
+Cast Range increased
+Level Talent Sandstorm Damage per Second increased
+Damage Base Damage increased
+Cast Range increased
+Shard Bonus Cast Range decreased
+Scepter Armor Bonus increased
+Base Attack Speed increased
+Projectile Speed increased
+Stun Duration increased
+Base Mana Regen increased
+Stun Duration increased
+Level Talent Ball Lightning spawns remnant every units improved units
+Base Health Regen increased
+Duration increased
+Mana Cost decreased
+Cooldown decreased
+Slow duration increased
+Cooldown decreased
+Mana Cost decreased
+Turn Rate Turn rate improved
+Base Health Regen increased
+Mana Cost decreased
+Damage Block increased
+Level Talent Anchor Smash Reduction increased
+Level Talent Kraken Shell Damage Block increased
+Max Stacks increased
+Mana Cost decreased
+Mana Cost decreased
+Mana Cost per Second decreased
+Mana Cost decreased
+Channel time decreased
+Mana Cost decreased
+Bonus damage increased
+Bonus Armor increased
+Base Health Regen increased
+Base Mana Regen increased
+Stun Duration increased
+Cooldown increased
+Cooldown decreased
+Incoming damage reduction increased
+Cast Point improved
+Cast Point improved
+Level Talent Decay Damage increased
+Level Talent Decay Cooldown Reduction increased
+Cast Range increased
+Damage increased
+Familiar Attack Range increased
+Stun radius increased
+Initial cask projectile speed increased
+Radius increased
+Duration increased
+Base Health regen increased
 Attack damage increased
 Armor increased
 XP bounty increased
@@ -267,1023 +617,715 @@ Shard Cooldown decreased
 Cast Range increased
 Cooldown reduced
 Damage increased
-Aphotic Shield cast range increased
-Unstable Concoction cooldown reduced
-Berserk Potion additionally grants bonus movement speed
-Strength Gain increased
-Magnetic Field shard slow increased
-Level Talent Cooldown Reduction replaced Armor
-Brain Sap mana cost decreased
-Brain Sap cast range increased
-Nightmare deals Pure damage per second enemy nightmared targets
-Fiend Grip cast Point reduced
-Sticky Napalm bonus damage increased
-Call Wild Boar attack damage increased
-Call Wild Hawk vision increased
-Thirst heals half amount denies
-Thirst health threshold increased
-Shuriken Toss cooldown reduced
-Shuriken Toss mana cost reduced
-Shuriken Toss scepter cast range increased
-Track also causes Shuriken Toss deal damage
-Void Brewling base attack time improved
-Void Brewling inherits Brewmaster Attack Modifiers Maelstrom Chain Lightning Skadi Cold Attack Basher Bash etc
-Drunken Brawler passive dodge chance increased
-Warpath stack duration increased
-Stampede damage Strength multiplier increased
-Stampede slow duration increased
-Chaos Strike max critical damage increased
-Divine Favor aura also provides armor
-Searing Arrows mana cost reduced
-Death Pact casted Skeleton Walk without breaking invisibility
-Crystal Nova mana cost reduced
-Freezing Field shard also increases total explosions
-Normal Punch True Strike
-Normal Punch illusion duration increased
-Normal Punch max damage increased
-Level Talent increased Wall Replica Cooldown
-Cursed Crown stun duration reduced
-Added Aghanim Shard Grants magic immunity Starbreaker
-Added Aghanim Scepter Reduces Solar Guardian Channeling time Solar Guardian cast upon takeoff land early Solar Guardian gives allies area evasion Dawnbreaker airborne increases Heal Per Pulse total airborne time seconds
-Poison Touch base slow increased
-Poison Touch increases slow every time refreshed
-Base Strength increased
-Silence cast point reduced
-Level Talent Max Health Spirit Siphon increased
-Kinetic Field formation time reduced
-Thunder Strike slow per strike duration increased
-Scorched Earth cooldown reduced
-Scorched Earth damage increased
-Infernal Blade burn base damage increased
-Black Elder Dragon Magic Resistance reduced
-Fireball damage debuff lingers seconds
-Marksmanship bonus damage reduced
-Frost Arrows scepter Split Arrows longer consume mana
-Stone Remnant charge replenish time decreased
-Movement Speed increased
-Intelligence increased
-Level Talent base damage increased
-Astral Spirit duration increased
-Flame Guard absorb amount increased
-Enchant range reduced
-Level Talent increased damage
-Chronosphere cooldown reduced
-Stroke Fate damage increment per hit increased
-Ink Swell duration increased
-Intelligence Gain increased
-Call cooldown reduced
-Decoy throws Lesser Bushwhack towards unit attacked illusion spawns tree location
-Decoy cooldown reduced
-Decoy stun duration increased
-Movement Speed increased
-Inner Fire Shard heals Huskar damage dealt heroes damage dealt creeps
-Tether max Tether distance increased
-Tether heal amplification increased
-Dual Breath cast point improved
-Liquid Fire burn damage increased
-Blade Fury damage increased
+Empower Spell Bonus Damage increased
+Empower Spell Slow Duration increased
+Verdurous Dale Radius increased
+Damage bonus increased
+Ogre Seal Flop Slow Duration increased
+Ogre Seal Flop Radius increased
+Attack Speed bonus increased
+Vengeance Armor bonus hero stunned increased
+Strength bonus increased
+Damage bonus increased
+Movement Speed bonus increased
+Bottled Lightning Slow Duration increased
+Attack Cast Range bonus increased
+Strength Strength gain increased
+Damage per second increased
+Mana Cost decreased
+Strength Base Strength increased
+Mana Cost decreased
+Max Stacks increased
+Strength Base Damage increased
+Attack Range Base Attack Range increased
+Strength Strength gain increased
+Base Attack Damage Bonus increased
+Radius increased
+Mana Cost decreased
+Agility Base Agility increased
+Intelligence Base Intelligence increased
+Projectile Speed increased
+Radius increased
+Bonus Health increased
+Strength Base Strength increased
+Mana Cost decreased
+Level Talent Power Cogs Cooldown Reduction increased
+Strength Base Mana Regen increased
+Mana Cost decreased
+Mana Cost decreased
+Level Talent Malefice Instance Damage increased
+Strength Strength gain increased
+Agility Agility gain increased
+Strength Strength gain increased
+Mana Cost decreased
+Level Talent Rebound Stun Duration increased
+Intelligence Base Intelligence increased
+Outgoing Damage increased
+Main Gain increased
+Damage Per Mana increased
+Illusions benefit Mana Shield
+Strength Base Strength increased
+Mana Cost decreased
+Mana Cost decreased
+Strength Base Strength increased
+Mana Cost decreased
+Charge Bonus Speed increased
+Bonus Damage increased
+Level Talent Greater Bash Chance increased
+Strength Strength gain increased
+Agility Agility gain increased
+Strength Base Strength increased
+Strength Base Agility increased
+Mana Cost decreased
+Damage bonus increased
+Strength bonus increased
+Cost decreased
+True Sight Radius increased
+Boldness Attack Speed increased
+Boldness Enemy hero search range increased
+Courage Damage increased
+CCourage Armor increased
+Dig Cooldown decreased
+Afterburn Burn Damage increased
+Mana Regen bonus increased
+Sixth Sense Cooldown decreased
+Spell Lifesteal increased
+Armor bonus increased
+Attack Range bonus increased
+Attack Speed bonus increased
+Health Regen bonus increased
+Endurance Duration increased
+Havoc Damage Strength multiplier increased
+Magic Resistance bonus increased
+Attributes bonus decreased
+Movement Speed bonus increased
+Damage Base Damage decreased Level damage unchanged
+Damage Base Damage decreased Level damage unchanged
+Base Damage decreased Level damage unchanged
+Strength Base Strength increased
+Minimum Damage increased
+Lifesteal creeps increased
+Level Talent Chaos Strike Lifesteal increased
+Level Talent Phantasm Illusion Incoming Damage Reduction increased
+Agility Agility gain increased
+Intelligence Intelligence gain increased
+Level Talent Attack Speed increased
+Level Talent Poison Touch DPS increased
+Movement Speed Base Movement Speed increased
+Attack Time Base Attack Time improved
+Fissure Range increased
+Cast Point improved
+Stun Duration increased
+Echo Damage increased
+Radius increased
+Cooldown decreased
+Cooldown decreased
+Movement Speed Base Movement Speed increased
+Slow Duration increased
+Mana Cost decreased
+Damage increased
+Strength Base Strength increased
+Strength Base Strength increased
+Contact Damage increased
+Burn Damage per second increased
+Aghanim Shard Pull Speed increased
+Travel Distance increased
+Strength Strength gain decreased
+Cooldown decreased
+Movement Slow increased
+Cooldown decreased
+Damage increased
+Damage increased
+Level Talent Light Strike Array Damage increased
+Level Talent Health increased
+Intelligence Base Intelligence increased
+Cooldown decreased
+Damage increased
+Aghanim Shard Magic Resistance increased
+Cooldown decreased
+Aghanim Shard Damage per second increased
+Bonus Damage vs Heroes increased
+Cooldown decreased
+Max Stacks increased
+Damage increased
+Chance increased
+Intelligence Intelligence gain increased
+Roar Bonus Armor per stack increased
+Hit Damage increased
+Level Talent Uproar Armor Per Stack increased
+Agility Agility gain increased
+Armor Base Armor increased
+Bonus Speed increased
+Strength Base Armor decreased
+Strength Strength gain increased
+Mana Cost decreased
+Status Resistance increased
+Cooldown decreased
+Movement Speed Damage increased
+Movement Speed Base Movement Speed increased
+Damage increased
+Strength Base Damage decreased Level damage decreased
+Lifesteal creeps increased
+Level Talent Lightning Bolt Ministun increased
+Level Talent Arc Lightning Current Health Damage increased
+Recipe Cost decreased Total cost decreased
+Shroud Mana conversion increased
+Mana Regen bonus increased
+Base Charge Restore Time decreased
+Impact Damage increased
+Damage per Instance increased
+Radius increased
+Missile Two Damage increased
+Radius increased
+Cooldown decreased
+Damage increased
+Radius increased
+Cooldown decreased
+Aghanim Shard Spell Damage per stack increased
+Spell Amplification increased
+Duration increased
+Spike Radius increased
+Cast Range increased
+Cooldown decreased
+Level Talent Summon Wolves Health increased
+Attack Range increased
+Mana Cost decreased
+Cooldown decreased
+DPS per tree increased
+Base Agility increased
+Buff Duration increased
+Level Talent Agility increased
+Radius increased
+Cooldown decreased
+Bonus Damage per ally increased
+Level Talent Focus Fire Damage Reduction decreased
+Damage increased
+Cost decreased
+Disguise Duration increased
+Damage bonus increased
+Recipe cost decreased Total cost decreased
+Total cost decreased
+Soul Stealer Maximum Damage Bonus increased
+Recipe cost decreased Total cost decreased
+Phantom Province longer deals damage debuff immune targets reduction Magic Resistance still applies
+Total cost decreased
+Chain Lightning deals damage illusions
+Damage bonus increased
+Damage bonus increased
+Recipe cost decreased Total cost decreased
+Sacrifice Mana Gain increased
+Attributes bonus increased
+Damage bonus increased
+Mana bonus increased
+Hound Movement Slow increased
+Attributes bonus increased
+Certain Strike Bonus Magical Damage increased
+Ogre Seal Flop Mana Cost decreased
+Martyrdom Redirect Amount increased
+Martyrdom Duration increased
+Strength bonus increased
+Vision Radius increased
+Vision Radius increased
+Level Talent Mana Void Damage Multiplier increased
+Level Talent Health increased
+Agility gain decreased
+Damage increased
+fully pierces debuff immunity
+Level Talent Brain Sap Cooldown Reduction increased
+Level Talent Brain Sap increased
+Hawk Base Health increased Magic Resistance increased XP bounty decreased
 Base Armor increased
-Chakra Magic cooldown reduced
-Tidebringer bonus damage increased
-Level talent Armor replaced Mana Regen
-Level Talent Magic Resistance replaced Lightning Storm bounce twice units jumps left
-Frost Blast mana cost reduced
-Sinister Gaze cast range increased
-Sinister Gaze mana cost reduced
-Sinister Gaze Scepter also lets cast abilities channeling Sinister Gaze
-Chain Frost initial projectile speed increased
-Infest mana cost reduced
-Infest Scepter also applies Disarm enemy
-Infest Scepter also deals damage immediately infesting
-Base Attack Damage increased
-Spirit Link attack speed increased
-True Form entangle chance increased Affects Lone Druid
-True Form demolish bonus damage increased Affects Lone Druid
-Howl duration increased
-Skewer damage increased
-Spear Mars cooldown decreased
-Tree Dance cast point decreased
-Tree Dance travel speed increased
-Jingu Mastery lifesteal increased
-Waveform mana cost reduced
-Rip Tide damage increased
-Level talent Strength increased
-Level Talent Rip Tide armor increased
-Base Mana Regen increased
-Nature Call treant base HP regen per second increased
-Wrath Nature damage per kill increased
-Death Pulse damage increased
-Death Pulse heal increased
-Base damage increased
-Fireblast damage increased
-Ignite mana cost reduced
-Agility gain increased
-Heavenly Grace bonus Strength increased
-Guardian Angel cooldown reduced
-Hammer Purity puts debuff enemy hero reduces enemy outgoing damage seconds
-Armor increased
-Shield Crash slows enemies seconds
-Shield Crash damage reduction per hero increased
-Lucky Shot armor reduction increased
-Stifling Dagger slow duration increased
-Juxtapose Aghanim Scepter cooldown reduced
-Juxtapose Aghanim Scepter also increases max illusion count
-Fire Spirits radius increased
-Nether Ward additionally heals hits whenever triggers
-Level talent improved Nether Blast Cooldown
-Base damage increased
-Shadow Strike heals Queen Pain Health every tick Heals creeps
-Blink Strike damage increased
-Tricks Trade Scepter Attack count increased
-Sleeping Dart mana cost reduced
-Spell Steal cooldown reduced
-Spell Steal projectile Speed increased
-Epicenter Shard also grants damage per Pulse
-Disruption cast range increased
-Soul Catcher temporarily gives Shadow Demon Spell Amplification hero debuffed
-Level Talent increased Attack Speed
-Level Talent increased Spell Amplification
-Mass Serpent Ward mana cost reduced
-Level Talent Serpent Ward Attack Range increased
-Arcane Curse deals double damage slow target silenced
-Arcane Curse penalty duration reduced
-Arcane Bolt base damage increased
-Mystic Flare duration reduced
-Guardian Sprint bonus movement speed increased
-Dark Pact self damage reduced
-Shadow Dance cooldown reduced
-Strength gain increased
-Firesnap Cookie mana cost reduced
-Mortimer Kisses burn damage increased
-Shrapnel damage increased
-Take Aim active headshot chance increased
-Take Aim cooldown reduced
-Take Aim mana cost reduced
-Concussive Grenade knockback increased
-Concussive Grenade self knockback increased
-Charge Darkness Scepter pierces spell immunity reduces cast point
-Greater Bash deals damage creeps
-Static Remnant damage increased
-Ball Lightning starting mana cost reduced
-Storm Hammer cast point reduced
-Proximity Mines building damage percentage increased
-Demon Zeal also applies basic dispel Terrorblade
-Base Mana Regen increased
-Whirling Death debuff duration increased
-Laser splashes damage AoE main target gets ray
-Defense Matrix mana cost reduced
-Defense Matrix cast range increased
-Defense Matrix cooldown reduced
-Tree Throw splash percentage increased
-Grow attack speed penalty reduced
-Base movement speed increased
-Whirling Axes Ranged damage increased
-Battle Trance cooldown reduced
-Snowball bonus damage per hero increased
-Soul Rip mana cost reduced
-Flesh Golem movement speed bonus increased
+Dealing receiving magic damage also extends Brewmaster Brewed duration
+Mana Cost decreased
+Cooldown decreased
+Level Talent Damage increased
+Level Talent Quill Stack Damage increased
+Level Talent Health Regen increased
 Base Strength increased
-Nether Swap deals damage enemies
-Nether Swap causes Vengeful Spirits allies Swaps take less damage seconds
-Poison Attack mana cost decreased
-Soul Assumption gather damage radius increased
-Summon Familiars cooldown reduced
-Summon Familiars armor increased
-Aether Remnant mana cost reduced
-Aether Remnant pull duration increased
-Astral Step debuff damage increased
-Swarm travel speed increased
-Swarm ignores damage block
-Paralyzing Cask deals damage per bounce
-Lightning Bolt mana cost reduced
-Lightning Bolt vision duration increased
-Static Field Shard active mana cost reduced
-Static Field Shard active grants radius unobstructed vision around Zeus seconds
-Base health regen increased
-Shard upgrade also reduces Mist Coil Aphotic Shield cooldowns second
-Mist Coil backswing reduced
-Aphotic Shield backswing reduced
-Borrowed Time scepter duration increased
-Level Talent increased Mist Coil
-Level Talent increased Armor
-Level Talent increased AoE Mist Coil
-Ice Vortex mana cost reduced
-Chilling Touch scepter reduces mana cost
-Blink Fragment scepter illusion incoming damage reduced
-Blink Fragment Scepter illusion outgoing damage increased
-Magnetic Field shard magic resistance increased
-Magnetic Field shard also slows enemies
-Level Talent increased Health
-Attack point reduced
-Scepter upgrade cooldown reduction increased
-Shard also increases proc chance
-Brain Sap backswing reduced
-Enfeeble attack damage reduction increased
-Enfeeble health restoration reduction increased
-Enfeeble duration increased
-Flamebreak backswing reduced
-Flaming Lasso backswing reduced
-Flaming Lasso damage per second increased
-Level Talent increased Armor
-Base armor increased
-Divebomb Shard cast range
-Divebomb Shard stun duration increased seconds
-Divebomb Shard damage increased
-Divebomb Shard target couriers
-Hawk shard also lowers cooldown seconds
-Wild Axes scepter also increases damage
-Wild Axes Mana cost reduced
-Primal Roar movement speed duration increased
-Level Talent increased Damage
-Level Talent increased Inner Beast Attack Speed
-Bloodrage backswing reduced
-Rupture deals target current health damage cast
-Level Talent increased Armor
-Level Talent increased Blood Rite Damage
-Base movement speed increased
-Drunken Brawler passive evasion increased
-Primal Split split time reduced
-Primal Split storm health increased
-Primal Split fire health increased
-Primal Split earth health increased
-Primal Split void health increased
-Primal Split shard cooldown Astral Pulse reduced
-Primal Split shard void Astral Pulse cast point reduced
-Level Talent increased Damage
-Base mana regen increased
-Quill Spray base damage increased
-Viscous Nasal Goo armor loss per stack increased
-Viscous Nasal Goo scepter removes cast time
-Level Talent increased Movement Speed
-Level Talent increased Attack Speed
+Agility gain increased
+Cast Point improved
+Cooldown decreased
+Strength Damage increased
+Minimum Stun increased
+Maximum Damage increased
+Creep Damage multiplier increased
+Level Talent Chaos Strike Lifesteal increased
+Spawn Interval decreased
+Level Talent Skeleton Walk Cooldown Reduction increased
+Level Talent Death Pact Health increased
+Level Talent Strafe Cooldown Reduction increased
+Armor Base Armor increased
+Cast Point improved
+Stun pierces debuff immunity
+Level Talent Celestial Hammer Slow increased
+Level Talent Starbreaker Damage increased
+Mana Cost decreased
+Mana Cost decreased
+Base Movement Speed increased
+Spirit Damage increased
+Stun Duration increased
+Damage per second increased
+Cooldown decreased
+Cast Range Dragon Form increased
+Bonus Move Speed increased
+Corrosive Breath Damage per second increased
+Level Talent Breathe Fire Range Dragon Form increased
+Creep Damage Multiplier increased
+Level Talent Spell Amplification increased
+Level Talent Magnetize Damage Duration increased
+Bonus Attack Range increased
+Radius increased
+Radius increased
+Cast Point increased
+Damage Interval decreased total damage unchanged
+Projectile Speed increased
+Buff Duration increased
+Max Stun Duration increased
+Cast Range increased
+Radius increased
+Aghanim Scepter Side Gunner attacks additional target Flak Cannon active targets time
+Base Health Regen increased
+Damage gain per level increased
+Base Intelligence increased
+Mana Cost decreased
+Lift Duration increased
+Mana Cost decreased
+Mana Cost decreased
+Damage increased
+Mana Cost decreased
+Return Cast Point decreased
+Mana Cost decreased
+Level Talent Damage increased
+Level Talent Health increased
+Level Talent Feast Lifesteal replaced Feast Lifesteal Damage
+Damage decreased
+Level Talent Summon Wolves Health increased
+Level Talent Stats per hero hit Reverse Polarity increased
+Level Talent Mana Shield Damage per Mana increased illusions
+Level Talent Strength increased
+Cooldown decreased
+Mana Cost decreased
+Secondary Target Bonus Search Range increased
+Level Talent Hunter Night Status Resistance increased
+Damage Reflected increased
+Duration increased
+also affected level talent Cooldown
+Cast Range increased
+Heal per second increased
+Total Heal increased
+Aghanim Shard Ally Movement Speed increased
+Aghanim Scepter Max Mana barrier increased
+Damage Interval decreased
+Damage Interval decreased
+Damage Interval decreased
+Level Talent Magic Resistance Trample increased
+Level Talent Uproar Armor Per Stack increased
+Aghanim Shard Bonus Damage increased
+Base Damage increased
+Cooldown decreased
+Radius increased
+Damage increased
+Cooldown decreased
+Strength gain decreased
 Agility increased
-Spawn Spiderling debuff duration increased
-Spawn Spiderling debuff stacks multiple instances spiders come
-Spin Web increased
-Spin Web replenish time improved
-Insatiable Hunger manacost reduced
-Insatiable Hunger cooldown reduced
-Spawn Spiderlings ultimate ability
-Spawn Spiderlings damage increased
-Spawn Spiderlings cast range increased
-Silken Bola basic ability longer roots
-Silken Bola slows enemies seconds
-Silken Bola causes enemy miss attacks
-Silken Bola deals impact damage
-Silken Bola causes attacks target deal magical damage per hit
-Silken Bola costs mana cooldown
-Silken Bola cast range
-Hoof Stomp AoE increased
-Double Edge cast point reduced
-Double Edge shard slow increased
-Double Edge shard buff duration increased seconds
-Retaliate strength damage return increased
-Stampede cooldown reduced
-Stampede scepter also increases duration second
-Level Talent increased Movement Speed
-Level Talent increased Health Regen
-Chaos Bolt backswing reduced
-Base mana regen increased
-Hand God heal increased
-Divine Favor shard mana cost reduced
-Divine Favor shard cast range increased
-Divine Favor shard cooldown reduced
-Level Talent increased Holy Persuasion Minimum Health
-Level Talent increased Hand God cooldown
-Burning Army scepter spawn interval reduced
-Burning Army scepter cooldown reduced
-Level Talent increased Searing Arrows Damage
-Jetpack shard cooldown reduced
-Level Talent increased Armor
-Level Talent increased Movement Speed
-Ion Shell damage interval increased
-Ion Shell damage increased
-Vacuum backswing reduced
-Normal Punch shard max distance required reduced
-Normal Punch shard illusion outgoing damage increased
-Normal Punch shard illusion incoming damage reduced
-Base health regen increased
-Shadow Realm cooldown reduced
-Cursed Crown shard also reduces delay second
-Turn rate improved
-Poison Touch first instance damage immediately impact
-Shadow Wave scepter heal increased
-Shadow Wave scepter damage increased
-Shallow Grave cast time improved
-Shallow Grave cooldown reduced
-Level increased Attack Speed
-Attack point reduced
-Crypt Swarm backswing reduced
-Thunder Strike shard radius increased
-Thunder Strike shard always increases radius rather allies
-Thunder Strike shard allied bonus duration increased seconds
-Glimpse cooldown reduced
-Level Talent increased Glimpse Cooldown
-Base armor increased
-Base damage increased
-Base attack time improved
-Devour backswing reduced
-Devour gold bonus increased
-Scorched Earth backswing reduced
-Doom backswing reduced
-Doom scepter also increases Doom duration seconds
-Fireball shard used melee form cast range used way compared dragon form
-Dragon Tail mana cost reduced
-Dragon Tail damage increased
-Level Talent increased Breathe Fire Damage Reduction
-Attack point reduced
-Frost Arrows shard burst slow increased
-Frost Arrows shard affects creeps
-Gust mana cost reduced
-Level Talent increased Multishot Cooldown
-Enchant Remnant scepter damage increased
-Enchant Remnant scepter radius increased
-Level Talent increased Damage
-Level Talent increased Armor
-Level Talent increased Spell Amplification
-Enchant Totem longer gets consumed attack misses
-Enchant Totem scepter also provides Cleave Enchant Totem buff
-Level Talent increased Armor
-Earth Splitter Delay
-Searing Chains backswing reduced
-Flame Guard backswing reduced
-Flame Guard duration increased
-Fire Remnant shard provides charge killing enemy heroes rather spawning Fire Remnant except case die
-Level Talent increased Searing Chains
-Untouchable attack speed slow increased
-Nature Attendants duration increased
-Level Talent increased Midnight Pulse Radius
-Base armor increased
-Time Dilation backswing reduced
-Time Dilation DPS per cooldown
-Time Dilation cooldown reduced
-Time Lock damage increased
-Chronosphere backswing reduced
-Chronosphere radius increased
-Time Walk shard cast range increased
-Level Talent increased Strength
-Level Talent increased Time Walk
-Phantom Embrace damage per second increased
-Soulbind latch radius increased
-Level Talent increased Ink Swell Cooldown
-Flak Cannon attack count increased
-Added Aghanim Scepter Grants new active ability Hunter Boomerang Tosses boomerang arc target enemy Upon contact returns Hoodwink boomerang deal damage passes hits enemies apply Hunter Mark causes affected enemies slowed take spell damage reduced status resistance seconds Cooldown Manacost
-Added Aghanim Shard Grants new active ability Decoy Hoodwink sends decoy illusion Scurry target location illusion attacked hit targeted ability destroyed plants tree place applies lesser Bushwhack enemy heroes around Illusion lasts seconds Cooldown Manacost
-Bushwhack stun duration increased
-Scurry charge replenish time reduced
-Sharpshooter minimum power level scales normally
+Agility gain increased
+Level Talent Disseminate Shared Damage increased
+Base Attack Range increased
+Aghanim Scepter Damage Return increased
+Mana Cost decreased
+Duration increased
+Total increased
+Aghanim Scepter creates additional bolts instead
+Cast Point improved
+Puddle Duration increased
+Puddle Duration Aghanim Scepter increased
+Linger Duration decreased
+Fixed Damage per shot increased
+Mana Cost decreased
+Radius increased
+Damage Tick Interval decreased
+Bonus Damage increased
+Tree Search Radius increased
+Cast Point improved
+Mana Cost decreased
+Agility gain increased
+Level Talent Enrage Status Resistance increased
+Base Attack Speed increased
+Level Talent Nether Swap Enemy Damage increased
+Level Talent Wave Terror Armor Reduction increased
+Duration increased
+Initial Attack Slow increased
+Projectile Speed increased
+Cast Range increased
+Aghanim Scepter Base Charge Restore Time decreased
+Mana Cost decreased
+Base Charge Restore Time decreased
+Level Talent Shukuchi Damage increased
+Level Talent Shackleshot Duration increased
+Max HP Heal per second increased
+Cooldown decreased
+Bounce Delay decreased
+Skeletons Armor increased
+Level Talent Vampiric Spirit Lifesteal increased
+Level Talent Wraithfire Blast Stun Duration increased
+Recipe changed total cost decreased Old Urn Shadows Crown Crown Recipe Total cost New Urn Shadows Crown Fluffy Hat Recipe Total cost
+Self Damage decreased
+increased
+Cast Range increased
+Base increased
+Bonus Move Speed increased
+Base increased
+Cooldown decreased
+Damage increased
 Strength gain increased
-Inner Fire knockback duration increased
-Inner Fire shard upgrade cast disabled remove disable
-Burning Spear cost reduce current health
-Quas provides Strength per level Invoker attribute levels
-Exort provides Intelligence per level
-Wex provides Agility per level
-Level Talent increased DPS Ice Wall
-Level Talent increased Health Regen
-Level Talent increased Spell Lifesteal
-Level Talent increased Relocate Cooldown
-Level Talent increased Health
-Agility increased
-Dual Breath delay waves reduced
-Liquid Frost shard also stuns targets initially seconds
-Macropyre sscepter causes become Pure damage pierce Spell Immunity
-Omnislash provides Spell Immunity
-Base strength increased
-Spirit Form causes Illuminate heal damage
-Level Talent increased Illuminate Damage
-Base HP regen increased
-Agility gain increased
-Tidal Wave shard causes affected units unable attack pull duration
-Tidal Wave shard cooldown reduced
-Tidal Wave shard damage increased
-Overwhelming Odds radius increased
-Duel scepter reduces cooldown seconds
-Lightning Storm cast point reduced
-Pulse Nova radius increased
-Split Earth shard pulse count increased
-Frost Blast mana cost reduced
-Frost Blast area damage increased
-Ice Spire shard health increased
-Ice Spire shard radius increased
-Ice Spire shard slow increased
-Base damage reduced
-Feast target max health damage
-Open Wounds shard also causes hero attacks target deal target max health damage
-Open Wounds shard cooldown reduced
-Infest scepter hero duration increased
-Infest scepter cooldown reduced
-Level Talent increased Ghoul Frenzy Slow
-Light Strike Array damage increased
-Laguna Blade shard removes delay damage dealt
-Laguna Blade shard cast range bonus increased
-Ranged base attack time improved
-Savage Roar shard also applies basic dispel Spirit Bear
-Savage Roar shard also causes roar happen locations regardless casting state side
-Eclipse cast point reduced
-Lucent Beam shard releases attack two random targets within radius target location attacks bounce like glaives normally Lowers mana cost
-Agility gain increased
-Attack backswing reduced
-Summon Wolves mana cost reduced
-Feral Impulse bonus damage increased
-Shapeshift transformation time reduced
-Shapeshift duration increased
-Shapeshift increases Lycan health
-Wolf Bite target units like Spirit Bear Golem
-Empower damage increased
-Shockwave mana cost reduced
-Skewer damage increased
-Reverse Polarity mana cost reduced
-Horn Toss shard landing stun duration increased
-Level Talent increased Shockwave Slow Duration
-Level Talent increased Skewer Cooldown
-Level Talent increased Strength
+Base Mana Regen increased
+AoE increased
+increased
+Strength gain increased
+Mana Cost decreased
+Burn Duration increased
+Level Talent Damage increased
+Level Talent Health increased
+Base Strength increased
+Aghanim Shard Orbit Radius increased
+Aghanim Shard Collision Radius increased
+Cooldown decreased
+Aghanim Shard Damage Multiplier return increased
+Bonus Damage increased
+Cleave Damage increased
+Strikes per Fury increased
+Spear Damage increased
+Projectile Speed increased
+Level Talent Damage increased
+Cooldown decreased
+longer limits movement speed
+Strength gain increased
+Cooldown decreased
+Strength gain increased
+Mana Cost decreased
+Level Talent Telekinesis Lift Duration replaced Telekinesis Duration
+Level Talent Firesnap Cookie Health Restore increased
+Stun Duration increased
+per second increased
+Stun Duration increased
+Mana Cost decreased
+Cooldown decreased
+Level Talent Arctic Burn Debuff Duration increased
+Level Talent Arctic Burn Slow increased
+Cast Range increased
+Curse Attack Speed increased
+Level Talent Borrowed Time Immolation DPS increased
+Tempest Damage increased
+Radius increased
+Damage increased
+Level Talent Berserker Call Armor increased
+Base Damage increased
+Mana Cost decreased
+Damage increased
+Mana Cost decreased
+Level Talent Damage Taken Shadow Walk increased
+Base Damage increased
+Base Armor Loss increased
+Level Talent Goo Cast Range increased
+Spiderling Base Attack Time improved
+Level Talent Spiderlings Health increased
+Base Movement Speed increased
+Cooldown decreased
+Cooldown decreased
+Burning Skeleton Archers attack speed bonus Strafe increased
+Damage per arrow increased
+Level Talent Death Pact Health increased
+Base Armor increased
+Base Intelligence increased
 Intelligence gain increased
-Bulwark scepter attack slow increased
-Level Talent increased Movement Speed
-Level Talent increased Armor
-Level Talent increased HP Regen Arena Blood
-Base HP regen increased
-Mana Shield passively provides mana
-Level Talent increased Mystic Snake mana gain
-Poof radius increased
-Dig scepter health restored increased
-Level Talent increase Damage Base Damage
-Level Talent increased Health
-Intelligence increased
-Adaptive Strike mana cost reduced
-Adaptive Strike shard increases stun duration second
-Waveform mana cost reduced
-Ensnare duration increased
-Ensnare scepter cooldown reduction increased
-Rip Tide shard armor reduction increased
-Rip Tide shard also adds slow procs
-Wrath Nature base damage increased
-Wrath Nature scepter root duration increased
-Level Talent increased Wraith Nature Base Damage
-Level Talent increased Treant
-Attack animation time reduced
-Attack projectile speed increased
-Ghost Shroud slow increased
-Heartstopper Aura regen increased
-Heartstopper Aura regen duration increased
-Reaper Scythe cast point reduced
-Hunter Night shard longer restricted player units affect special units like Golems Spirit Bears
-Hunter Night shard cast day units
-Hunter Night shard healing increased
-Level Talent increased Armor
-Vendetta provides attack animation speed
-Burrow scepter damage reduction increased
-Fire Shield shard incoming damage reduction increased
-Fire Shield shard mana cost reduced
-Ignite cast point reduced
-Bloodlust mana cost reduced
-Base strength increased
-Base movement speed increased
-Heavenly Grace strength bonus increased
-Hammer Purity cooldown reduced
-Hammer Purity mana cost reduced
-Level Talent increased Base Damage
-False Promise shard fade delay reduced
-Level Talent increased Purifying Flames Cooldown
-Essence Flux shard transfers instead
-Astral Imprisonment scepter also increases damage
-Astral Imprisonment scepter also causes damage AoE
-Rolling Thunder duration increased
-Shield Crash mana cost reduced
-Shield Crash damage reduction increased
-Fan Knives shard damage increased
-Fan Knives shard mana cost reduced
-Level Talent increased Stifling Dagger Cooldown
-Spirit Lance shard damage increased
-Level Talent increased Spirit Lance Cooldown
-Level Talent increased Juxtapose Damage
-Base armor increased
-Attack range increased
-Dismember shard cast range allies increased
-Rot scepter radius increased
-Rot scepter damage increased
-Base damage increased
-Nether Blast delay reduced
-Life Drain shard interval reduced
-Level Talent increased Netherward Damage Per Mana
-Blink cooldown reduced
-Blink shard silence duration increased
-Sonic Wave scepter bonus increased
-Level Talent increased Spell Lifesteal
-Storm Surge shard damage increased
-Level Talent increased Agility
-Level Talent increased Strength
-Blink Strike provides attack animation increase attack
-Tricks Trade increases agility
-Sleeping Dart shard duration increased
-Level Talent increased Smoke Screen AoE
-Telekinesis shard throw range increased
-Telekinesis cooldown reduced
-Epicenter shard radius increased
-Level Talent increased Health
-Level Talent increased Caustic Finale Slow
-Level Talent increased Health Regen
-Level Talent increased Epicenter Pulses
-Intelligence increased
-Level Talent increased Movement Speed
-Level Talent increased Soul Catcher Cooldown
-Base attack time reduced
-Base armor increased
-Necromastery soul lost death reduced
-Level Talent increased Ether Shock Damage
-Last Word mana cost reduced
-Level Talent increased Armor
-Base damage increased
-Concussive Shot cooldown reduced
-Arcane Bolt base damage increased
-Slithereen Crush shard also increases radius
-Bash Deep double damage creeps
-Level Talent increased Health Regen
-Level Talent increased Health
-Level Talent increased Agility
-Level Talent increased Lifesteal
-Base armor increased
-Intelligence increased
-damage increased
-Armor reduction duration increased
-Scatterblast shard stun duration increased
-Firesnap Cookie cooldown reduced
-Level Talent increased Scatterblast Damage
-Concussive Grenade Cast range increased
-Level Talent increased Shrapnel
-Base armor increased
-Desolate damage increased
-Dispersion Shard mana cost reduced
-Nether Strike cast time reduced
-Level Talent increased Health
-Level Talent improved Distance Auto Remnant
-Storm Hammer shard also reduces cooldown seconds
-God Strength damage increased
-Level Talent increased Storm Hammer Stun Duration
-Movement speed increased
-Remote Mines cast time improved
-Blast shard stun radius increased damage radius
-Blast shard stun duration increased
-Level Talent increased Blast Damage
-Meld mana cost reduced
-Meld damage increased
-Psionic Trap shard silence duration increased
-Psionic Trap shard increases vision radius
-Psionic Projeection scepter mana cost reduced
-Psionic Projeection scepter cooldown reduced
-Level Talent increased Attack Speed
-Level Talent increased Psionic Trap Damage
-Level Talent increased Refraction Instance
-Base HP regen increased
-Base damage increased
-Reflection illusion damage increased
-Reflection cooldown increased
-Reflection mana cost reduced
-Level Talent increased Movement Speed
-Base armor increased
-Timber Chain travel speed increased
-Flamethrower shard longer ignores Ancients
-Flamethrower shard affects buildings damage
-Chakram scepter damage per second increased
-Defense Matrix shard status resistance increased
-Defense Matrix shard health increased
-Defense Matrix shard duration increased
-Rearm cast point reduced
-Missile mana cost reduced
-Base HP regen increased
-Tree Grab mana cost reduced
-Grow armor increased
-Level Talent increased Movement Speed
-Nature Guise shard also grants invisibility near trees
-Leech Seed mana cost reduced
-Living Armor cast time reduced
-Level Talent increased Nature Grasp Damage
-Level Talent AoE Living Armor works creeps
-Level Talent increased Health
-Walrus Punch attack animation faster
-Ice Shards mana cost reduced
-Frozen Sigil shard attacks destroy increased
-Frozen Sigil shard vision radius increased
-Frozen Sigil shard movement speed increased
-Frozen Sigil shard manacost reduced
-Frozen Sigil shard slow increased
-Attack range increased
-Firestorm shard also increases Firestorm wave count
-Dark Rift scepter also increases radius
-Dark Rift scepter causes two charges
-Level Talent increased Attack Speed
-Agility gain increased
-Decay mana cost reduced
-Decay deals double damage creeps
-Level Talent increased Soul Rip
-Level Talent increased Mana Regen
-Base damage increased
-Base movement speed increased
-Wave Terror radius increased
-Wave Terror shard also steals enemy base armor
-Base damage increased
-Poison Nova radius increased
-Poison Nova duration increased
-Poison Attack Shard also causes affect buildings poison damage
-Viper Strike mana cost reduced
-Attack animation improved
-Base armor increased
-Soul Assumption mana cost decreased
-Gravekeeper Cloak shard mana cost reduced
-Gravekeeper Cloak shard heal increased
-Dissimilate shard damage increased
-Astral Step replenish time improved
-Shadow Word shard also changes AoE spell
-Upheaval cast time improved
-Chaotic Offering scepter spawn interval reduced
-Shukuchi moves haste speed always
-Shackleshot mana cost reduced
-Powershot shard also reduces cooldown seconds
-Windrun scepter passively provides Evasion
-Base armor increased
-Arctic Burn cooldown reduced
-Winter Curse cooldown reduced
-Winter Curse duration increased
-Winter Curse curse radius increased
-Winter Curse attack speed increased
-Cold Embrace shard also reduces cooldown seconds
-Level Talent increased Cold Embrace Heal
-Paralyzing Cask hero damage increased
-Level Talent increased Maeldict AoE
-Level Talent increased Max Health Voodoo Restoration
-Base armor increased
-Static Field shard cooldown reduced
-Strength gain increased
-Base armor increased
-Starbreaker self stun end reduced
-Celestial Hammer Trail burn damage increased
-Luminosity healing heroes increased
-Solar Guardian heal per pulse increased
-Solar Guardian radius increased
-Solar Guardian stun duration increased
-Solar Guardian pulse damage affects Ancient Creeps
-Solar Guardian land longer interrupted stuns
-Aphotic Shield cast point reduced
-Borrowed Time scepter duration increased
-Level Talent increased Mist Coil
-Level Talent increased AoE Mist Coil
-Added Aghanim Shard Upgrades Mist Coil Aphotic Shield Apply Curse Avernus stack enemies Increases Curse Avernus base slow
-Unstable Concoction manacost reduced
-Unstable Concoction cooldown reduced
-Acid Spray damage increased
-Acid Spray first damage instance immediate rather second
-Alchemist granted scepter buffs provide full stat bonuses
-Added Aghanim Shard Grants Berserk Potion Throws potion target ally applying basic dispel granting Attack Speed HP Regen seconds Cast Range Cooldown Manacost used self
-Ice Blast max travel time improved seconds
-Chilling Touch manacost reduced
-Added Aghanim Shard Upgrades Ice Vortex Deal DPS reduces attack speed
-Added Aghanim Shard Upgrades Counterspell Successful Counterspell creates illusion attacking caster seconds Removes Counterspell manacost
-Added Aghanim Shard Upgrades Magnetic Field pushes enemies area cast time provides allies Magic Resistance
-Added Aghanim Shard Causes attacks chance proc Counter Helix Attack procs ignore Counter Helix cooldown Provides Attack Speed
-Night vision improved
-Brain Sap cast point reduced
-Level Talent increased Spell Amp
-Added Aghanim Shard Upgrades Fiend Grip Fiend Grip creates uncontrollable illusion also channeling Fiend Grip target Illusion takes incoming damage immediately dies interrupted Multiple Fiend Grip effects stack target
-Base armor increased
-Sticky Napalm longer less damage creeps
-Sticky Napalm radius increased
-Flaming Lasso cast range increased
-Flaming Lasso scepter secondary range increased
-Level Talent increased Movement Speed
-Added Aghanim Shard Upgrades Flaming Lasso Allows Flaming Lasso cast allied hero granting damage reduction second cooldown used allies
-Wild Axes damage per axe increased
-Added Aghanim Shard Upgrades Call Wild Hawk Hawks become controllable gain Dive Bomb Channels second revealing flies towards target enemy dealing damage stunning second killing hawk Cast Range
-Bloodrage hp cost reduced
-Bloodrage attack speed increased
-Thirst heal increased
-Thirst provides full heal rather half within range dying heroes
-Rupture manacost reduced
-Rupture damage increased
-Added Aghanim Shard Upgrades Bloodrage Bloodrage attacks deal target max health pure damage heals amount affects Bloodseeker
-Base movement speed increased
-Shadow Walk slow increased
-Track speed radius increased
-Added Aghanim Shard Upgrades Track Allies gain Track speed boost Provides vision around Track target team
-Drunken Brawler passively provides Evasion Critical Strike chance damage
-Primal Split Earth brewling armor increased
-Primal Split Earth Brewling hp regen increased
-Primal Split Storm hp regen increased
-Primal Split Storm magic resistance increased
-Primal Split Fire Brewling armor increased
-Primal Split Fire Brewling hp regen increased
-Primal Split Fire Brewling Status Resistance
-Added Aghanim Shard Upgrades Primal Split Primal Split creates Void brewling Astral Pulse ability affecting enemies AoE Applies slow Disarm seconds Cooldown
-Warpath bonus damage increased
-Viscous Nasal Goo Scepter also increases max stacks
-Viscous Nasal Goo scepter radius increased
-Added Aghanim Shard Grants Hairball Coughs quill filled hairball towards target location Erupts location hitting enemies radius Goo two Quills Cast Range Cooldown Manacost
-Added Aghanim Shard Grants Silken Bola Consumes Spin Web charge roots target enemy seconds Cast Range Cooldown Manacost
-Stampede damage increased Strength
-Added Aghanim Shard Upgrades Double Edge Causes Double Edge increase strength per hero hit seconds Duration refreshes per stack stacks Slows enemies seconds
-Added Aghanim Shard Upgrades Chaos Bolt Chaos Bolt creates Phantasm illusion attacking target duration stun Increases cast range
-Holy Persuasion cast already converted unit teleport cast hero teleport creeps
-Level Talent increased Health
-Level Talent increased Cast Range
-Added Aghanim Shard Upgrades Divine Favor Allows Divine Favor cast allies teleporting back home seconds Cooldown Manacost Cast Range Purgeable target Spell Immune Allies
-Added Aghanim Shard Upgrades Skeleton Walk Causes Skeleton Walk create two Burning Army Skeletons Exit
-Added Aghanim Shard Grants Jetpack Rises grants flying vision flying movement movement speed significantly reduced ability turn Lasts seconds disarmed flight Casting Hookshot ends buff Cooldown Manacost
-Added Aghanim Shard Upgrades Frostbite Reduces Frostbite cooldown second allows cast reducing incoming damage duration Allows casting Frostbite channeling long valid target range
-Ion Shell radius increased
-Added Aghanim Shard Grants Normal Punch Passive cooldown attack Causes next attack hero knock illusion stun seconds knock back distance deal damage based far moved past seconds Cooldown Max power distance moved Illusions lasts seconds
-Base intelligence increased
-Cursed Crown cast range increased
-Bramble Maze cast range increased
-Level Talent increased Cursed Crown Stun Duration
-Level Talent increased Terrorize Duration
-Added Aghanim Shard Upgrades Cursed Crown Cursed Crown creates four brambles around target counter ends regardless ends Reduces cooldown seconds
-Shallow Grave cooldown reduced
-Shallow Grave cast range increased
-Added Aghanim Shard Launches attack three closest enemies within range prioritizes heroes time cast ability
-Base movement speed increased
-Spirit Siphon charge replenish time
-Exorcism ghost speed increased
-Turn rate improved
-Added Aghanim Shard Upgrades Spirit Siphon Spirit Siphon drains armor per second gives Armor lasts seconds starts cast time
-Level Talent increased Kinetic Field Cooldown
-Added Aghanim Shard Upgrades Thunder Strike Allows Thunder Strike cast allies follows ally deals damage around strike gives short buff provides MS Attack Speed strike interval every seconds Increases radius used allies
-Level Talent increased Doom Duration
-Added Aghanim Shard Upgrades Infernal Blade Infernal Blade stun duration increased second enemy level multiple level stunned additional seconds take bonus damage
-Breathe Fire manacost reduced
-Dragon Tail damage increased
-Elder Dragon Form splash radius increased
-Level Talent increased Health
-Added Aghanim Shard Grants Elder Dragon Form Fireball ability Ignites AoE area seconds dealing damage per second enemies Lasts seconds Cast Range Cooldown Manacost
-Added Aghanim Shard Upgrades Frost Arrows Frost Arrows apply Hypothermia stack enemy heroes reducing regeneration per stack Lasts seconds enemy hero dies Hypothermia stacks burst deal magic damage per stack slow seconds enemies within radius Max Stacks
-Enchant Remnant also cast Remnants second cooldown used way
-Added Aghanim Shard Upgrades Stone Remnant Causes Earth Remnants provide ground vision Increases charge count use alt see radius
-Added Aghanim Shard Upgrades Fissure Reduces Fissure cooldown seconds allows walk Whenever cast spell aftershock effect replicated throughout fissure path
-Added Aghanim Shard Upgrades Echo Stomp Allows turn Echo Stomp autocast cast Autocast take place Astral Spirit completes stomp
+Health Cost decreased
+Level Talent Attack Speed increased
+Stun Duration increased
+Mana Cost decreased
+Mana Cost decreased
+Burn Damage increased
+Base Armor increased
+Attack Speed increased
+Base Attack Range increased
+Pull Radius increased
+Turn Rate improved
+Damage increased
+Bonus Attack Damage increased
+Level Talent Dead Shot Cast Range increased
+Base Armor increased
+Level Talent Death Pulse Heal increased
+Intelligence Multiplier increased
+Attack Animation Speed increased
+Base Health Regen increased
+Cooldown decreased
+Mana Cost decreased
+Cooldown decreased
+Base Intelligence increased
+Ally Heal Amplification increased
+Mana Cost decreased
+Agility bonus increased
+Base Armor increased
+Cast Range increased
+Level Talent Sand Storm Movement Speed increased
+Cast Range increased
+Passive Bonus Range increased
+Damage increased
+Charge Bonus Speed increased
+Bonus Damage increased
+Level Talent Damage increased
+Attack Damage increased
+Base Agility increased
+Base Intelligence increased
+Mana Cost decreased
+Base Armor increased
+Cooldown decreased
+Cast Point decreased
+Ministun Duration increased
+Cooldown decreased
+Mana Cost decreased
+Recipe cost decreased Total cost decreased
+Base Intelligence increased
 Intelligence gain increased
-Added Aghanim Shard Upgrades Fire Remnant Fire Remnants deal damage per second AoE around Dying killing enemy hero leaves Fire Remnant nearby Kills within range count DPS multiple Fire Remnants stack
-Sproink launches Impetus attack furthest enemy units within attack range
-Added Aghanim Shard Upgrades Nature Attendants Adds permanent Nature Attendants follow around
-Demonic Conversion attack point improved
-Demonic Conversion duration
-Malefice cooldown reduced
-Added Aghanim Shard Upgrades Black Hole Black Hole pull towards center AoE pulls rate units per second
-Added Aghanim Shard Upgrades Time Walk Time Walk remains castable second landing used period reverse time walk back previous cast location Increases Time Walk cast range Note change health second use
-Base attack range increased
-Ink Swell max values happen seconds touching enemy rather seconds
-Phantom Embrace manacost reduced
-Phantom Embrace bounty
-Dark Portrait illusion duration increased seconds
-Phantom Embrace refreshes cooldown target cast dies reaches
-Added Aghanim Shard Grants Ink Covers target enemy ink seconds slowing attack speed movement speed dealing total damage duration Cast Range Cooldown Manacost
-Attack backswing animation reduced
-Base agility increased base damage unchanged
-Added Aghanim Shard Upgrades Rocket Barrage Rocket Barrage hits extra target Increases Barrage duration second
-Berserker Blood max attack speed increased
-Life Break scepter duration increased
-Life Break scepter also increases cast range
-Level Talent increased Attack Range
-Added Aghanim Shard Upgrades Inner Fire Causes Inner Fire reduce applies movement speed slow Lowers cooldown seconds
-Forged Spirit spawns two units Quas Exort points
-Forged Spirit armor reduction cap increased
-Level Talent increased Chaos Meteor Damage Chaos Meteor Damage
-Level Talent increased Tornado Cooldown
-Added Aghanim Shard Upgrades Ice Wall Causes Ice Wall become range Vector Target ability Lowers cooldown seconds
-Base damage increased
-Tether slow increased
-Spirits damage increased
-Spirits collision damage increased
-Overcharge grants Spell Amplification
-Added Aghanim Shard Upgrades Tether Ending Tether stuns enemies touching seconds deals damage Increases movement speed
-Level Talent increased Ice Path Cooldown
-Added Aghanim Shard Grants Liquid Frost Autocast attack ability Causes Ice head release frost based attack slowing enemies dealing max health damage per second seconds Cooldown
-Blade Fury radius increased
-Level Talent increased Blade Fury DPS
-Added Aghanim Shard Upgrades Blade Fury Increases movement speed Blade Fury attacks random nearby enemy per second
-Illuminate manacost reduced
-Level Talent increased Blinding Light Cooldown Blinding Light Miss
-Added Aghanim Shard Upgrades Illuminate Causes Illuminate heal allied units damage daytime
-Base intelligence gain increased
-Ghostship Rum movement speed increased
-Base health regen increased
-Level Talent increased strength
-Level Talent increased Tidebringer Cleave
-Added Aghanim Shard Grants Tidal Wave Releases wave towards target direction deals damage drags enemies along range seconds wave spawns units behind travels distance front speed radius Cooldown Manacost
-Level Talent increased Overwhelming Odds Cooldown
-Added Aghanim Shard Upgrades Duel Dueling every seconds Overwhelming Odds cast centered random enemy unit within radius center target twice Prioritizes heroes
-Added Aghanim Shard Upgrades Split Earth Causes Split Earth repeat location two additional times second delay one time radius increases Split Earth echo location visible teams
-Level Talent increased Frost Nova AoE Damage
-Added Aghanim Shard Grants Ice Spire Creates icicle target spot seconds slowing enemies within range Chain Frost bounce Icicle enemies range cast Frost Shield health Cast Range Cooldown Manacost
-Base attack speed reduced
-Feast increased
-Added Aghanim Shard Grants Open Wounds Provides attackers Lifesteal damage dealt target cast range seconds cooldown Max slow Manacost
-Fiery Soul attack speed increased
-Laguna Blade mana cost reduced
-Level Talent increased Light Strike Array Damage
-Level Talent increased Health
-Level Talent increased Fiery Soul Per Stack
-Added Aghanim Shard Upgrades Laguna Blade Increases Laguna Blade cast range Laguna Blade also ground targeted always travel full cast length hit units along path
-Agility increased
-Earth Spike cast range increased
-Added Aghanim Shard Upgrades Mana Drain Mana Drain grants true sight enemy reduces attack speed
-Level Talent increased True Form Cooldown
-Added Aghanim Shard Upgrades Savage Roar Savage Roar empowers allied units AoE Movement Speed Attack Speed seconds
-Base agility increased base damage unchanged
-Lunar Blessing night vision increased
-Moon Glaive damage reduction reduced
-Added Aghanim Shard Upgrades Lucent Beam Allows Lucent beam ground targeted increases stun duration grants bonus movement speed seconds Ground Target Search Radius
-Howl cooldown reduced
-Howl manacost reduced
-Feral Impulse longer radius affects units anywhere
-Level Talent increased Feral Impulse Damage
-Added Aghanim Shard Upgrades Summon Wolves Causes one creep waves include uncontrollable wolf moves wave
-Level Talent increased Reverse Polarity Stun Duration
-Added Aghanim Shard Grants Horn Toss Tosses enemies front launching behind Enemies spend seconds air take damage landing stunned seconds Cast Range Cooldown Manacost
-Arena Blood manacost reduced
-Added Aghanim Shard Upgrades Spear Mars Spear Mars impales two units leaves fire trail behind lasts seconds Deals dps slows Debuff lingers second
-Added Aghanim Shard Grants Cold Blooded Passive targeted spell single target Mystic Snake sent back towards enemy Cooldown
-Turn rate improved
-Level Talent increased Poof Damage
-Added Aghanim Shard Upgrades Ransack Ransack chance hit apply geostrike debuff slowing enemies dealing DPS seconds Instances different Meepos stack
-Level Talent increased Damage
-Added Aghanim Shard Upgrades Leap Grants Leap Charge Attacks leap buff Critical Strike
-Base armor increased
-Mischief cooldown reduced
-Level Talent increased Primal Spring Damage
-Level Talent adjusted Wukong Command Armor
-Added Aghanim Shard Upgrades Tree Dance Lowers Tree Dance cooldown cast point
-Added Aghanim Shard Upgrades Adaptive Strike Causes Adaptive Strike Multishot removes second shared cooldown two different abilities Prioritizes enemy heroes
-Mirror Image cooldown reduced
-Ensnare cast point reduced
-Added Aghanim Shard Upgrades Rip Tide activate Rip Tide releasing stronger Rip Tide deals extra damage slows enemies seconds Applies around illusion hit one instance Cooldown Manacost
-Nature Call treant base attack time improved
-Sprout back swing reduced
-Level Talent increased Treants Summoned
-Level Talent increased Treant
-Added Aghanim Shard Upgrades Sprout Causes first two trees destroyed Sprout summon Greater Treants two Greater Treants alive time
-Added Aghanim Shard Grants Death Seeker Spawns fast moving large Death Pulse towards target enemy ally self dealing damage causing spread normal Death Pulse towards nearby enemies allies Cast Range Cooldown Manacost
-Added Aghanim Shard Upgrades Hunter Night night time cast Hunter Night Consumes lesser creature instantly killing restoring maximum HP mana cast units Cooldown
-Base intelligence increased
-Vendetta damage increased
-Impale cast point reduced
-Level Talent increased Spiked Carapace Damage
-Added Aghanim Shard Upgrades Vendetta Causes Vendetta attack reduce magic resistance seconds Increases Vendetta movement speed unlocking max speed
-Ignite first damage instance dealt immediately
-Fireblast manacost reduced
-Unrefined Fireblast mana cost reduced current mana
-Added Aghanim Shard Grants Fire Shield Creates shield around target ally building absorbing damage next attacks Launches fireballs attacker dealing damage Lasts seconds Multicast Cast Range Cooldown Manacost
-Added Aghanim Shard Grants Hammer Purity Auto Attack Ability Causes next attack deal bonus pure damage equal plus base damage healed amount damage dealt Cooldown Manacost
-Added Aghanim Shard Upgrades False Promise Causes False Promise second fade delay invisibility
-Minimum damage increased
-Astral Imprisonment cast range increased
-Astral Imprisonment damage single target increased
-Astral Imprisonment manacost reduced
-Arcane Orb damage increased
-Sanity Eclipse base damage increased
-Sanity Eclipse cooldown reduced
-Added Aghanim Shard Upgrades Essence Flux Essence Flux becomes second channel ability Swaps current Life Mana totals transfers respective values Cooldown
-Shield Crash damage increased
-Shield Crash manacost reduced
-Shield Crash cooldown reduced
-Level Talent increased Swashbuckle Slash Range
-Level Talent increased Strength
-Added Aghanim Shard Grants Roll Turns protective ball seconds gaining magic immunity allowing turn cast Rolling Thunder temporarily pause cast Rolling Thunder Shield Crash Roll enemies attack Roll roll away attacker seconds applying Rolling Thunder enemies way Cooldown
-Blur fade time reduced
-Added Aghanim Shard Grants Fan Knives Releases sharp blades around AoE dealing enemies max health impact applies Break seconds Cooldown Manacost
-Base intelligence increased
-Phantom Rush agility bonus still provided dash canceled
-Phantom Rush minimum proc distance reduced
-Level Talent increased Spirit Lance Cooldown
-Added Aghanim Shard Upgrades Spirit Lance Bounces towards enemy units away prioritizing heroes Increases Spirit Lance Illusion damage
-Level Talent increased Icarus Dive Slow
-Added Aghanim Shard Upgrades Fire Spirits Causes Fire Spirits become passive ability Every seconds Fire Spirit respawns
+Damage Barrier increased
+Base Armor increased
+Mana Cost decreased
+Base Attack Time decreased
+Creep Damage Multiplier increased
+Cooldown decreased
+Level Talent Crypt Swarm Cooldown Reduction increased
+Bonus Movement Speed increased
+Eidolon Gold Bounty decreased
+Mana Cost decreased
+Cooldown decreased
+Duration increased
+Base Intelligence increased
+Level Talent Frost Blast Cooldown Reduction increased
+Max Health Damage increased
+Damage Reduction per bounce decreased
+Aghanim Shard Self Damage Reduction increased
+Aghanim Shard Buff Duration increased
+Level Talent Eclipse Cooldown Reduction increased
+Health Steal Heroes increased
+Duration increased
+Cast Range increased
+Bonus Attack Speed increased
+Self Bonus Attack Speed increased
+Cast Range increased
+Vanish Radius increased
+Building Damage increased
+Enemy Move Slow increased
+Cast Range increased
+Radius increased
+Cooldown decreased
+Cooldown decreased
+Cooldown decreased
+Movement Speed Damage increased
+Damage increased
+Cooldown Familiars decreased
+Damage increased
+Geminate Attack Damage increased
+Reduction per unit decreased
+Main Projectile Speed increased
+Curse Duration increased
+Base Strength increased
+Damage increased
+Level Talent Wraithfire Blast Stun Duration increased
+Magic Resistance bonus increased
+Vladmir Aura Armor increased
+Protect Cooldown decreased
+Vladmir Aura Armor increased
+Cooldown decreased
+Rocket Damage increased
+Bonus Damage increased
+Damage Delayed decreased
+Slow Duration increased
+Cast Range increased
+Base Agility increased
 Agility gain increased
-Turn rate improved
-Illusory Orb damage increased
-Waning Rift max distance increased
-Dream Coil initial damage increased
-Level Talent increased Damage
-Added Aghanim Shard Upgrades Waning Rift Waning Rift deals bonus damage knocks enemies back distance seconds Reveals invisible enemy units wards area seconds
-Base damage increased
-Base armor increased
-Flesh Heap magic resistance increased
-Added Aghanim Shard Upgrades Dismember Allows targeting ally Dismember swallow heal max health per second half cooldown used allies
-Added Aghanim Shard Upgrades Life Drain every seconds channel enemy another secondary Life Drain created targeting another random enemy hero cast range continue channel enemy heroes available channel duration runs
+Cast Range increased
+Damage Amplification increased
+Stat Loss Percent increased
+Base Movement Speed decreased
+Base Heal per second increased
+Provides Health Regen
+Cost decreased
+Attributes bonus increased
+Health Regen bonus increased Attack Speed bonus increased
+Recipe cost decreased Total cost unchanged
+Agility bonus increased
+Suppress duration increased
+Damage bonus increased
+Strength bonus increased
+Echo Strike Cooldown decreased
+Recipe cost decreased Total cost unchanged
+Damage bonus increased
+Strength bonus increased
+Echo Strike Cooldown decreased
+Attributes bonus increased
+Energy Charge Restored per charge increased
+Energy Charge Base Charge Restore Time decreased
+Damage bonus increased
+Attack Speed bonus increased
+Damage bonus increased
+Intelligence bonus increased
+Recipe cost decreased Total cost unchanged
+Attack Speed bonus increased
+Attack Speed bonus increased
+Mana Regen bonus increased
+Mana Regen bonus increased
+Health Regen bonus increased
+Health Regen bonus increased
+Mana Regen bonus increased
+Armor bonus increased
+Arctic Blast mana cost decreased
+Damage bonus increased
+Shadow Walk bonus damage increased
+Shadow Walk Break duration increased
+Attack Speed bonus increased
+Rejuvenate Heal increased
+Base Armor increased
+Mana Cost decreased
+Debuff Duration increased
+Level Talent Max Mana Mana Burn increased
+Level Talent Mana Void Damage Multiplier increased
+Base Armor increased
+increased
+Cast Range increased
+Movement Slow increased
+Projectile Speed increased
+Cooldown decreased
+Base Damage increased
+Agility gain increased
+Damage increased
+Level Talent Bloodrage Spell Amplification increased
+Level Talent Blood Rite Damage increased
+Level Talent Attack Speed increased
+Agility gain increased
+Level Talent Death Pact Bonus Health increased
+Level Talent Strafe Cooldown Reduction increased
 Strength gain increased
-Level Talent increased Strength
-Added Aghanim Shard Upgrades Blink Releases sonic boom blink starting ending location Deals damage AoE silences seconds hit
-Base movement speed increased
-Base HP regen increased
-Plasma Field minimum damage increased
-Added Aghanim Shard Upgrades Storm Surge Causes Storm Surge chance release forked lightning attacked always targeted spell hitting target enemies Deals Damage slows seconds
-Smoke Screen cast Tricks Trade
-Smoke Screen radius increased
-Smoke Screen miss rate rescaled
-Smoke Screen manacost reduced
-Tricks Trade scepter upgrade hits units rather
-Added Aghanim Shard Grants Sleeping Dart Fires dart target enemy putting sleep seconds target invulnerable duration ends target wakes receive damage slowed seconds Cooldown Cast Range Manacost
-Arcane Supremacy provides Cast Range
-Spell Steal provides bonus Debuff Amplification stolen spells
-Added Aghanim Shard Upgrades Telekinesis Allows use Telekinesis ally Throw range longer cooldown reduced targeting allies Throw delay reduced seconds
-Epicenter radius increase
-Level Talent increased Caustic Finale Slow
-Added Aghanim Shard Upgrades Epicenter EpicenterEvery units moved causes Epicenter Pulse around AoE
-Shadow Poison longer dispellable
-Demonic Purge Scepter upgrade debuff ends new one cast deals damage relative long lasted
-Added Aghanim Shard Upgrades Demonic Purge Allows Demonic Purge cast allies continuously dispelling healing end instead damaging slow allies
-Shadowraze manacost reduced
-Level Talent increased Attack Speed
-Added Aghanim Shard Upgrades Necromastery Necromastery provides Spell Amp per Soul
-Mass Serpent Ward damage increased
-Level Talent increased Hex Cooldown
-Added Aghanim Shard Upgrades Shackles Shackles creates Serpent Wards attack target channel Increases Shackle range Wards last seconds
-Last Word Scepter radius increased
-Added Aghanim Shard Upgrades Glaives Wisdom Causes Glaives bounce towards closest enemy unit dealing attack damage Bounce range unit unit
-Added Aghanim Shard Upgrades Ancient Seal Ancient Seal debuff causes debuffs applied last longer Grants vision target
-Added Aghanim Shard Upgrades Corrosive Haze Causes Corrosive Haze applied seconds units hit Slithereen Crush
-Shadow Dance cooldown reduced
-Pounce scepter range increased
-Level Talent increased Agility
-Added Aghanim Shard Grants Fish Bait throw enemies reduce movement speed grant truesight seconds pounce enemy time rewarded attack speed duration Pounce Cast range Manacost Cooldown
-Lil Shredder manacost reduced
-Gobble Spit longer manacost
-Gobble target special units like Golems Spirit Bear etc
-Added Aghanim Shard Upgrades Scatterblast Units point blank range Scatterblast knocked back units take extra damage stunned seconds
+Self Mana Regen Multiplier increased
+Radius increased
+Level Talent Crystal Nova Cooldown Reduction increased
+Level Talent Crystal Nova Damage increased
+Mana Cost decreased
+Duration Max Damage decreased
+Level Talent Cursed Crown Stun Duration increased
+Fire Trail Duration increased
+Health Cost Increase per cast decreased
+Aghanim Shard dormant duration increased
+Radius increased
+Level Talent Glimpse Max Damage increased
+Level Talent Thunder Strike Slow Duration increased
+Base Movement Speed increased
+Cooldown decreased
+Level Talent Infernal Blade Max HP Damage increased
+Echo Damage increased
+Max HP Damage increased
+Unit Count increased
+Bonus Hero Damage increased
+Radius increased
 Strength gain increased
-Base agility increased base damage unchanged
-Shrapnel charge replenish time reduced seconds
-Added Aghanim Shard Grants Concussive Grenade Knocks enemies back units slowing disarming seconds Radius Cast Range Cooldown Manacost
-Shadow Step scepter ability also casts Spectral Dagger target
-Added Aghanim Shard Upgrades Dispersion activate Dispersion spawn Haunt Illusion attack recent hero damaged last seconds Illusion lasts seconds Cooldown Manacost
-Nether Strike cooldown reduced
-Charge Darkness scepter movement bonus increased
-Added Aghanim Shard Upgrades Nether Strike Causes Nether Strike cast delay rather cast time deal extra damage apply Break seconds Spell Immune cast delay
-Level Talent increased Health
-Added Aghanim Shard Grants Electric Rave Gives allied heroes within AoE Overload charges Lasts seconds charges depleted Cooldown Manacost Passively provides Attack Speed Storm Spirit
-Added Aghanim Shard Upgrades Storm Hammer Storm Hammer applies dispel enemies
-Added Aghanim Shard Upgrades Blast Increases Blast cast range applies second stun enemies within AoE half primary radius
-Base strength increased
-Base attack range increased
-Psi Blades Spill range attack range
-Level Talent increased Movement Speed
-Added Aghanim Shard Upgrades Psionic Trap Causes Psionic Trap silence enemies seconds based long trap charged Minimum duration
-Reflection duration increased
-Terror Wave scepter ability grants Metamorphosis seconds Metamorphosis already active extends seconds instead
-Level Talent increased Sunder Cooldown
-Added Aghanim Shard Grants Demon Zeal Costs Current HP cast providing Movement Attack Speed seconds Provides bonus melee Cooldown
-Kraken Shell damage block increased
-Level Talent increased Movement Speed
-Added Aghanim Shard Upgrades Anchor Smash Increases Anchor Smash damage causes affect buildings Reduces cooldown second
-Level Talent increased Health
-Whirling Death base damage
-Whirling Death range increased
-Timber Chain speed increased
-Chakram cast animation reduced affects scepter well
-Added Aghanim Shard Grants Flamethrower Releases flame direction facing Lasts seconds Applies debuff deals DPS slows seconds Sets trees fire eventually die seconds Cooldown Manacost
-Added Aghanim Shard Grants Defense Matrix Targets allied unit applying barrier blocks next damage provides status resistance Barrier lasts seconds damage shield consumed Cast Range Cooldown Manacost
-Tree Grab cooldown reduced
-Grow damage increased
-Level Talent increased Tree Grab Attack Charges
-Level Talent increased Avalanche Cooldown
-Added Aghanim Shard Grants Craggy Exterior Provides chance stun enemy second deal damage physical attack impacts hero Works enemies within range Procs attack impacts affect Spell Immune enemies
-Overgrowth interrupts targets
-Added Aghanim Shard Upgrades Nature Guise Causes Nature Guise root enemies upon attacking Roots second deals total damage Lasts extra second attacking near tree Cooldown
-Berserker Rage movement bonus increased
-Added Aghanim Shard Upgrades Battle Trance Casting Battle Trance gives global aura gives allied heroes including Attack Speed
-Level Talent increased Snowball Cooldown
-Added Aghanim Shard Grants Frozen Sigil Summons flying Sigil slows enemy attack movement speed enemies within radius Lasts seconds Cooldown Manacost
-Level Talent changed Magic Resistance Firestorm Wave Count
-Added Aghanim Shard Upgrades Firestorm Firestorm self targeted used way Firestorm follows around Also causes Firestorm heal damage values Reduces cast point half
-Added Aghanim Shard Upgrades Decay Increases Decay radius spawns zombie around hero target
-Overpower cooldown reduced
-Overpower manacost reduced
-Earthshock slow increased
-Level Talent increased Health
-Added Aghanim Shard Upgrades Fury Swipes Every Fury Swipes single target causes Ursa get Enraged seconds
-Base intelligence increased
-Magic Missile cast range increased
-Magic Missile projectile speed increased
-Vengeance Aura increases base attack damage
-Nether Swap cooldown reduced
-Nether Swap cast range increased
-Added Aghanim Shard Upgrades Wave Terror Wave Terror steals enemy hero base damage grants base damage debuff duration
-Venomous Gale initial damage increase
-Added Aghanim Shard Upgrades Venomous Gale Causes Venomous Gale summon two Plague Ward impacts enemy hero Increases travel distance
-Added Aghanim Shard Upgrades Poison Attack Poison Attacks also lower armor per stack Increases max stacks
-Attack projectile speed increased
-Summon Familiars damage increased
-Added Aghanim Shard Upgrades Gravekeeper Cloak Allows cast Gravekeeper Cloak turn Stone Form Restores health Cooldown Manacost
-Added Aghanim Shard Upgrades Dissimilate Adds partial outer ring Dissimilate Increases damage
-Level Talent increased Shadow Word AoE
-Added Aghanim Shard Upgrades Shadow Word Shadow Word provides movement speed
-Added Aghanim Shard Upgrades Swarm Causes Swarm latch onto reveal invisible units Causes Geminate Attack also launch extra attack onto enemies within range attack target Beetles attached Reduces Swarm cooldown seconds
-Added Aghanim Shard Upgrades Powershot Powershot becomes global reaching default range affects heroes max hero Impacted heroes killed health taking impact damage Kill threshold scales based powershot channel duration
-Base damage increased
-Cold Embrace base heal per second increased
-Arctic Burn scepter mana cost reduced
-Arctic Burn scepter upgrade also increases movement speed
-Level Talent increased Winter Curse Duration
-Added Aghanim Shard Upgrades Cold Embrace Cold Embrace ends Splinter Blast goes location hitting enemies within range
-Added Aghanim Shard Grants Voodoo Switcheroo Turns Death Ward seconds Death Ward Attack Speed time Cooldown Manacost
-Scepter upgrade buffs Wraith units Attack Speed Movement Speed
-Added Aghanim Shard Upgrades Reincarnation Causes Reincarnation mana cost spawns three skeletons attack nearby enemy hero Reincarnation triggered
-Added Aghanim Shard Upgrades Static Field Static Field cast perform Heavenly Jump shocking closest visible enemy hero priority within range dealing Static Field damage reducing movement speed seconds moving forward jump towards direction distance Cooldown Manacost
+Level Talent Time Dilation DPS per cooldown increased
+Level Talent Time Dilation Slow per Cooldown increased
+Level Talent Stroke Fate Damage increased
+Bonus Damage increased
+Total Damage increased
+Strength gain increased
+Level Talent Blinding Light Miss increased
+Level Talent Illuminate Damage increased
+Damage increased
+Mana Drain per second increased
+Base Health Regen increased
+Fetch Duration increased
+Level Talent Stats per hero hit Reverse Polarity increased
+Level Talent Dispose Damage increased
+Backswing decreased
+Critical Damage increased
+Formation Time decreased
+Agility gain increased
+Outgoing Damage increased
+Level Talent Stone Gaze Bonus Physical Damage increased
+Level Talent Mystic Snake Bounces increased
+Damage increased
+Level Talent Poof Damage increased
+Intelligence gain increased
+Radius increased
+Mana Cost decreased
+Aghanim Shard Primal Spring effect power Max Channeling Duration
+Cooldown decreased
+Cooldown decreased
+Cast Range increased
+Mana Cost decreased
+Cast Point improved
+Radius increased
+Base Health Regen increased
+Intelligence gain increased
+Base Movement Speed increased
+Duration increased
+Max Health Damage increased
+Projectile Speed increased
+Max Travel Time decreased
+Fragment Flight Time decreased
+Fragment Impact Radius increased
+Cooldown decreased
+Level Talent Waning Rift Silence Duration increased
+Level Talent Dream Coil Damage increased
+Level Talent Armor increased
+Level Talent Meat Hook Damage increased
+Level Talent Damage increased
+Level Talent Sonic Wave Cooldown Reduction increased
+Level Talent Sonic Wave Damage increased
+Link Duration increased
+Movement Slow increased
+Intelligence gain increased
+Cooldown decreased
+Projectile Speed increased
+Projectile Speed increased
+Base Damage decreased
+Base Agility increased
+Base Armor increased
+Intelligence Damage increased
+Strength gain increased
+Intelligence gain increased
+Level Talent Shadow Dance Regen increased
+Damage increased
+Impact Damage increased
+Cooldown decreased
+Remnant Activation Time decreased
+Intelligence gain increased
+Level Talent Warcry Duration increased
+Current HP Self Damage decreased
+Level Talent Reflection Cooldown Reduction increased
+Mana Cost decreased
+Level Talent Anchor Smash Damage Reduction increased
+Base Strength increased
+Strength gain increased
+Max Stacks increased
+Stacks per Hero Attack increased
+Bonus Base Damage increased
+Cooldown decreased
+Toss Bonus Damage increased
+Aghanim Shard Chance Extra Attack per stack increased
+Cast Point improved
+Cast Point improved
+Mana Cost decreased
+Base Health Regen increased
+Slow Resistance increased
+Damage per attack increased
+Damage increased
+Level Talent Wave Terror Armor Reduction increased
+Initial Damage increased
+Cooldown decreased
+Movement Slow increased
+Cast Point improved
+Level Talent Soul Assumption Targets increased
+Intelligence gain increased
+Barrier per hero hit increased
+Level Talent Mana Regen increased
+Aghanim Scepter Damage Reduction increased
+Duration increased
+Cast Range increased
+Mana Cost decreased
+Heal increased
+Level Talent Cleave increased

@@ -10,7 +10,7 @@ import os
 
 
 
-# build.dataset()
+build.dataset()
 
 
 train_path = "dataset/train/"

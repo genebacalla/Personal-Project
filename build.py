@@ -9,12 +9,12 @@ from pyppeteer import launch
 def dataset():
 
     ctr = 0
-    patch_versions = ["7.35","7.34","7.33","7.32","7.31"]
+    patch_versions = ["7.30c","7.30d","7.30e","7.31","7.31b","7.31c","7.31d","7.32","7.32b","7.32c","7.32d","7.32e","7.33","7.33b","7.33c","7.33d","7.34","7.34b","7.34c","7.34d","7.34e","7.35"]
     alt_texts = ["Buff","Nerf","Rework"]
 
     for version in patch_versions:
  
-        if ctr < 2:
+        if ctr < round((len(patch_versions)/2)+2):
             data_path = "dataset/train"
         else:
             data_path = "dataset/test"
