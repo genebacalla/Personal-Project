@@ -7,9 +7,20 @@ from pyppeteer import launch
 
 
 hero_name = ""
+patch_category=""
+patch_class=""
+patch_note=""
+
 dict_skill = {}
 dict_talent = {}
+
+
 def dataset():
+    global hero_name 
+    global patch_category
+    global patch_class
+    global patch_note
+
 
     ctr = 0
     patch_versions = ["7.30c","7.30d","7.30e","7.31","7.31b","7.31c","7.31d","7.32","7.32b","7.32c","7.32d","7.32e","7.33","7.33b","7.33c","7.33d","7.34","7.34b","7.34c","7.34d","7.34e","7.35"]
@@ -36,6 +47,8 @@ def dataset():
         
         if ul_tag1:
             print(h3_tag.text.strip())
+            # hero_name = h3_tag.text.strip()
+            print(hero_name)
             ul_soup1 = ul_tag1.find_all('li')
 
             if ul_soup1:
@@ -47,88 +60,32 @@ def dataset():
                     if (ul_soup2):
 
                         li_soup = li_tag1.find_all('li')
+                        category = li_tag1.find('b')
+                        if category:
+                            patch_category = category.text.strip()
+                            print(patch_category)
+                        
                         for li_tag2 in li_soup:
                             imgAlt_tag = li_tag2.find('img',alt=lambda value: value in alt_texts)
 
                             if imgAlt_tag:
                                 print(imgAlt_tag.get('alt')+" "+li_tag2.text.strip())
+                                # patch_class = imgAlt_tag.get('alt')
+                                # patch_note = li_tag2.text.strip()
+
+                             
 
                     else:
                         imgAlt_tag = li_tag1.find('img',alt=lambda value: value in alt_texts)
                         if imgAlt_tag:
                             print(imgAlt_tag.get('alt')+" "+li_tag1.text.strip())
-
-              
-
-                    # entity_name = li_tag1.find('b')
-                    # li_soup = li_tag1.find_all('li')
-                    # if (entity_name):
-                    #     hero_name = h3_tag.text.strip()
-
-                    #     print(h3_tag.text.strip())
-                    #     print(entity_name.text.strip())
-
-                    # print("tag1: "+li_tag1.text)
-          
-               
-                    
-                    # for li_tag2 in li_soup:
-                    #     print(li_tag2.text.strip())
-                        # entity_class = li_tag2.find('img',alt=lambda value: value in alt_texts)
-                        # entity_patch = li_tag2.text.strip()
-                        
-             
-            
-                        # if entity_class:
-                        #     print(entity_class.get('alt'),entity_patch)
-                        # else:
-                        #     print("HOLDER")
-               
-                    
-
-                    
+                            # patch_class = imgAlt_tag.get('alt')
+                            # patch_note = li_tag1.text.strip()
+                            
         print("\n")
 
-                    # # extract all span tags inside <li> container
-                    # for span_tag in li_soup_forSpan:
 
-                    #     skill_name = span_tag.find("b")
-
-
-                    #     if (skill_name):
-                    #         if (skill_name.text.strip() != "Talent"):
-                    #             print(skill_name.text.strip())
-
-                    #     for ul_tag in li_soup_forUl:
-
-                    #         ul_soup_forUL = ul_tag.find_all('li')
-
-                    #         for patch_note in ul_soup_forUL:
-
-                    #             patch_description = patch_note.find('img',alt=lambda value: value in alt_texts)
-                    #             if (patch_description):
-                    #                 print(patch_description.get('alt')+" " +patch_note.text.strip())
-                          
-            
-        print("\n")
-            # entity_name = h3_tag.text
-
-            # print(h3_tag.text)
-            # # print(ul_tag.text)
-            # print("\n")
-
-
-
-        # img_tag = li.find('img',alt=lambda value: value in alt_texts)
-
-        # if(img_tag):
-            
-        #     alt = img_tag.get('alt')
-        
-        #     # with open (f"{data_path}/{alt}.txt","a",encoding="utf-8", newline='') as f:
-        #     #     raw_text = li.text.strip()
-        #     #     clean = preprocess.purge(raw_text)
-        #     #     f.write(clean+"\n")
+  
         
 
 dataset()
