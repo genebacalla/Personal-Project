@@ -22,8 +22,10 @@ def purge(text):
     return stemmed_tokens
 
 def tokenize_data(data_list):
-    tokenized_data = [word_tokenize(text.lower()) for text in data_list]
-    return tokenized_data
+    token_data = [word_tokenize(text) for text in data_list]
+    #flat_tokens = [' '.join(token) for token in token_data]
+    #print(flat_tokens[0])
+    return token_data
 
 
 def generate_feature_vectors(tokenized_data, model):

@@ -5,13 +5,13 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.svm import SVC
 from sklearn import metrics
 import numpy as np
+import preprocess
 import joblib
 import os
 
 
 
-build.dataset()
-
+# build.dataset()
 
 train_path = "dataset/train/"
 test_path = "dataset/test"
@@ -39,7 +39,7 @@ svm_model = GridSearchCV(SVC(), param_grid, refit = True, verbose = 0)
 svm_model.fit(x_train,y_train)
 
 
-print("MODEL EVALUATION")
+print("MODEL INITIAL EVALUATION")
 y_pred = svm_model.predict(x_test)
 accuracy = metrics.accuracy_score(y_test, y_pred)
 precision = metrics.precision_score(y_test, y_pred, average='weighted')
