@@ -16,10 +16,7 @@ dict_talent = {}
 
 
 def dataset():
-    global hero_name 
-    global patch_category
-    global patch_class
-    global patch_note
+
 
 
     ctr = 0
@@ -48,22 +45,25 @@ def dataset():
         if ul_tag1:
             print(h3_tag.text.strip())
             # hero_name = h3_tag.text.strip()
-            print(hero_name)
-            ul_soup1 = ul_tag1.find_all('li')
+            # print(hero_name)
+            ul_soup1 = ul_tag1.find_all('li',recursive=False)
 
             if ul_soup1:
 
                 for li_tag1 in ul_soup1:
-                    
+           
+        
                     ul_soup2 = li_tag1.find("ul")
                     
                     if (ul_soup2):
 
                         li_soup = li_tag1.find_all('li')
                         category = li_tag1.find('b')
+
                         if category:
                             patch_category = category.text.strip()
                             print(patch_category)
+    
                         
                         for li_tag2 in li_soup:
                             imgAlt_tag = li_tag2.find('img',alt=lambda value: value in alt_texts)
@@ -72,9 +72,6 @@ def dataset():
                                 print(imgAlt_tag.get('alt')+" "+li_tag2.text.strip())
                                 # patch_class = imgAlt_tag.get('alt')
                                 # patch_note = li_tag2.text.strip()
-
-                             
-
                     else:
                         imgAlt_tag = li_tag1.find('img',alt=lambda value: value in alt_texts)
                         if imgAlt_tag:
