@@ -78,15 +78,15 @@ class MyClass:
 
          
                 patch_stage.append(" ")
-                # print(patch_stage)
             
-                if (self.__check_eol(patch_stage)):
-                    print(patch_stage)
-                    time.sleep(1000)
-                    pass
-            
+                if (not(self.__check_eol(patch_stage))):
+                    patch_final += patch_stage
+                else:
+                
+                    print(f"DETECTED EOL in {version}")
+
                 patch_stage.clear()
-  
+
         return patch_final
     
     
@@ -94,8 +94,6 @@ class MyClass:
         for i,contents in enumerate(patch_stage):
             if ("[edit]" in contents):
                 if (patch_stage[i+1]) == " ":
-                    # print(patch_stage)
-                    print("DETECTED EOL PLEASE TERMINATE")
                     return True
         
                             
