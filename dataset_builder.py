@@ -18,6 +18,15 @@ class DatasetBuilder:
         for i,contents in enumerate(patch_stage):
             if (("[edit]" in contents) and (patch_stage[i+1] == " ")):
                     return True
+            
+    def __flush_compile_vars():
+        _dict1={}
+        _dict2={}
+        _flag1=False
+        _flag2=False
+        str1=''
+        str2=''
+        return _dict1,_dict2,_flag1,_flag2,str1,str2
 
     def get_html (self):
 
@@ -26,36 +35,26 @@ class DatasetBuilder:
         html_content = resp.content
         return BeautifulSoup(html_content,'html.parser')
     
+
+
+
+
     def mekus (self,words):
 
-        buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
+        d_lab={'Buff':0,'Nerf':0,'New':0,'Rework':0,'Rescale':0,'Removed':0}
      
         dict_main={}
-        dict_attribute={}
-        dict_skill={}
-        dict_talent={}
-        flag_target_title=False
-        flag_force_submit=False
-        is_attr=False
-        this_key= ''
-        this_value=''
+        dict_stage={}
+        is_end=False
+        is_attribute=False
+        this_key,this_value='',''
 
-        # locales = [dict_main,dict_attribute,dict_skill,dict_talent,
-        #     flag_force_submit,flag_target_title,flag_skill,flag_talent,flag_attr,
-        #     buff,nerf,new,rework,rescale,removed,
-        #     this_key,this_value
-        #     ]
-
-        flag_attr,flag_skill,flag_talent=False,False,False
         for i,word in enumerate(words):
-
-       
             if (word == " "):
                 continue
 
             _curr_phrase=word.split(',')
-            curr_key=_curr_phrase[0]
-            curr_value=_curr_phrase[1]
+            curr_key,curr_value=_curr_phrase[0],_curr_phrase[1]
             next_key= words[i+1].split(',')[0]
 
             print('----------------------------------')
@@ -70,12 +69,10 @@ class DatasetBuilder:
             if (curr_key == 'Name'):
                 dict_main[curr_key] = curr_value
                 if (next_key in self._target_classes):
-                    is_attr = True
+                    is_attribute = True
                 continue
 
-
             if (curr_key in self._target_titles):
-         
                 if (next_key is self._target_titles): 
                     print(f"ERROR: <{curr_key}> and <{next_key}> is pointing at target titles.")
                     return
@@ -84,95 +81,51 @@ class DatasetBuilder:
                     this_value=curr_value
                     continue
 
-            elif (is_attr):
+            elif is_attribute:
                 this_key = 'Attribute'
                 this_value=curr_value
-       
-                is_attr=False
+                is_attribute=False
  
-            if curr_key == 'Buff':
-                buff+=1
-            elif curr_key == 'Nerf':
-                nerf+=1
-            elif curr_key == 'Rescale':
-                rescale+=1
-            elif curr_key == 'New':
-                new+=1
-            elif curr_key == 'Rework':
-                rework+=1
-            elif curr_key == 'Removed':
-                removed+=1
-          
-
-            if ((next_key == " ") and (not(flag_target_title))):
-                ("ERROR: The function is force submitting the current iteration.")
-                flag_force_submit=True
+            d_lab[curr_key]+=1
+ 
+            if next_key == " ":
+                is_end=True
                 
-            if ((next_key in self._target_titles) or (flag_force_submit)):
-                flag_target_title = True
-                
+            if ((next_key in self._target_titles) or is_end):
+           
+        
+                tot_adv = (d_lab['Buff']-d_lab['Nerf']) + (d_lab['New']-d_lab['Removed'])
+                tot_adj = d_lab['Rework']+d_lab['Rescale']
 
-                total_adv = (buff-nerf) + (new-removed)
-                total_adj = rework+rescale
+                if ((tot_adv-tot_adj)>0):
+                    verdict='Buff'
+                elif ((tot_adv-tot_adj)<0):
+                    verdict='Nerf'
+                elif (tot_adj==tot_adv):
+                    verdict='Adjust'
 
-                if ((total_adv-total_adj)>0):
-                    verdict='buff'
-                elif ((total_adv-total_adj)<0):
-                    verdict='nerf'
-                elif (total_adj==total_adv):
-                    verdict='adjust'
-                
+                dict_stage[this_value] = verdict
+                dict_main[this_key]=dict_stage
 
+                for classes in d_lab:
+                    d_lab[classes]=0
 
-                if (this_key == 'Attribute'):
-                    dict_attribute[this_value] = verdict
-                    flag_attr=True
-            
-                elif (this_key == 'Skill'):
-                    dict_skill[this_value] = verdict
-                    flag_skill=True
+                this_key,this_value='',''
 
-                elif (this_key == 'Talent'):
-                    dict_talent[this_value] = verdict
-                    flag_talent=True
+            if is_end:
 
-      
-                buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
-                this_key=''
-                this_value=''
-                flag_target_title = False
-       
-            if (next_key == " " or next_key=='\n'):
-
-                print("NOTE: The function is now submitting the main dictionary.")
-                
-                if flag_attr:
-                    dict_main['Attribute']=dict_attribute
-                if flag_skill:
-                    dict_main['Skill']=dict_skill
-                if flag_talent:
-                    dict_main['Talent']=dict_talent
-
-    
+                is_end = False
                 with open("DATASET.json", 'a') as j:
                     json.dump(dict_main, j, indent=2)
                     
-
-
                 dict_main.clear()
-                dict_attribute.clear()
-                dict_skill.clear()
-                dict_talent.clear()
-                flag_force_submit = False
-                flag_target_title = False
-                flag_skill=False
-                flag_talent=False
-                flag_attr=False
+                dict_stage.clear()
+    
+                for classes in d_lab:
+                    d_lab[classes]=0
 
-                buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
-                this_key=''
-                this_value=''
-
+                this_key,this_value='',''
+    
                 continue
 
     def get_patch_notes (self):
