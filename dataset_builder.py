@@ -1,11 +1,15 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import json
 import os 
 
 class DatasetBuilder:
 
-    target_classes = ['Buff',"Nerf","New","Rework","Rescale","Removed"]
+    _target_classes = ['Buff',"Nerf","New","Rework","Rescale","Removed","Rework"]
+    _h2_hero_id = ['Heroes','Hero_Updates']
+    _target_titles = ['Name','Talent','Skill']
+    
 
     def __init__ (self, patch):
         self.version_patch = patch
@@ -22,21 +26,181 @@ class DatasetBuilder:
         html_content = resp.content
         return BeautifulSoup(html_content,'html.parser')
     
-    def get_patch (self):
+    def __get_patch_class (self,phrase):
+        for target_class in self._target_classes:
+            if target_class in phrase:
+                return target_class
+   
+
+    def mekus (self,words):
+
+        buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
+
+        dict_main={}
+        dict_attribute={}
+        dict_skill={}
+        dict_talent={}
+
+
+        flag_target_title=False
+        flag_force_submit=False
+        is_attr=False
+        
+
+        this_key= ''
+        this_value=''
+
+        flag_attr,flag_skill,flag_talent=False,False,False
+        for i,word in enumerate(words):
+
+       
+            if (word == " "):
+                continue
+
+            _curr_phrase=word.split(',')
+            curr_key=_curr_phrase[0]
+            curr_value=_curr_phrase[1]
+            next_key= words[i+1].split(',')[0]
+
+            print('----------------------------------')
+            print("Iteration: ",i)
+            print('word: ', word)
+            print('Current Key: ',curr_key)
+            print('Current Value: ',curr_value)
+            print('Next Key: ', next_key)
+            print('----------------------------------\n')
+         
+
+            if (curr_key == 'Name'):
+                dict_main[curr_key] = curr_value
+                if (next_key in self._target_classes):
+               
+                    is_attr = True
+                continue
+
+
+            if (curr_key in self._target_titles):
+         
+                if (next_key is self._target_titles): 
+                    print(f"ERROR: <{curr_key}> and <{next_key}> is pointing at target titles.")
+                    return
+                else:
+                    this_key=curr_key
+                    this_value=curr_value
+                    continue
+
+            elif (is_attr):
+                this_key = 'Attribute'
+                this_value=curr_value
+       
+                is_attr=False
+ 
+            if curr_key == 'Buff':
+                buff+=1
+            elif curr_key == 'Nerf':
+                nerf+=1
+            elif curr_key == 'Rescale':
+                rescale+=1
+            elif curr_key == 'New':
+                new+=1
+            elif curr_key == 'Rework':
+                rework+=1
+                print("REWORK RAN")
+            elif curr_key == 'Removed':
+                removed+=1
+          
+
+            if ((next_key == " ") and (not(flag_target_title))):
+                ("NOTE: The function is force submitting the current iteration.")
+                flag_force_submit=True
+                
+            if ((next_key in self._target_titles) or (flag_force_submit)):
+                flag_target_title = True
+                
+    
+
+                total_adv = (buff-nerf) + (new-removed)
+                total_adj = rework+rescale
+
+                if ((total_adv-total_adj)>0):
+                    verdict='buff'
+                elif ((total_adv-total_adj)<0):
+                    verdict='nerf'
+                elif (total_adj==total_adv):
+                    verdict='adjust'
+                
+
+
+                if (this_key == 'Attribute'):
+                    dict_attribute[this_value] = verdict
+                    flag_attr=True
+            
+                elif (this_key == 'Skill'):
+                    dict_skill[this_value] = verdict
+                    flag_skill=True
+
+                elif (this_key == 'Talent'):
+                    dict_talent[this_value] = verdict
+                    flag_talent=True
+
+                print('------TITLE INFO---------')
+                print(this_value+' '+verdict)
+                print('------NOW SUBMITTED-----')
+      
+                buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
+                this_key=''
+                this_value=''
+                flag_target_title = False
+       
+            if (next_key == " " or next_key=='\n'):
+
+                print("NOTE: The function is now submitting the main dictionary.")
+                
+                if flag_attr:
+                    dict_main['Attribute']=dict_attribute
+                if flag_skill:
+                    dict_main['Skill']=dict_skill
+                if flag_talent:
+                    dict_main['Talent']=dict_talent
+
+    
+                with open("DATASET.json", 'a') as j:
+                    json.dump(dict_main, j, indent=2)
+                    
+
+
+                dict_main.clear()
+                dict_attribute.clear()
+                dict_skill.clear()
+                dict_talent.clear()
+                flag_force_submit = False
+                flag_target_title = False
+                flag_skill=False
+                flag_talent=False
+                flag_attr=False
+
+                buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
+                this_key=''
+                this_value=''
+
+                continue
+
+    def get_patch_notes (self):
 
         patch_stage=[]
         patch_final=[]
       
         soup = self.get_html()
-        hero_start = soup.find('span',id='Heroes')
+        hero_start = soup.find('span',{'id': self._h2_hero_id})
         all_h3 = hero_start.find_all_next('h3')
  
         for i,h3 in enumerate(all_h3):
             
             if (h3.find_next('ul')):
 
-
-                patch_stage.append(h3.text.strip())
+                fixed_h3 = h3.text.replace("[edit]","").strip()
+                fixed_h3  = "Name,"+fixed_h3
+                patch_stage.append(fixed_h3)
 
                 ul_container = h3.find_next('ul')
                 all_li = ul_container.find_all('li')
@@ -48,16 +212,16 @@ class DatasetBuilder:
                     if (in_line):
 
                         if (in_line.text.strip() == "Talent"):
-                            title = "[talent]"
+                            title = "Talent"
                         else:
-                            title = "[skill]"
+                            title = "Skill"
 
-                        patch_stage.append(in_line.text.strip() + f"{title}")
+                        patch_stage.append( f"{title}," + in_line.text.strip())
                 
                     else:
-                        patch_class = li.find('img',alt=lambda value: value in self.target_classes)
+                        patch_class = li.find('img',alt=lambda value: value in self._target_classes)
                         if (patch_class):
-                            patch_stage.append(patch_class.get('alt') + " " + li.text.strip())
+                            patch_stage.append(f"{patch_class.get('alt')},"+li.text.strip())
 
          
                 patch_stage.append(" ")
@@ -73,35 +237,19 @@ class DatasetBuilder:
     
     
 
-        
-    # def get_html(self,version,beautify=True):
-    #     return self.__parse_html(version).prettify()
-
-                    
-    # def build_data (self,save=False):
-    #     start_time = time.time()
-    #     for version in self.version_patch:
-    #         patch_information = self.__extract_data(version)       
-       
-    #         if save:
-                
 
 
 
-     
- 
-          
-
-    
-patches = ["7.31","7.32","7.33","7.34","7.35"]
+patches = ["7.34","7.34b","7.34c","7.34d","7.34e","7.35"]
+# patches = ["7.34"]
 
 
-for patch in patches:
-    obj = DatasetBuilder(patch)
-    patch_list = obj.get_patch()
 
-    with open(f"text/{patch}.txt",'w') as f:
-        for word in patch_list:
-            f.write(word+"\n")
+obj = DatasetBuilder("7.35")
+patch_list = obj.get_patch_notes()
+obj.mekus(patch_list)
+
+
+
 
  

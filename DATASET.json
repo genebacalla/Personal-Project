@@ -1,0 +1,915 @@
+{
+  "Name": "Abaddon",
+  "Attribute": {
+    "Base Armor increased by 1": "buff"
+  },
+  "Skill": {
+    "Curse of Avernus": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Alchemist",
+  "Skill": {
+    "Acid Spray": "buff",
+    "Corrosive Weaponry": "buff"
+  }
+}{
+  "Name": "Ancient Apparition",
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Anti-Mage",
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Arc Warden",
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Axe",
+  "Attribute": {
+    "Base Armor increased by 1": "buff"
+  },
+  "Skill": {
+    "Berserker's Call": "nerf",
+    "Culling Blade": "adjust"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Bane",
+  "Skill": {
+    "Brain Sap": "buff",
+    "Nightmare": "buff"
+  }
+}{
+  "Name": "Batrider",
+  "Skill": {
+    "Flamebreak": "buff",
+    "Firefly": "buff",
+    "Flaming Lasso": "buff"
+  }
+}{
+  "Name": "Beastmaster",
+  "Attribute": {
+    "Base Damage increased by 2": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Bloodseeker",
+  "Skill": {
+    "Bloodrage": "nerf",
+    "Blood Rite": "adjust"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Bounty Hunter",
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Brewmaster",
+  "Skill": {
+    "Primal Split": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Bristleback",
+  "Skill": {
+    "Viscous Nasal Goo": "nerf",
+    "Bristleback": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Centaur Warrunner",
+  "Skill": {
+    "Hoof Stomp": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Chaos Knight",
+  "Skill": {
+    "Chaos Strike": "nerf"
+  }
+}{
+  "Name": "Chen",
+  "Skill": {
+    "Penitence": "buff",
+    "Holy Persuasion": "nerf",
+    "Divine Favor": "nerf",
+    "Hand of God": "nerf"
+  }
+}{
+  "Name": "Clinkz",
+  "Attribute": {
+    "Agility gain increased from 2.5 to 2.7": "buff"
+  },
+  "Skill": {
+    "Burning Barrage": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Clockwerk",
+  "Attribute": {
+    "Strength gain increased from 2.8 to 3.1": "buff"
+  },
+  "Skill": {
+    "Overclocking": "nerf"
+  }
+}{
+  "Name": "Crystal Maiden",
+  "Skill": {
+    "Arcane Aura": "buff",
+    "Crystal Clone": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Dark Seer",
+  "Skill": {
+    "Ion Shell": "buff",
+    "Wall of Replica": "buff"
+  }
+}{
+  "Name": "Dark Willow",
+  "Skill": {
+    "Shadow Realm": "buff"
+  },
+  "Talent": {
+    "Talent": "adjust"
+  }
+}{
+  "Name": "Dawnbreaker",
+  "Skill": {
+    "Celestial Hammer": "buff"
+  }
+}{
+  "Name": "Dazzle",
+  "Skill": {
+    "Poison Touch": "buff",
+    "Bad Juju": "adjust"
+  }
+}{
+  "Name": "Death Prophet",
+  "Skill": {
+    "Silence": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Disruptor",
+  "Skill": {
+    "Thunder Strike": "buff",
+    "Static Storm": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Doom",
+  "Attribute": {
+    "Base Movement Speed increased from 285 to 290": "buff"
+  },
+  "Skill": {
+    "Devour": "buff",
+    "Infernal Blade": "buff",
+    "Doom": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Dragon Knight",
+  "Skill": {
+    "Breathe Fire": "buff"
+  }
+}{
+  "Name": "Drow Ranger",
+  "Skill": {
+    "Gust": "buff",
+    "Glacier": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Earthshaker",
+  "Skill": {
+    "Echo Slam": "adjust"
+  }
+}{
+  "Name": "Elder Titan",
+  "Skill": {
+    "Earth Splitter": "buff"
+  }
+}{
+  "Name": "Ember Spirit",
+  "Skill": {
+    "Searing Chains": "buff",
+    "Sleight of Fist": "buff",
+    "Flame Guard": "buff"
+  }
+}{
+  "Name": "Enchantress",
+  "Skill": {
+    "Enchant": "adjust"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Enigma",
+  "Skill": {
+    "Demonic Summoning": "adjust",
+    "Midnight Pulse": "nerf"
+  }
+}{
+  "Name": "Faceless Void",
+  "Attribute": {
+    "Strength gain increased from 2.4 to 2.6": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Grimstroke",
+  "Skill": {
+    "Ink Swell": "nerf",
+    "Soulbind": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Gyrocopter",
+  "Skill": {
+    "Call Down": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Hoodwink",
+  "Skill": {
+    "Acorn Shot": "buff",
+    "Bushwhack": "buff"
+  }
+}{
+  "Name": "Invoker",
+  "Attribute": {
+    "Base Damage decreased by 1": "adjust"
+  }
+}{
+  "Name": "Io",
+  "Skill": {
+    "Tether": "buff"
+  }
+}{
+  "Name": "Jakiro",
+  "Skill": {
+    "Dual Breath": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Juggernaut",
+  "Skill": {
+    "Blade Fury": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Keeper of the Light",
+  "Skill": {
+    "Will-O-Wisp": "buff",
+    "Recall": "buff"
+  },
+  "Talent": {
+    "Talent": "adjust"
+  }
+}{
+  "Name": "Kunkka",
+  "Skill": {
+    "Torrent Storm": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Legion Commander",
+  "Skill": {
+    "Overwhelming Odds": "adjust",
+    "Duel": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Leshrac",
+  "Skill": {
+    "Diabolic Edict": "buff",
+    "Lightning Storm": "buff"
+  }
+}{
+  "Name": "Lich",
+  "Skill": {
+    "Sinister Gaze": "buff",
+    "Ice Spire": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Lifestealer",
+  "Skill": {
+    "Rage": "nerf"
+  }
+}{
+  "Name": "Lina",
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Lion",
+  "Attribute": {
+    "Base Health Regen increased from 0.25 to 0.5": "buff"
+  },
+  "Skill": {
+    "Mana Drain": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Lone Druid",
+  "Attribute": {
+    "Strength gain decreased from 2.0 to 1.8": "nerf"
+  },
+  "Skill": {
+    "Summon Spirit Bear": "nerf",
+    "Savage Roar": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Magnus",
+  "Skill": {
+    "Skewer": "adjust"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Marci",
+  "Skill": {
+    "Rebound": "nerf",
+    "Unleash": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Mars",
+  "Skill": {
+    "Spear of Mars": "adjust",
+    "God's Rebuke": "buff",
+    "Bulwark": "buff",
+    "Arena of Blood": "buff"
+  }
+}{
+  "Name": "Medusa",
+  "Attribute": {
+    "Agility gain increased from 3.4 to 3.6": "buff"
+  },
+  "Skill": {
+    "Split Shot": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Meepo",
+  "Skill": {
+    "Poof": "adjust"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Mirana",
+  "Attribute": {
+    "Intelligence gain increased from 1.2 to 1.4": "buff"
+  },
+  "Skill": {
+    "Starstorm": "buff",
+    "Leap": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Monkey King",
+  "Skill": {
+    "Boundless Strike": "buff",
+    "Tree Dance": "adjust",
+    "Wukong's Command": "buff"
+  },
+  "Talent": {
+    "Talent": "adjust"
+  }
+}{
+  "Name": "Muerta",
+  "Skill": {
+    "Gunslinger": "buff",
+    "Pierce the Veil": "nerf"
+  }
+}{
+  "Name": "Naga Siren",
+  "Attribute": {
+    "Strength gain decreased from 2.6 to 2.4": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Nature's Prophet",
+  "Attribute": {
+    "Agility gain decreased from 3.4 to 3.2": "nerf"
+  }
+}{
+  "Name": "Necrophos",
+  "Skill": {
+    "Death Pulse": "nerf",
+    "Heartstopper Aura": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Night Stalker",
+  "Attribute": {
+    "Base Mana Regen increased from 0 to 0.25": "buff"
+  },
+  "Skill": {
+    "Void": "buff",
+    "Hunter in the Night": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Nyx Assassin",
+  "Skill": {
+    "Burrow": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Ogre Magi",
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Omniknight",
+  "Skill": {
+    "Guardian Angel": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Oracle",
+  "Skill": {
+    "Purifying Flames": "buff",
+    "False Promise": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Outworld Destroyer",
+  "Skill": {
+    "Sanity's Eclipse": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Pangolier",
+  "Attribute": {
+    "Base Health Regen increased from 0.25 to 0.75": "buff"
+  },
+  "Skill": {
+    "Shield Crash": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Phantom Assassin",
+  "Attribute": {
+    "Intelligence gain increased from 1.4 to 1.7": "buff"
+  },
+  "Skill": {
+    "Phantom Strike": "adjust",
+    "Fan of Knives": "adjust"
+  }
+}{
+  "Name": "Phantom Lancer",
+  "Attribute": {
+    "Intelligence gain decreased from 2.0 to 1.8": "nerf"
+  },
+  "Skill": {
+    "Spirit Lance": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Phoenix",
+  "Skill": {
+    "Fire Spirits": "buff",
+    "Sun Ray": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Primal Beast",
+  "Skill": {
+    "Rock Throw": "buff"
+  }
+}{
+  "Name": "Puck",
+  "Skill": {
+    "Illusory Orb": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Pudge",
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Pugna",
+  "Attribute": {
+    "Base Agility decreased from 24 to 21": "nerf"
+  },
+  "Skill": {
+    "Nether Ward": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Queen of Pain",
+  "Skill": {
+    "Shadow Strike": "nerf",
+    "Scream of Pain": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Razor",
+  "Skill": {
+    "Static Link": "adjust",
+    "Storm Surge": "adjust"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Riki",
+  "Skill": {
+    "Tricks of the Trade": "nerf"
+  }
+}{
+  "Name": "Rubick",
+  "Attribute": {
+    "Intelligence gain increased from 3.1 to 3.7": "buff"
+  },
+  "Skill": {
+    "Telekinesis": "adjust",
+    "Spell Steal": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Sand King",
+  "Attribute": {
+    "Base Intelligence decreased from 19 to 17": "nerf"
+  },
+  "Skill": {
+    "Burrowstrike": "nerf",
+    "Caustic Finale": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Shadow Demon",
+  "Skill": {
+    "Disruption": "adjust",
+    "Shadow Poison": "buff"
+  }
+}{
+  "Name": "Shadow Fiend",
+  "Attribute": {
+    "Base Damage decreased by 5": "buff"
+  }
+}{
+  "Name": "Shadow Shaman",
+  "Attribute": {
+    "Base Armor increased by 1": "buff"
+  },
+  "Skill": {
+    "Shackles": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Silencer",
+  "Skill": {
+    "Glaives of Wisdom": "adjust"
+  }
+}{
+  "Name": "Slardar",
+  "Skill": {
+    "Slithereen Crush": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Slark",
+  "Attribute": {
+    "Strength gain increased from 1.9 to 2.1": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Snapfire",
+  "Skill": {
+    "Lil' Shredder": "buff",
+    "Mortimer Kisses": "buff"
+  }
+}{
+  "Name": "Spectre",
+  "Attribute": {
+    "Base Health Regen decreased from 2.0 to 1.0": "nerf"
+  },
+  "Skill": {
+    "Dispersion": "nerf",
+    "Haunt": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Spirit Breaker",
+  "Skill": {
+    "Bulldoze": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Storm Spirit",
+  "Skill": {
+    "Static Remnant": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Sven",
+  "Attribute": {
+    "Intelligence gain increased from 1.3 to 1.5": "buff"
+  },
+  "Skill": {
+    "Storm Hammer": "buff",
+    "Warcry": "buff"
+  },
+  "Talent": {
+    "Talent": "adjust"
+  }
+}{
+  "Name": "Techies",
+  "Skill": {
+    "Blast Off!": "buff"
+  }
+}{
+  "Name": "Templar Assassin",
+  "Skill": {
+    "Psionic Projection": "buff"
+  }
+}{
+  "Name": "Terrorblade",
+  "Skill": {
+    "Terror Wave": "nerf",
+    "Demon Zeal": "buff"
+  },
+  "Talent": {
+    "Talent": "adjust"
+  }
+}{
+  "Name": "Tidehunter",
+  "Skill": {
+    "Gush": "buff",
+    "Dead in the Water": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Timbersaw",
+  "Attribute": {
+    "Base Strength increased from 25 to 27": "buff"
+  },
+  "Skill": {
+    "Reactive Armor": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Tinker",
+  "Skill": {
+    "Laser": "nerf",
+    "Heat-Seeking Missile": "nerf",
+    "Rearm": "buff",
+    "Warp Flare": "buff"
+  }
+}{
+  "Name": "Tiny",
+  "Skill": {
+    "Tree Grab": "buff",
+    "Grow": "buff"
+  }
+}{
+  "Name": "Treant Protector",
+  "Skill": {
+    "Nature's Guise": "nerf",
+    "Living Armor": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Troll Warlord",
+  "Skill": {
+    "Fervor": "buff",
+    "Battle Trance": "nerf"
+  }
+}{
+  "Name": "Tusk",
+  "Skill": {
+    "Walrus Punch": "adjust"
+  }
+}{
+  "Name": "Underlord",
+  "Skill": {
+    "Pit of Malice": "buff",
+    "Fiend's Gate": "buff"
+  }
+}{
+  "Name": "Undying",
+  "Skill": {
+    "Soul Rip": "adjust",
+    "Tombstone": "nerf",
+    "Flesh Golem": "nerf"
+  }
+}{
+  "Name": "Ursa",
+  "Attribute": {
+    "Base Health Regen increased from 0.5 to 1.0": "buff"
+  },
+  "Skill": {
+    "Overpower": "buff",
+    "Fury Swipes": "buff"
+  }
+}{
+  "Name": "Vengeful Spirit",
+  "Skill": {
+    "Nether Swap": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Venomancer",
+  "Skill": {
+    "Plague Ward": "nerf",
+    "Noxious Plague": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Viper",
+  "Skill": {
+    "Nethertoxin": "adjust",
+    "Viper Strike": "buff"
+  }
+}{
+  "Name": "Visage",
+  "Skill": {
+    "Soul Assumption": "nerf"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Void Spirit",
+  "Attribute": {
+    "Intelligence gain increased from 2.3 to 2.5": "buff"
+  },
+  "Skill": {
+    "Resonant Pulse": "buff"
+  },
+  "Talent": {
+    "Talent": "buff"
+  }
+}{
+  "Name": "Warlock",
+  "Attribute": {
+    "Base Strength decreased from 24 to 22": "nerf"
+  },
+  "Skill": {
+    "Fatal Bonds": "nerf"
+  }
+}{
+  "Name": "Weaver",
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Windranger",
+  "Skill": {
+    "Powershot": "adjust",
+    "Windrun": "adjust",
+    "Gale Force": "buff"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Winter Wyvern",
+  "Attribute": {
+    "Base Mana Regen increased from 0.25 to 0.5": "buff"
+  },
+  "Skill": {
+    "Winter's Curse": "buff"
+  }
+}{
+  "Name": "Witch Doctor",
+  "Skill": {
+    "Voodoo Restoration": "adjust"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Wraith King",
+  "Skill": {
+    "Reincarnation": "nerf"
+  },
+  "Talent": {
+    "Talent": "nerf"
+  }
+}{
+  "Name": "Zeus",
+  "Skill": {
+    "Lightning Bolt": "buff"
+  }
+}
