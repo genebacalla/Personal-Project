@@ -26,29 +26,25 @@ class DatasetBuilder:
         html_content = resp.content
         return BeautifulSoup(html_content,'html.parser')
     
-    def __get_patch_class (self,phrase):
-        for target_class in self._target_classes:
-            if target_class in phrase:
-                return target_class
-   
-
     def mekus (self,words):
 
         buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
-
+     
         dict_main={}
         dict_attribute={}
         dict_skill={}
         dict_talent={}
-
-
         flag_target_title=False
         flag_force_submit=False
         is_attr=False
-        
-
         this_key= ''
         this_value=''
+
+        # locales = [dict_main,dict_attribute,dict_skill,dict_talent,
+        #     flag_force_submit,flag_target_title,flag_skill,flag_talent,flag_attr,
+        #     buff,nerf,new,rework,rescale,removed,
+        #     this_key,this_value
+        #     ]
 
         flag_attr,flag_skill,flag_talent=False,False,False
         for i,word in enumerate(words):
@@ -64,7 +60,7 @@ class DatasetBuilder:
 
             print('----------------------------------')
             print("Iteration: ",i)
-            print('word: ', word)
+            print('Word: ', word)
             print('Current Key: ',curr_key)
             print('Current Value: ',curr_value)
             print('Next Key: ', next_key)
@@ -74,7 +70,6 @@ class DatasetBuilder:
             if (curr_key == 'Name'):
                 dict_main[curr_key] = curr_value
                 if (next_key in self._target_classes):
-               
                     is_attr = True
                 continue
 
@@ -105,19 +100,17 @@ class DatasetBuilder:
                 new+=1
             elif curr_key == 'Rework':
                 rework+=1
-                print("REWORK RAN")
             elif curr_key == 'Removed':
                 removed+=1
           
 
             if ((next_key == " ") and (not(flag_target_title))):
-                ("NOTE: The function is force submitting the current iteration.")
+                ("ERROR: The function is force submitting the current iteration.")
                 flag_force_submit=True
                 
             if ((next_key in self._target_titles) or (flag_force_submit)):
                 flag_target_title = True
                 
-    
 
                 total_adv = (buff-nerf) + (new-removed)
                 total_adj = rework+rescale
@@ -143,9 +136,6 @@ class DatasetBuilder:
                     dict_talent[this_value] = verdict
                     flag_talent=True
 
-                print('------TITLE INFO---------')
-                print(this_value+' '+verdict)
-                print('------NOW SUBMITTED-----')
       
                 buff,nerf,new,rework,rescale,removed=0,0,0,0,0,0
                 this_key=''
