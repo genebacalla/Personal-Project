@@ -51,6 +51,8 @@ class DatasetBuilder:
                 with open("data.json", 'a') as j:
                     json.dump(main, j, indent=2)
                 main.clear()
+
+
             
     def _get_note(self,i,patch):
         dict={}
@@ -69,38 +71,10 @@ class DatasetBuilder:
                 return dict
                 
 
-    def _li_parser(self,h3):
-
-        ul_container = h3.find_next('ul')
-        all_li = ul_container.find_all('li')
-        has_header = False
-
-        patch=[]
-
-        for i,li in enumerate(all_li):
-            in_line = li.find('b')
-            
-            if (in_line):
-                has_header=True
-                if (in_line.text.strip() == "Talent"):
-                    title = "Talent"
-                else:
-                    title = "Skill"
-
-                patch.append( f"{title}," + in_line.text.strip())
+    def _li_parser():
         
-            else:
-                patch_class = li.find('img',alt=lambda value: value in self.subhead)
-                
-                if not has_header and patch_class:
-                    patch.append('Attribute,'+'Attribute')
-                    has_header=False
+        
 
-                if (patch_class):
-                    
-                    patch.append(f"{patch_class.get('alt')},"+li.text.strip())
-
-        return patch
 
     def get_patch_notes (self):
 
@@ -114,9 +88,44 @@ class DatasetBuilder:
         for i,h3 in enumerate(all_h3):
             
             if (h3.find_next('ul')):
+
                 fixed_h3 = h3.text.replace("[edit]","").strip()
-                patch_final.append("Name,"+fixed_h3)
-                patch_final.append(self._li_parser(h3))
+                patch_stage.append("Name,"+fixed_h3)
+
+                ul_container = h3.find_next('ul')
+                all_li = ul_container.find_all('li')
+                has_title = False
+
+                for i,li in enumerate(all_li):
+                    in_line = li.find('b')
+                    
+
+                    if (in_line):
+                        has_title=True
+                        if (in_line.text.strip() == "Talent"):
+                            title = "Talent"
+                        else:
+                            title = "Skill"
+
+                        patch_stage.append( f"{title}," + in_line.text.strip())
+                
+                    else:
+     
+
+                        patch_class = li.find('img',alt=lambda value: value in self.subhead)
+                        
+                        if not(has_title) and patch_class:
+                            patch_stage.append('Attribute,'+'Attribute')
+                            has_title=False
+
+                        if (patch_class):
+                            
+                            patch_stage.append(f"{patch_class.get('alt')},"+li.text.strip())
+
+         
+                patch_stage.append(" ")
+                patch_final += patch_stage                              
+                patch_stage.clear()
 
         return patch_final
     
