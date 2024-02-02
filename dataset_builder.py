@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import time
-import json
+# import json
+import xmltodict
 import os 
 
 class DatasetBuilder:
@@ -27,29 +28,32 @@ class DatasetBuilder:
         
     def build_json(self,patch):
         main={}
+        frame=[]
         tmp=[]
 
-        for i,p in enumerate(patch):
+        for i,(curr,nxt) in enumerate(zip(patch, patch[1:] + [None])):
 
-            p=p.split(',')
+            curr=curr.split(',')
 
-            if p[0]=='Name':
-                main['hero_name']=p[1]
+            if curr[0]=='Name':
+                main['hero_name']=curr[1]
                 continue
 
-            if (p[0] in self.headers):
+            if (curr[0] in self.headers):
                 tmp.clear()
                 tmp.append(self._get_note(i,patch))
             
-                if p[0] in main.keys():
-                    main[p[0]].extend(tmp.copy())
+                if curr[0] in main.keys():
+                    main[curr[0]].extend(tmp.copy())
                     
                 else:
-                    main[p[0]]=(tmp.copy())
+                    main[curr[0]]=(tmp.copy())
            
-            elif p[0] == " ":
-                with open("data.json", 'a') as j:
-                    json.dump(main, j, indent=2)
+            elif curr[0] == " ":
+                xml_data = xmltodict.unparse({"root": main},pretty=True)
+                with open("data.xml", 'a') as x:
+                    x.write(xml_data)
+                
                 main.clear()
 
 
@@ -69,11 +73,38 @@ class DatasetBuilder:
                 i+=1	
             else:
                 return dict
-                
+            
+    def parser(self,h3,list):
 
-    def _li_parser():
+        patch_stage=list
+        uls = h3.find_next('ul')
+        lis = uls.find_all('li')
+        has_title = False
+
+        for li in lis:
+            in_line = li.find('b')
+            
+            if (in_line):
+                has_title=True
+                if (in_line.text.strip() == "Talent"):
+                    title = "Talent"
+                else:
+                    title = "Skill"
+
+                patch_stage.append( f"{title}," + in_line.text.strip())
         
-        
+            else:
+                patch_class = li.find('img',alt=lambda value: value in self.subhead)
+                
+                if not(has_title) and patch_class:
+                    patch_stage.append('attribute,'+'attribute')
+                    has_title=False
+
+                if (patch_class):
+                    patch_stage.append(f"{patch_class.get('alt')},"+li.text.strip())
+
+        patch_stage.append(' ')
+        return patch_stage
 
 
     def get_patch_notes (self):
@@ -89,50 +120,13 @@ class DatasetBuilder:
             
             if (h3.find_next('ul')):
 
-                fixed_h3 = h3.text.replace("[edit]","").strip()
-                patch_stage.append("Name,"+fixed_h3)
+                patch_stage.append("Name,"+h3.text.replace("[edit]","").strip())
+                patch_final = self.parser(h3,patch_stage)
 
-                ul_container = h3.find_next('ul')
-                all_li = ul_container.find_all('li')
-                has_title = False
-
-                for i,li in enumerate(all_li):
-                    in_line = li.find('b')
-                    
-
-                    if (in_line):
-                        has_title=True
-                        if (in_line.text.strip() == "Talent"):
-                            title = "Talent"
-                        else:
-                            title = "Skill"
-
-                        patch_stage.append( f"{title}," + in_line.text.strip())
-                
-                    else:
-     
-
-                        patch_class = li.find('img',alt=lambda value: value in self.subhead)
-                        
-                        if not(has_title) and patch_class:
-                            patch_stage.append('Attribute,'+'Attribute')
-                            has_title=False
-
-                        if (patch_class):
-                            
-                            patch_stage.append(f"{patch_class.get('alt')},"+li.text.strip())
-
-         
-                patch_stage.append(" ")
-                patch_final += patch_stage                              
-                patch_stage.clear()
-
+        
         return patch_final
     
     
-
-
-
 
 patches = ["7.34","7.34b","7.34c","7.34d","7.34e","7.35"]
 # patches = ["7.34"]
