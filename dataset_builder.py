@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
-# import json
+import json
 import xmltodict
 import os 
 
@@ -50,11 +50,14 @@ class DatasetBuilder:
                     main[curr[0]]=(tmp.copy())
            
             elif curr[0] == " ":
-                xml_data = xmltodict.unparse({"root": main},pretty=True)
-                with open("data.xml", 'a') as x:
-                    x.write(xml_data)
-                
+                frame.append(main.copy())
                 main.clear()
+
+            if nxt == None:
+                 with open("DATASET.json", 'a') as j:
+                    for dicts in frame:
+                        json.dump(dicts, j, indent=1)
+                    
 
 
             
