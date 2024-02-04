@@ -1,3 +1,7 @@
+
+
+
+
 from bs4 import BeautifulSoup
 import requests
 import time
@@ -29,7 +33,7 @@ class DatasetBuilder:
     def build_json(self,patch):
         main={}
         frame=[]
-        tmp=[]
+        _stage_=[]
 
         for i,(curr,nxt) in enumerate(zip(patch, patch[1:] + [None])):
 
@@ -40,14 +44,14 @@ class DatasetBuilder:
                 continue
 
             if (curr[0] in self.headers):
-                tmp.clear()
-                tmp.append(self._get_note(i,patch))
+                _stage_.clear()
+                _stage_.append(self._get_note(i,patch))
             
                 if curr[0] in main.keys():
-                    main[curr[0]].extend(tmp.copy())
+                    main[curr[0]].extend(_stage_.copy())
                     
                 else:
-                    main[curr[0]]=(tmp.copy())
+                    main[curr[0]]=(_stage_.copy())
            
             elif curr[0] == " ":
                 frame.append(main.copy())
@@ -58,9 +62,10 @@ class DatasetBuilder:
                     for dicts in frame:
                         json.dump(dicts, j, indent=1)
                     
-
-
-            
+     # Considered as Private Function. This function accepts an index <i> and list <patch> as an argument. 
+     # The passed index will be used as the starting point for finding subheads in the passed list. 
+     # This function will immediately return the dictionary when a non-subhead is encountered. 
+                         
     def _get_note(self,i,patch):
         dict={}
 
