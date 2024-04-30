@@ -2,67 +2,71 @@
  "hero_name": "Abaddon",
  "Skill": [
   {
-   "skill_name": "Curse of Avernus",
-   "Now deals 30/40/50/60 damage per second to the target when it procs for the duration of the curse. Damage interval: 0.5s. Damage to buildings is reduced by 70%": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent +7 Strength replaced with Aphotic Shield provides +15 HP Regen": "Rework",
-   "Level 15 Talent +55 Damage replaced with +80 Curse of Avernus DPS": "Rework"
+   "skill_name": "Mist Coil",
+   "Cooldown rescaled from 5.5s to 6.5/6/5.5/5s": "Rescale",
+   "Damage/Heal rescaled from 110/160/210/260 to 90/160/230/300": "Rescale"
   }
  ]
 }{
  "hero_name": "Alchemist",
  "Skill": [
   {
-   "skill_name": "Acid Spray",
-   "Mana Cost decreased from 120 to 110": "Buff"
-  },
-  {
    "skill_name": "Corrosive Weaponry",
-   "Debuff Duration increased from 3.5s to 4s": "Buff"
+   "Max Stacks decreased from 5/7/9/11 to 4/6/8/10": "Nerf",
+   "Movement Slow and Status Resistance Reduction per stack is now increased by 1.5% whenever Alchemist is in Chemical Rage": "New"
   }
  ]
 }{
  "hero_name": "Ancient Apparition",
- "Talent": [
+ "Skill": [
   {
-   "Level 20 Talent +4s Ice Vortex Duration replaced with +5s Ice Blast Frostbitten Duration": "Rework"
+   "skill_name": "Ice Vortex",
+   "Duration decreased from 6/9/12/15s to 6/8/10/12s": "Nerf",
+   "Vision Radius increased from 200 to 200/220/240/260": "Buff"
   }
  ]
 }{
  "hero_name": "Anti-Mage",
+ "Skill": [
+  {
+   "skill_name": "Counterspell",
+   "Aghanim's Shard Upgrade reworked. Previous effect removed\nNow creates an illusion of Anti-Mage next to an enemy caster upon reflecting their spell. Illusion deals 75% damage": "Rework"
+  },
+  {
+   "skill_name": "Counterspell Ally",
+   "New ability granted by Aghanim's Shard\nCreates a Counterspell shell around the targeted ally within 600 range. This shell similarly creates an illusion of Anti-Mage upon reflecting an enemy spell. Mana Cost: 45; Cooldown: 3s": "New",
+   "Vision Radius increased from 200 to 200/220/240/260": "Buff"
+  }
+ ],
  "Talent": [
   {
-   "Level 15 Talent Max Mana Mana Burn increased from +0.6% to +1%": "Buff",
-   "Level 20 Talent Mana Void Damage Multiplier increased from +0.15 to +0.2": "Buff"
+   "Level 10 Talent -1s Blink Cooldown replaced with +150 Mana Void Radius": "Rework",
+   "Level 15 Talent +150 Mana Void Radius replaced with -1s Blink Cooldown": "Rework",
+   "Level 20 Talent Mana Void Damage Multiplier increased from +0.1 to +0.15": "Buff",
+   "Level 20 Talent Blink Cast Range decreased from +200 to +150": "Nerf"
   }
  ]
 }{
  "hero_name": "Arc Warden",
+ "Skill": [
+  {
+   "skill_name": "Tempest Double",
+   "Is now a point targeted ability with 700 cast range that spawns the Tempest Double in the pointed area": "Rework"
+  }
+ ],
  "Talent": [
   {
-   "Level 15 Talent Magnetic Field Attack Speed/Bonus Damage decreased from +25 to +20": "Nerf",
-   "Level 25 Talent Tempest Double Duration decreased from +12s to +10s": "Nerf"
+   "Level 10 Talent Health increased from +200 to +250": "Buff",
+   "Level 15 Talent +30 Magnetic Field Attack Speed/Bonus Magic Damage replaced with +25 Magnetic Field Attack Speed/Bonus Damage": "Rework",
+   "Level 20 Talent Magnetic Field Cooldown Reduction decreased from 9s to 8s": "Nerf"
   }
  ]
 }{
  "hero_name": "Axe",
  "Skill": [
   {
-   "skill_name": "Berserker's Call",
-   "Bonus Armor decreased from 25 to 16/19/22/25": "Nerf"
-  },
-  {
-   "skill_name": "Culling Blade",
-   "Temporary boost on kill no longer provides +20/30/40 Attack Speed": "Removed",
-   "Temporary boost on kill now provides +20/25/30 Armor": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent +10 Berserker's Call Armor replaced with +4s Culling Blade Speed Bonus Duration": "Rework"
+   "skill_name": "Counter Helix",
+   "Damage increased from 80/110/140/170 to 95/120/145/170": "Buff"
   }
  ]
 }{
@@ -70,78 +74,81 @@
  "Skill": [
   {
    "skill_name": "Brain Sap",
-   "Heal/Damage increased from 75/150/225/300 to 90/160/230/300": "Buff",
-   "Mana Cost rescaled from 100/120/140/160 to 120/130/140/150": "Rescale",
-   "Aghanim's Shard now also decreases cooldown by 3s": "New"
+   "Now fully pierces debuff immunity": "Buff"
   },
   {
    "skill_name": "Nightmare",
-   "Cast Range increased from 425/500/575/650 to 500/550/600/650": "Buff"
+   "Sleeping units now aren't awakened by any damage dealt by Bane": "New",
+   "Bane now gains +15/25/35/45 attack speed against sleeping units": "New"
+  },
+  {
+   "skill_name": "Fiend's Grip",
+   "Now removes Nightmare effect from the targeted enemy": "New"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent Brain Sap Cooldown Reduction increased from 2s to 3s": "Buff",
+   "Level 25 Talent Brain Sap Damage/Heal increased from +200 to +250": "Buff"
   }
  ]
 }{
  "hero_name": "Batrider",
  "Skill": [
   {
-   "skill_name": "Flamebreak",
-   "Movement Slow increased from 10/15/20/25% to 15/20/25/30%": "Buff",
-   "Projectile Speed increased from 1200 to 1400": "Buff"
-  },
-  {
-   "skill_name": "Firefly",
-   "Cooldown decreased from 52/46/40/34s to 45/40/35/30s": "Buff"
-  },
-  {
    "skill_name": "Flaming Lasso",
-   "Added AoE indicator for secondary grab targets with Aghanim's Scepter": "New"
+   "Cast Point increased from 0.2s to 0.3s": "Nerf"
   }
  ]
 }{
  "hero_name": "Beastmaster",
- "Talent": [
+ "Skill": [
   {
-   "Level 20 Talent +35 Boar Attack Damage replaced with +30 Boar and Hawk Damage": "Rework"
+   "skill_name": "Call of the Wild Hawk",
+   "Ability reworked\nBeastmaster summons a Hawk that circles around him and dives onto an enemy within 500 range": "Rework",
+   "Hawk Base Health increased from 150/200/250/300 to 250/375/500/675. Magic Resistance increased from 0% to 30/40/50/60%. XP bounty decreased from 77 to 40/50/60/70": "Buff",
+   "Aghanim's Shard no longer grants Dive Bomb ability": "Removed",
+   "Aghanim's Shard now summons an additional Hawk": "New"
   }
  ]
 }{
  "hero_name": "Bloodseeker",
  "Skill": [
   {
-   "skill_name": "Bloodrage",
-   "Max Health Damage per second decreased from 1.8% to 1.5%": "Nerf",
-   "Aghanim's Shard Damage/Lifesteal rescaled from 1.8% of target's Max HP to flat 30 pure damage/heal": "Rescale"
+   "skill_name": "Thirst",
+   "Max Health Heal (Creeps) decreased from 11/14/17/20% to 8/12/16/20%": "Nerf"
   },
   {
-   "skill_name": "Blood Rite",
-   "Damage type changed from Pure to Magical": "Rework",
-   "Damage increased from 90/140/190/240 to 110/180/250/320": "Buff"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Bloodrage Spell Amplification increased from +8% to +10%": "Buff",
-   "Level 15 Talent Blood Rite Damage increased from +85 to +120": "Buff"
+   "skill_name": "Rupture",
+   "Duration decreased from 10/11/12s to 9/10/11s": "Nerf"
   }
  ]
 }{
  "hero_name": "Bounty Hunter",
- "Talent": [
+ "Skill": [
   {
-   "Level 15 Talent Half Track Bonus Speed to Allies replaced with to +45 Track Gold": "Rework",
-   "Level 25 Talent +250 Track Gold replaced with No Cooldown on Jinada": "Rework"
+   "skill_name": "Shadow Walk",
+   "Aghanim's Shard Upgrade moved to a separate sub-ability": "Rework"
+  },
+  {
+   "skill_name": "Friendly Shadow",
+   "New ability granted by Aghanim's Shard\nApplies Shadow Walk and all of its bonuses to the target ally. Fade time: 1s. Casting this ability does not break invisibility or interrupt the target": "New"
   }
  ]
 }{
  "hero_name": "Brewmaster",
  "Skill": [
   {
-   "skill_name": "Primal Split",
-   "Earth Brewling's Demolish Bonus Building Damage decreased from 90/180/270 to 90/170/250": "Nerf"
-  }
- ],
- "Talent": [
+   "skill_name": "Cinder Brew",
+   "Dealing or receiving magic damage also extends Brewmaster's own Brewed Up duration": "Buff"
+  },
   {
-   "Level 20 Talent Attack Speed increased from +80 to +90": "Buff"
+   "skill_name": "Drunken Brawler",
+   "Fire Stance now additionally grants 10/15/20/25 attack speed. Bonus triples when Brewed Up": "New",
+   "Fire Stance Crit Chance decreased from 24% to 20%": "Nerf"
+  },
+  {
+   "skill_name": "Primal Companion"
   }
  ]
 }{
@@ -149,16 +156,39 @@
  "Skill": [
   {
    "skill_name": "Viscous Nasal Goo",
-   "Aghanim's Shard Stack Limit decreased from 7 to 6": "Nerf"
+   "Aghanim's Scepter Upgrade removed": "Removed",
+   "Aghanim's Shard now also increases Stack Limit by 3": "New"
   },
   {
    "skill_name": "Bristleback",
-   "Aghanim's Scepter Cooldown increased from 20s to 24s": "Nerf"
+   "Now upgradable by Aghanim's Scepter\nAllows Bristleback to be point-targeted. Bristleback turns his back towards the targeted direction and after 0.5s forcefully ejects 6 sequential Quill Sprays in a tight conical pattern out of his back at 0.35s intervals. Bristleback is slowed down by 40% for the duration": "New"
+  },
+  {
+   "skill_name": "Hairball",
+   "Now applies 2 stacks of Viscous Nasal Goo and only 1 stack of Quill Spray": "New",
+   "Enemies in fog of war are now hit by the Viscous Nasal Goo as well as the Quill Sprays": "New",
+   "Viscous Nasal Goo projectiles are no longer affected by spell reflection": "New",
+   "Mana Cost decreased from 75 to 40": "Buff",
+   "Cooldown decreased from 20s to 10s": "Buff"
   }
  ],
  "Talent": [
   {
-   "Level 10 Talent +20 Damage replaced with +25 Attack Speed": "Rework"
+   "Level 10 Talent Damage increased from +15 to +20": "Buff",
+   "Level 20 Talent Quill Stack Damage increased from +20 to +25": "Buff",
+   "Level 20 Talent Health Regen increased from +20 to +25": "Buff"
+  }
+ ]
+}{
+ "hero_name": "Broodmother",
+ "Skill": [
+  {
+   "skill_name": "Insatiable Hunger",
+   "Lifesteal from creeps is now reduced by 40%": "Nerf"
+  },
+  {
+   "skill_name": "Silken Bola",
+   "Impact Damage decreased from 120/140/160/180 to 90/120/150/180": "Nerf"
   }
  ]
 }{
@@ -166,20 +196,36 @@
  "Skill": [
   {
    "skill_name": "Hoof Stomp",
-   "Stomp Damage decreased from 120/180/240/300 to 90/160/230/300": "Nerf"
-  }
- ],
- "Talent": [
+   "Radius decreased from 350 to 325": "Nerf",
+   "Cast Point improved from 0.5s to 0s": "Buff",
+   "Now winds up for 0.5s before the stomp. Centaur Warrunner can move during this time but can't attack. Casting other abilities": "New"
+  },
   {
-   "Level 15 Talent Double Edge Strength Damage decreased from +40% to +35%": "Nerf"
+   "skill_name": "Double Edge",
+   "Cooldown decreased from 4s to 3.5s": "Buff",
+   "Strength Damage increased from 60/80/100/120% to 60/90/120/150%": "Buff"
+  },
+  {
+   "skill_name": "Work Horse",
+   "New ability granted by Aghanim's Scepter\nCentaur Warrunner deploys and pulls a cart for 8s": "Rework"
   }
  ]
 }{
  "hero_name": "Chaos Knight",
  "Skill": [
   {
+   "skill_name": "Chaos Bolt",
+   "Minimum Stun increased from 1/1.2/1.4/1.6s to 1.25/1.5/1.75/2s": "Buff",
+   "Maximum Damage increased from 120/180/240/300 to 150/210/270/330": "Buff"
+  },
+  {
    "skill_name": "Chaos Strike",
-   "Critical Lifesteal decreased from 30/40/50/60% to 24/36/48/60%": "Nerf"
+   "Creep Damage multiplier increased from 1.5x to 1.6x": "Buff"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent Chaos Strike Lifesteal increased from +30% to +35%": "Buff"
   }
  ]
 }{
@@ -187,121 +233,147 @@
  "Skill": [
   {
    "skill_name": "Penitence",
-   "Attack Range bonus is now applied to all ranged units under Chen's control": "New"
+   "Now grants Chen 50/150/250/350 bonus attack range on the target": "New"
   },
   {
    "skill_name": "Holy Persuasion",
-   "Can no longer be used to teleport controlled units to Chen": "Removed"
-  },
-  {
-   "skill_name": "Divine Favor",
-   "Ability reworked\nPassively provides an aura that increases Health Regen by 1/2/3/4 to all allied units within 1200 range. Can be cast on any ally within aura to provide them with 12/16/20/24 armor and increase any healing they receive by 20%. Effect duration: 6s. Self-casting also teleports any units under Chen's control to him after a 6 second delay. If a controlled unit takes damage from an enemy hero": "Rework"
-  },
-  {
-   "skill_name": "Hand of God",
-   "Initial Heal reduced from 200/300/400 to 150/250/350": "Nerf"
+   "Aghanim's Scepter Martyrdom Cast Range decreased from global to 1200": "Nerf",
+   "Aghanim's Scepter Martyrdom can now be cast on enemies to damage them for the current values of Hand of God": "New"
   }
  ]
 }{
  "hero_name": "Clinkz",
  "Skill": [
   {
-   "skill_name": "Burning Barrage",
-   "Mana Cost decreased from 45 to 40": "Nerf",
-   "Cooldown decreased from 22s to 17s": "Nerf"
+   "skill_name": "Death Pact",
+   "Aghanim's Scepter Now increases the number of hits to kill Burning Skeleton Archers by 1": "New"
+  },
+  {
+   "skill_name": "Skeleton Walk",
+   "Cooldown increased from 18s to 24/21/18s": "Nerf"
+  },
+  {
+   "skill_name": "Burning Army",
+   "Spawn Interval decreased from 0.5s to 0.15s": "Buff",
+   "Distance between spawned skeletons decreased from 325 to 225 (Total range from 1300 to 900)": "Rescale",
+   "Cast Range decreased from 1200 to 600": "Nerf"
   }
  ],
  "Talent": [
   {
-   "Level 20 Talent Death Pact Bonus Health increased from +300 to +350": "Buff",
-   "Level 25 Talent Strafe Cooldown Reduction increased from 8s to 9s": "Buff"
+   "Level 10 Talent Skeleton Walk Cooldown Reduction increased from 3s to 4s": "Buff",
+   "Level 10 Talent Tar Bomb Bonus Attack Damage decreased from +20 to +15": "Nerf",
+   "Level 20 Talent Death Pact Health increased from +200 to +250": "Buff",
+   "Level 25 Talent Strafe Cooldown Reduction increased from 7s to 8s": "Buff"
   }
  ]
 }{
  "hero_name": "Clockwerk",
  "Skill": [
   {
+   "skill_name": "Rocket Flare",
+   "Projectile vision range while traveling decreased from 600 to 250": "Nerf"
+  },
+  {
    "skill_name": "Overclocking",
-   "No longer self stuns after duration. Instead it slows Clockwerk's movement and attack speed by 100%": "Rework"
+   "Now increases Jetpack's movement speed bonus from 20% to 40%": "New"
   }
  ]
 }{
  "hero_name": "Crystal Maiden",
  "Skill": [
   {
-   "skill_name": "Arcane Aura",
-   "Self Mana Regen Multiplier increased from 6x to 7x": "Buff"
+   "skill_name": "Freezing Field",
+   "Aghanim's Scepter now alse allows Crystal Maiden to move": "New",
+   "Scepter Time to Frostbite increased from 1.75s to 2.5s": "Nerf"
   },
   {
    "skill_name": "Crystal Clone",
-   "Clone can now be destroyed by Crystal Maiden's own AoE spells (Crystal Nova and Freezing Field)": "New",
-   "Radius increased from 400 to 450": "Buff"
-  }
- ],
- "Talent": [
-  {
-   "Level 15 Talent Crystal Nova Cooldown Reduction increased from 3s to 4s": "Buff",
-   "Level 25 Talent Crystal Nova Damage increased from +240 to +300": "Buff"
+   "New ability granted by Aghanim's Shard\nCrystal Maiden slides backwards 275 units": "New"
   }
  ]
 }{
  "hero_name": "Dark Seer",
  "Skill": [
   {
-   "skill_name": "Ion Shell",
-   "Mana Cost decreased from 110/120/130/140 to 100/110/120/130": "Buff"
+   "skill_name": "Vacuum",
+   "Radius decreased from 400/450/500/550 to 325/400/475/550": "Nerf"
   },
   {
-   "skill_name": "Wall of Replica",
-   "The wall now deals 25/40/55 damage to the enemy when an illusion of them is created": "New"
+   "skill_name": "Surge",
+   "Mana Cost increased from 35/40/45/50 to 50": "Nerf"
+  },
+  {
+   "skill_name": "Normal Punch",
+   "Distance for Max Power increased from 900 to 1100": "Nerf"
   }
  ]
 }{
  "hero_name": "Dark Willow",
  "Skill": [
   {
-   "skill_name": "Shadow Realm",
-   "Duration Until Max Damage decreased from 3.5s to 3s": "Buff"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Cursed Crown Stun Duration increased from +0.4s to +0.5s": "Buff",
-   "Level 20 Talent Shadow Realm Duration decreased from +2s to +1.5s": "Nerf"
+   "skill_name": "Bedlam",
+   "Is now a 900 range ally targeted ability (can target self). If cast on an ally": "Rework"
   }
  ]
 }{
  "hero_name": "Dawnbreaker",
  "Skill": [
   {
-   "skill_name": "Celestial Hammer",
-   "Fire Trail Duration increased from 2.5s to 2.5/3/3.5/4s": "Buff"
+   "skill_name": "Armor"
+  },
+  {
+   "skill_name": "Starbreaker",
+   "Cast Point improved from 0.2s to 0.1s": "Buff",
+   "Aghanim's Shard no longer improves the cast point": "Removed"
+  },
+  {
+   "skill_name": "Solar Guardian",
+   "Stun now pierces debuff immunity": "Buff"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent Celestial Hammer Slow increased from +14% to +15%": "Buff",
+   "Level 10 Talent Starbreaker Swipe/Smash Damage increased from +18 to +20": "Buff"
   }
  ]
 }{
  "hero_name": "Dazzle",
  "Skill": [
   {
-   "skill_name": "Poison Touch",
-   "Now allows affected heroes to be denied if they fall below 25% health": "New"
+   "skill_name": "Shallow Grave",
+   "Mana Cost decreased from 100/110/120/130 to 90/100/110/120": "Buff",
+   "Aghanim's Shard no longer improves the cast point": "Removed"
+  },
+  {
+   "skill_name": "Shadow Wave",
+   "Mana Cost decreased from 90 to 75": "Buff",
+   "Aghanim\u2019s Scepter Upgrade can now bounce between allies and enemies regardless of who it is cast on": "Rework"
   },
   {
    "skill_name": "Bad Juju",
-   "No longer affects item cooldowns": "Removed",
-   "Health Cost Increase per cast decreased from 50% to 40%": "Buff"
+   "Instances of Health Cost Increase now stack independently of each other": "Rework",
+   "Health Cost Increase Duration decreased from 30/25/20s to 20s": "Nerf"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent +35 Attack Speed replaced with +300 Poison Touch Attack Range": "Rework",
+   "Level 15 Talent +350 Poison Touch Attack Range replaced with +60 Attack Speed": "Rework"
   }
  ]
 }{
  "hero_name": "Death Prophet",
  "Skill": [
   {
-   "skill_name": "Silence",
-   "Now also slows enemy movement speed by 10/15/20/25%": "New"
+   "skill_name": "Exorcism",
+   "Spirit Damage increased from 59-64 to 62-67": "Buff"
   }
  ],
  "Talent": [
   {
-   "Level 20 Talent Crypt Swarm applies 50% slow for 1s replaced with +15% Silence Move Speed Slow": "Rework"
+   "Level 20 Talent 25% Spirit Siphon Move Speed Slow replaced with Crypt Swarm applies 50% slow for 1s": "Rework"
   }
  ]
 }{
@@ -309,96 +381,127 @@
  "Skill": [
   {
    "skill_name": "Thunder Strike",
-   "Aghanim's Shard dormant duration increased from 5s to 7s": "Buff"
-  },
-  {
-   "skill_name": "Static Storm",
-   "Radius increased from 500 to 550": "Buff"
+   "If the target is trapped inside the Kinetic Field": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Glimpse Max Damage increased from +250 to +275": "Buff",
-   "Level 20 Talent Thunder Strike Slow Duration increased from +0.4s to +0.5s": "Buff"
+   "Level 10 Talent +100 Thunder Strike Radius replaced with +10 Thunder Strike Damage per Strike": "Rework"
   }
  ]
 }{
  "hero_name": "Doom",
  "Skill": [
   {
-   "skill_name": "Devour",
-   "Neutral abilities now level up automatically at the time when neutral abilities would scale": "New"
+   "skill_name": "Scorched Earth",
+   "Now upgradable by Aghanim's Shard\nHeals Doom and controlled units for 60% of the damage values": "New",
+   "Aghanim's Shard no longer improves the cast point": "Removed"
   },
   {
    "skill_name": "Infernal Blade",
-   "Cooldown decreased from 16/12/8/4s to 13/10/7/4s": "Buff"
+   "Aghanim's Shard Upgrade removed": "Removed",
+   "Stun Duration increased from 0.5s to 0.6s": "Buff"
   },
   {
    "skill_name": "Doom",
-   "No longer makes a hero deniable": "Removed"
+   "No longer applies mute": "Removed",
+   "Now makes the target unable to be healed": "New",
+   "Damage per second increased from 30/45/60 to 30/50/70": "Buff",
+   "Cooldown decreased from 145s to 140/130/120s": "Buff"
   }
  ],
  "Talent": [
   {
-   "Level 20 Talent Infernal Blade Max HP as Damage increased from +1.8% to +2%": "Buff"
+   "Level 20 Talent -35s Doom Cooldown replaced with +1.8% Infernal Blade Damage": "Rework",
+   "Level 25 Talent +2.1% Infernal Blade Damage replaced with Doom applies Mute": "Rework"
   }
  ]
 }{
  "hero_name": "Dragon Knight",
  "Skill": [
   {
-   "skill_name": "Breathe Fire",
-   "Now applies the corresponding Corrosive Breath and Frost Breath debuffs from his current level of Elder Dragon Form even in human form": "New"
+   "skill_name": "Dragon Tail",
+   "Cast Range during Dragon Form increased from 400 to 450": "Buff"
+  },
+  {
+   "skill_name": "Elder Dragon Form",
+   "Bonus Move Speed increased from 25/30/35/35 to 30/35/40/45": "Buff",
+   "Corrosive Breath Damage per second increased from 20/20/20/30 to 25/25/25/35": "Buff"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 20 Talent Breathe Fire Damage/Cast Range in Dragon Form increased from +75% to +85%": "Buff"
   }
  ]
 }{
  "hero_name": "Drow Ranger",
  "Skill": [
   {
-   "skill_name": "Gust",
-   "Now reveals invisible units": "New"
-  },
-  {
    "skill_name": "Glacier",
-   "Now does not interrupt Multishot on cast": "New"
+   "While on glacier": "Rework",
+   "Drow Ranger can now freely walk off the glacier over the barrier": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Gust Reveals Invisible Units replaced with +20% Lifesteal": "Rework"
+   "Level 25 Talent Multishot Waves decreased from +3 to +1. This talent no longer increases the total channel time": "Nerf"
+  }
+ ]
+}{
+ "hero_name": "Earth Spirit",
+ "Skill": [
+  {
+   "skill_name": "Boulder Smash",
+   "Creep Damage Multiplier increased from 1.25 to 1.4": "Buff"
+  },
+  {
+   "skill_name": "Rolling Boulder",
+   "Now makes Earth Spirit completely untargetable and invulnerable while rolling. The hero is still vulnerable during the delay after cast": "Rework"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent Spell Amplification increased from +8% to +10%": "Buff",
+   "Level 15 Talent Magnetize Damage & Duration increased from +25% to +30%": "Buff"
   }
  ]
 }{
  "hero_name": "Earthshaker",
  "Skill": [
   {
-   "skill_name": "Echo Slam",
-   "Echo Damage increased from 85/105/125 to 90/110/130": "Buff",
-   "Mana Cost rescaled from 145/205/265 to 150/200/250": "Rescale"
+   "skill_name": "Enchant Totem",
+   "Bonus Attack Range increased from 75 to 100": "Buff"
+  },
+  {
+   "skill_name": "Aftershock",
+   "Radius increased from 300 to 350": "Buff"
   }
  ]
 }{
  "hero_name": "Elder Titan",
  "Skill": [
   {
-   "skill_name": "Earth Splitter",
-   "Max HP as Damage increased from 30/40/50% to 34/42/50%": "Buff"
+   "skill_name": "Echo Stomp",
+   "Radius decreased from 500 to 475": "Nerf"
   }
  ]
 }{
  "hero_name": "Ember Spirit",
  "Skill": [
   {
-   "skill_name": "Searing Chains",
-   "Unit Count increased from 2 to 3": "Buff"
-  },
-  {
-   "skill_name": "Sleight of Fist",
-   "Bonus Hero Damage increased from 45/80/115/150 to 45/85/125/165": "Buff"
-  },
-  {
    "skill_name": "Flame Guard",
-   "Radius increased from 450 to 500": "Buff"
+   "Radius increased from 400 to 450": "Buff"
+  },
+  {
+   "skill_name": "Fire Remnant",
+   "Cast Point increased from 0.1s to 0.2s": "Nerf",
+   "Aghanim's Shard Burn Radius decreased from 600 to 450": "Nerf",
+   "Aghanim's Shard Burn now only starts dealing damage once the Remnant stops moving": "Rework"
+  },
+  {
+   "skill_name": "Activate Fire Remnant",
+   "Cast Point increased from 0.1s to 0.2s": "Buff"
   }
  ]
 }{
@@ -406,219 +509,258 @@
  "Skill": [
   {
    "skill_name": "Enchant",
-   "Now deals 20/30/40/50 damage per second when used on enemy heroes": "New",
-   "No longer provides 0/3/6/9 armor to enchanted creeps": "Removed"
-  }
- ],
- "Talent": [
+   "Now Aghanim's Scepter increases number of max enchanted creeps by 1 (previous Aghanim's Shard Upgrade)": "Rework"
+  },
   {
-   "Level 10 Talent +8% Magic Resistance replaced with +10 Enchanted Creep Armor": "Rework"
+   "skill_name": "Untouchable",
+   "Attack Slow decreased from 120/160/200 to 100/150/200": "Nerf"
+  },
+  {
+   "skill_name": "Little Friends",
+   "Now granted by Aghanim's Scepter": "Rework",
+   "Now also roots the target in place for 2 seconds + 0.5s for each creep in range when casted up to a maximum of 5s": "New"
+  },
+  {
+   "skill_name": "Sproink",
+   "Now granted by Aghanim's Shard": "Rework",
+   "Targets decreased from 3 to 2": "Nerf",
+   "Additional Enemy Search Range decreased from +200 to +100": "Nerf",
+   "Cooldown increased from 4s to 8s": "Nerf"
   }
  ]
 }{
  "hero_name": "Enigma",
  "Skill": [
   {
-   "skill_name": "Demonic Summoning",
-   "Eidolons' health is increased by 4% of Enigma's current health": "New",
-   "Eidolons now preserve their commanded attack target when they split": "Rework"
+   "skill_name": "Demonic Conversion",
+   "No longer cast on units": "Removed",
+   "Now a no target ability that summons 3 Eidolons 100 units left/right/behind Enigma": "Rework",
+   "Now has a health cost of 75/100/125/150 in addition to its mana cost": "New"
   },
   {
    "skill_name": "Midnight Pulse",
-   "Now also deals 5/10/15/20 base damage": "New",
-   "Current Health as Damage decreased from 5/7/9/11% to 4/6/8/10%": "Nerf",
-   "Radius decreased from 650 to 600": "Nerf"
+   "Damage Interval decreased from 1s to 0.5s (total damage unchanged)": "Buff"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent Eidolon Attack Speed decreased from +12 to +10": "Nerf"
   }
  ]
 }{
  "hero_name": "Faceless Void",
  "Talent": [
   {
-   "Level 10 Talent Time Dilation DPS per cooldown increased from +6 to +7": "Buff",
-   "Level 15 Talent Time Dilation Slow per Cooldown increased from +10% to +12%": "Buff"
+   "Level 15 Talent -1s Time Walk Cooldown replaced with +50 Time Lock Damage": "Rework",
+   "Level 20 Talent +70 Time Lock Damage replaced with -1s Time Walk Cooldown": "Rework"
   }
  ]
 }{
  "hero_name": "Grimstroke",
  "Skill": [
   {
+   "skill_name": "Phantom's Embrace",
+   "Now refreshes when the phantom reaches Grimstroke rather than the moment Rend Damage is dealt": "Rework",
+   "Projectile Speed increased from 850 to 1150": "Buff"
+  },
+  {
    "skill_name": "Ink Swell",
-   "Aghanim's Shard Damage/Heal bonus decreased from 40% to 30%": "Nerf"
+   "Buff Duration increased from 3s to 5s": "Buff",
+   "Can now be detonated via Ink Explosion sub-ability at any time during its effect to end it with an AoE explosion": "New",
+   "The sub-ability replaces Ink Swell for the duration of the buff. Cooldown starts upon cast": "New",
+   "Max Stun Duration increased from 1/1.6/2.2/2.8s to 1.3/1.8/2.3/2.8s": "Buff",
+   "Cast Range increased from 400/525/650/775 to 500/600/700/800": "Buff"
   },
   {
    "skill_name": "Soulbind",
-   "Cooldown increased from 70/60/50s to 70/65/60s": "Nerf"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Ink Swell Cooldown Reduction decreased from 5s to 4s": "Nerf",
-   "Level 15 Talent Ink Swell Movement Speed bonus decreased from +14% to +12%": "Nerf",
-   "Level 25 Talent Stroke of Fate Damage increased from +60% to +75%": "Buff"
+   "Now fully pierces debuff immunity": "Rework"
   }
  ]
 }{
  "hero_name": "Gyrocopter",
  "Skill": [
   {
-   "skill_name": "Call Down",
-   "Ability reworked\nNow always shoots 3 missile strikes in the vector targeted direction": "Rework"
-  }
- ],
- "Talent": [
+   "skill_name": "Rocket Barrage",
+   "Now grants Gyrocopter 20/30/40/50% slow resistance for the duration": "New"
+  },
   {
-   "Level 25 Talent 3x Call Down replaced with -30s Call Down Cooldown and Global Range": "Rework"
+   "skill_name": "Flak Cannon",
+   "Radius increased from 1000 to 1250": "Buff",
+   "Now additionally grants 200 bonus night vision": "New",
+   "Aghanim's Scepter Side Gunner now attacks an additional target when Flak Cannon is active (2 targets at the same time)": "Buff"
   }
  ]
 }{
  "hero_name": "Hoodwink",
  "Skill": [
   {
-   "skill_name": "Acorn Shot",
-   "Bonus Damage increased from 50/80/110/140 to 55/90/125/160": "Buff"
+   "skill_name": "Scurry",
+   "Now also provides +50/100/150/200 attack/cast range when activated\nThe bonus from Scurry does not doubly apply to Acorn Shot": "New"
   },
   {
-   "skill_name": "Bushwhack",
-   "Total Damage increased from 90/160/230/300 to 90/180/270/360": "Buff"
+   "skill_name": "Sharpshooter",
+   "Now deals half of the damage to creeps that bolt flies through": "New",
+   "Aghanim's Scepter now also increases Sharpshooter's projectile / charge speed by 25%": "New"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 20 Talent 25% Sharpshooter Faster Projectile / Charge Time replaced with +125 Sharpshooter Max Damage": "Rework"
   }
  ]
 }{
- "hero_name": "Invoker"
+ "hero_name": "Huskar",
+ "Skill": [
+  {
+   "skill_name": "Life Break",
+   "Now additionally slows the target's attack speed by 60/100/140 for the duration": "New"
+  }
+ ]
+}{
+ "hero_name": "Invoker",
+ "Skill": [
+  {
+   "skill_name": "Quas",
+   "Strength per level decreased from 2 to 1": "Nerf",
+   "No longer grants Health Regen": "Removed",
+   "Now grants 2%->8% Spell Lifesteal on Invoker's abilities per orb on cast. The value is stored at the moment of spell cast and cannot be changed by swapping orbs after. All Spell Lifesteal works at 1/5th strength on creeps. Does not affect items": "New"
+  },
+  {
+   "skill_name": "Wex",
+   "Agility per level decreased from 2 to 1": "Nerf",
+   "No longer grants Attack Speed": "Removed",
+   "Now grants 1%->7% Cooldown Reduction per orb on all Invoker's abilities and items. The value is stored at the moment of spell cast and cannot be changed by swapping orbs after": "New"
+  },
+  {
+   "skill_name": "Exort",
+   "Intelligence per level decreased from 2 to 1": "Nerf",
+   "No longer grants damage": "Removed",
+   "Now grants 1%->7% Spell Amplification on all Invoker's abilities per instance on cast. The value is stored at the moment of spell cast and cannot be changed by swapping orbs after. Does not affect items": "New"
+  },
+  {
+   "skill_name": "Cold Snap",
+   "Now heals Invoker for 16->128 every time it procs": "New",
+   "Freeze Cooldown decreased from 0.83s->0.62s to 0.8s->0.59s": "Nerf",
+   "Mana Cost decreased from 100 to 90": "Buff"
+  },
+  {
+   "skill_name": "Ghost Walk",
+   "Now grants Invoker 10->80 Health Regen (Quas) and 5->40 Mana Regen (Wex)": "New"
+  },
+  {
+   "skill_name": "Tornado",
+   "Lift Duration increased from 0.85s->2.6s to 1.2s->2.6s": "Buff",
+   "Mana Cost decreased from 150 to 140": "Buff"
+  },
+  {
+   "skill_name": "Alacrity",
+   "Mana Cost decreased from 100 to 90": "Buff"
+  },
+  {
+   "skill_name": "Sun Strike",
+   "Damage increased from 120->540 to 200->550": "Buff"
+  },
+  {
+   "skill_name": "Deafening Blast",
+   "Mana Cost decreased from 300 to 250": "Buff"
+  }
+ ]
 }{
  "hero_name": "Io",
  "Skill": [
   {
-   "skill_name": "Tether",
-   "Now deals 10/20/30/40 damage per second to enemies caught in the tether. Tick rate: 0.5s": "New"
+   "skill_name": "Overcharge",
+   "Aghanim's Shard no longer grants bonus spell amplification": "Removed",
+   "Aghanim's Shard now grants 30% slow resistance": "New"
   }
  ]
 }{
  "hero_name": "Jakiro",
  "Skill": [
   {
-   "skill_name": "Dual Breath",
-   "Start Radius decreased from 225 to 150. End Radius is unchanged": "Nerf",
-   "Movement Slow decreased from 28/32/36/40% to 25/30/35/40%": "Nerf",
-   "Attack Slow decreased from 28/32/36/40 to 25/30/35/40": "Nerf"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Attack Range decreased from +250 to +200": "Nerf"
+   "skill_name": "Macropyre",
+   "Aghanim's Scepter no longer increases Macropyre distance": "Removed",
+   "Aghanim's Scepter now increases Macropyre width by 70": "New",
+   "Aghanim's Scepter Bonus Duration decreased from +15s to +5s": "Nerf",
+   "Aghanim's Scepter now adds two walls of ice along the edges of the Macropyre that slow any enemies trying to cross them by 70%. Damage is pure and the slow pierces debuff immunity. Ice Wall Width: 80; Slow Linger Duration: 0.4s": "New"
   }
  ]
 }{
  "hero_name": "Juggernaut",
- "Skill": [
-  {
-   "skill_name": "Blade Fury",
-   "Damage tick rate rescaled from permanent 0.2s to Juggernaut's attack rate at current Attack Speed multiplied by 2": "Rescale",
-   "Damage rescaled from 90/115/140/165 per second to 35/40/45/50 damage per tick": "Rescale",
-   "Aghanim's Shard reworked. Now increases Blade Fury Radius by 100 and slows enemies movement speed by 35%": "Rework"
-  }
- ],
  "Talent": [
   {
-   "Level 10 Talent +100 Blade Fury Radius replaced with +150 Healing Ward Radius": "Rework",
-   "Level 10 Talent +5 All Stats replaced with +10% Blade Dance Crit Damage": "Rework",
-   "Level 15 Talent +100 Blade Fury DPS replaced with +30 Movement Speed During Blade Fury": "Rework"
+   "Level 15 Talent +1s Blade Fury Duration replaced with +100 Blade Fury DPS": "Rework",
+   "Level 20 Talent +150 Blade Fury DPS replaced with -3s Blade Fury Cooldown": "Rework",
+   "Level 20 Talent Blade Dance Lifesteal increased from +50% to +60%. Lifesteal is now calculated after armor reductions": "Rescale"
   }
  ]
 }{
  "hero_name": "Keeper of the Light",
  "Skill": [
   {
-   "skill_name": "Will-O-Wisp",
-   "Ignis Fatuus now also deals 75 damage per flicker": "New"
-  },
-  {
-   "skill_name": "Recall",
-   "Now also casts Chakra Magic on both Keeper of the Light and ally upon teleporting": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Blinding Light Miss increased from +30% to +40%": "Buff",
-   "Level 20 Talent Chakra Magic Dispels replaced with +1.5s Solar Bind Stun when target is fully slowed": "Rework",
-   "Level 25 Talent Illuminate Damage increased from +180 to +200": "Buff",
-   "Level 25 Talent +1.2s Blinding Light Stun replaced with Chakra Magic Strong Dispels": "Rework"
+   "skill_name": "Chakra Magic",
+   "Mana Restore decreased from 80/160/240/320 to 75/150/225/300": "Nerf",
+   "Mana Restore and Cooldown Reduction are now 25% more effective when cast on self": "Rework"
   }
  ]
 }{
  "hero_name": "Kunkka",
  "Skill": [
   {
-   "skill_name": "Torrent Storm",
-   "Mana Cost increased from 250 to 275": "Nerf",
-   "Minimum spawn distance decreased from 300 to 115": "Nerf"
-  }
- ],
- "Talent": [
+   "skill_name": "Torrent",
+   "Damage and slow are now applied to all enemies in the torrent area throughout the duration": "Rework"
+  },
   {
-   "Level 20 Talent +65 Torrent AoE replaced with -4s Torrent Cooldown": "Rework"
+   "skill_name": "X Marks the Spot",
+   "Return Cast Point decreased from 0.4s to 0.2s": "Buff"
   }
  ]
 }{
- "hero_name": "Legion Commander",
- "Skill": [
-  {
-   "skill_name": "Overwhelming Odds",
-   "Aghanim's Shard no longer provides bonus armor or duration": "Removed",
-   "Aghanim's Shard now increases Overwhelming Odds AoE by 250 when cast during a Duel": "New"
-  },
-  {
-   "skill_name": "Duel",
-   "Aghanim's Shard now provides +8 damage per duel won. Applies retroactively": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent +8 Duel Bonus Damage replaced with +8% Press The Attack Movement Speed": "Rework"
-  }
- ]
+ "hero_name": "Legion Commander"
 }{
  "hero_name": "Leshrac",
  "Skill": [
   {
    "skill_name": "Diabolic Edict",
-   "Damage increased from 7/14/21/28 to 9/16/23/30": "Buff"
-  },
-  {
-   "skill_name": "Lightning Storm",
-   "Now also slows attack speed by 50": "New"
-  }
- ]
-}{
- "hero_name": "Lich",
- "Skill": [
-  {
-   "skill_name": "Sinister Gaze",
-   "Mana Drain per second increased from 10% to 12%": "Buff"
-  },
-  {
-   "skill_name": "Ice Spire",
-   "Movement Slow decreased from 30% to 25%": "Nerf"
+   "Mana Cost decreased from 95/120/135/155 to 90/110/130/150": "Buff"
   }
  ],
  "Talent": [
   {
-   "Level 10 Talent Frost Blast Radius and Damage decreased from +150 to +125": "Nerf"
+   "Level 25 Talent Lightning Storm Can Bounce Twice On Units replaced with Pulse Nova triggers Lightning Storm (Summons a single bolt every 2s upon a random enemy in Pulse Nova radius. Prioritizes heroes)": "Rework"
+  }
+ ]
+}{
+ "hero_name": "Lich",
+ "Talent": [
+  {
+   "Level 20 Talent +100 Chain Frost Damage replaced with Chain Frost on Death": "Rework"
   }
  ]
 }{
  "hero_name": "Lifestealer",
- "Skill": [
+ "Talent": [
   {
-   "skill_name": "Rage",
-   "Movement Speed bonus decreased from 15/16/17/18% to 9/12/15/18%": "Nerf"
+   "Level 15 Talent Damage increased from +25 to +30": "Buff",
+   "Level 15 Talent Health increased from +325 to +350": "Buff",
+   "Level 25 Talent +1.2% Feast Lifesteal replaced with +1.2% Feast Lifesteal and Damage": "Buff"
   }
  ]
 }{
  "hero_name": "Lina",
- "Talent": [
+ "Skill": [
   {
-   "Level 20 Talent +11% Spell Amplification replaced with +5 Laguna Blade Supercharge Stacks": "Rework",
-   "Level 25 Talent Laguna Blade damage is Pure replaced with +150% Crit On Targets Affected By Dragon Slave (only affects Lina's attacks)": "Rework"
+   "skill_name": "Dragon Slave",
+   "Damage decreased from 85/165/245/325 to 75/150/225/300": "Buff",
+   "Now also burns enemies": "New"
+  },
+  {
+   "skill_name": "Light Strike Array",
+   "Mana Cost rescaled from 115 to 100/115/130/145": "Rescale"
+  },
+  {
+   "skill_name": "Laguna Blade",
+   "Now Supercharges Lina": "New"
   }
  ]
 }{
@@ -626,12 +768,13 @@
  "Skill": [
   {
    "skill_name": "Mana Drain",
-   "Now damages enemies for 100% of the mana drained": "New"
+   "Can now target allies without the level 15 talent. Grants bonus movement speed when used on allies and no longer drains mana from Lion when the allied target is at full mana. Movement speed and mana restored are decreased by 50% of the slow and mana stolen values": "Rework"
   }
  ],
  "Talent": [
   {
-   "Level 25 Talent Mana Drain Deals Damage replaced with +100% Mana Drain Damage": "Rework"
+   "Level 15 Talent Mana Drain Restores Allies replaced with -2s Hex Cooldown": "Rework",
+   "Level 20 Talent -3s Hex Cooldown replaced with Earth Spike affects a 30\u00ba cone": "Rework"
   }
  ]
 }{
@@ -639,33 +782,55 @@
  "Skill": [
   {
    "skill_name": "Summon Spirit Bear",
-   "Bear Armor decreased from 3/4/5/6 to 0/2/4/6": "Nerf",
-   "Fetch Duration increased from 2.25s to 2.5s": "Buff",
-   "Fetch no longer slows the bear": "Removed"
+   "Bear is now a Universal creep-hero unit. It has 0 base attributes and does not gain them with level": "Rework",
+   "Bear now has its own Aghanim's Scepter and Shard upgrades\nAghanim's Scepter allows Spirit Bear to attack at any range from Lone Druid": "New"
   },
   {
-   "skill_name": "Savage Roar",
-   "Radius decreased from 375 to 350": "Nerf"
+   "skill_name": "Spirit Link",
+   "Now upgradable by Aghanim's Scepter\nLone Druid severs the link to his Spirit Bear": "New"
+  },
+  {
+   "skill_name": "True Form",
+   "No longer increases Base Attack Time": "Removed"
+  }
+ ]
+}{
+ "hero_name": "Luna",
+ "Skill": [
+  {
+   "skill_name": "Lucent Beam",
+   "Aghanim's Shard Upgrade removed": "Removed"
+  },
+  {
+   "skill_name": "Moon Glaive",
+   "Now upgradable by Aghanim's Shard\nWhen activated": "New"
+  }
+ ]
+}{
+ "hero_name": "Lycan",
+ "Skill": [
+  {
+   "skill_name": "Howl",
+   "Fear no longer affects creep-heroes": "Removed"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Spirit Bear Armor decreased from +8 to +7": "Nerf",
-   "Level 15 Talent Savage Roar Cooldown Reduction decreased from 8s to 7s": "Nerf"
+   "Level 10 Talent +20% Howl Attack Damage Reduction replaced with +2 Howl Armor Reduction": "Rework",
+   "Level 15 Talent Summon Wolves Health increased from +250 to +300": "Buff"
   }
  ]
 }{
  "hero_name": "Magnus",
  "Skill": [
   {
-   "skill_name": "Skewer",
-   "Now additionally deals 6/9/12/15% of distance traveled as damage": "New",
-   "Damage decreased from 90/180/270/360 to 70/140/210/280": "Nerf"
+   "skill_name": "Horn Toss",
+   "Now stuns enemies for the duration of the air time": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent All Stats per hero hit with Reverse Polarity increased from +8 to +10": "Buff"
+   "Level 15 Talent All Stats per hero hit with Reverse Polarity increased from +6 to +8": "Buff"
   }
  ]
 }{
@@ -673,83 +838,60 @@
  "Skill": [
   {
    "skill_name": "Rebound",
-   "Impact Damage rescaled from 75/150/225/300 to 70/150/230/310": "Rescale"
+   "Aghanim's Shard now also decreases Rebound cooldown by 3 seconds": "New"
+  },
+  {
+   "skill_name": "Sidekick",
+   "Ability reworked\nBuff is now permanent for Marci and her ally": "Rework",
+   "Bonus Damage decreased from 20/35/50/65 to 6/12/24/48": "Nerf",
+   "Lifesteal decreased from 30/35/40/45% to 10/15/20/25%; Lifesteal is now reduced by 40% vs creeps": "Nerf",
+   "Cooldown rescaled from 36/28/20/12s to 20s": "Rescale"
   },
   {
    "skill_name": "Unleash",
-   "Cooldown decreased from 100/80/60 to 90/75/60": "Nerf"
+   "No longer slows attack speed of towers": "Removed"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Dispose Damage increased from +70 to +90": "Buff"
+   "Level 15 Talent -3s Rebound Cooldown replaced with +10% Rebound Movement Speed Bonus": "Rework",
+   "Level 25 Talent 1.5s Sidekick Debuff Immunity replaced with +65 Sidekick Damage": "Rework"
   }
  ]
 }{
  "hero_name": "Mars",
  "Skill": [
   {
-   "skill_name": "Spear of Mars",
-   "Backswing decreased from 1.03s to 0.15s": "Buff",
-   "No longer toggles off Bulwark if cast while Bulwark is active": "Rework"
-  },
-  {
-   "skill_name": "God's Rebuke",
-   "Critical Damage increased from 150/190/230/270% to 150/200/250/300%": "Buff"
-  },
-  {
    "skill_name": "Bulwark",
-   "Active now grants Mars phased movement": "New",
-   "Active projectile redirection now also protects allies that are up to 200 range in front of Mars": "New"
-  },
-  {
-   "skill_name": "Arena of Blood",
-   "Formation Time decreased from 0.3s to 0.1s": "Buff"
+   "Aghanim's Scepter soldiers are now placed in a wall formation with 2 of them on either side of Mars. Soldiers attack only enemies in front of them in 275 range and knock back any enemy they hit. The enemies are pushed to the 325 range from the formation": "Rework"
   }
  ]
 }{
  "hero_name": "Medusa",
- "Skill": [
-  {
-   "skill_name": "Split Shot",
-   "Outgoing Damage increased from 35/50/65/80% to 40/55/70/85%": "Buff"
-  }
- ],
  "Talent": [
   {
-   "Level 10 Talent Stone Gaze Bonus Physical Damage increased from +5% to +8%": "Buff",
-   "Level 20 Talent Mystic Snake Bounces increased from +2 to +3": "Buff"
+   "Level 25 Talent Mana Shield Damage per Mana increased from +1.3 to +1.7 (from +0.7 to +0.9 for illusions)": "Buff"
   }
  ]
 }{
  "hero_name": "Meepo",
- "Skill": [
-  {
-   "skill_name": "Poof",
-   "Damage type changed from Pure to Magical": "Rework",
-   "Damage increased from 40/60/80/100 to 60/90/120/150": "Buff"
-  }
- ],
  "Talent": [
   {
-   "Level 10 Talent Poof Damage increased from +30 to +50": "Buff"
+   "Level 10 Talent Strength increased from +6 to +7": "Buff",
+   "Level 15 Talent Earthbind grants True Strike on Targets replaced with -2.5s Earthbind Cooldown": "Rework",
+   "Level 20 Talent -3s Earthbind Cooldown replaced with Earthbind grants True Strike on Targets": "Rework"
   }
  ]
 }{
  "hero_name": "Mirana",
  "Skill": [
   {
-   "skill_name": "Starstorm",
-   "Radius increased from 650 to 675": "Buff"
+   "skill_name": "Sacred Arrow",
+   "Maximum Bonus Damage decreased from 180 to 150/160/170/180": "Nerf"
   },
   {
    "skill_name": "Leap",
-   "Aghanim's Shard now guarantees a secondary Starstorm strike on all enemies affected by the slow": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 20 Talent +45 Damage replaced with +20% Critical Strike (200% Damage)": "Rework"
+   "Base Charge Restore Time rescaled from 45/40/35/30s to 52/44/36/28s": "Rescale"
   }
  ]
 }{
@@ -757,113 +899,124 @@
  "Skill": [
   {
    "skill_name": "Boundless Strike",
-   "Mana Cost decreased from 100 to 85/90/95/100": "Buff",
-   "Aghanim's Shard Primal Spring effect power from 50% to 60% (of Max Channeling Duration)": "Buff"
-  },
-  {
-   "skill_name": "Tree Dance",
-   "Distance decreased from 1000 to 800": "Nerf",
-   "Cooldown decreased from 1.45/1.3/1.15/1s to 1.4/1.2/1.0/0.8s": "Buff"
+   "Aghanim's Shard now also applies Primal Spring where Monkey King lands": "New"
   },
   {
    "skill_name": "Wukong's Command",
-   "Cooldown decreased from 110/95/80s to 100/90/80s": "Buff",
-   "Cast Range increased from 550 to 625": "Buff"
+   "Cooldown decreased from 120/100/80s to 110/95/80s": "Buff"
   }
- ],
- "Talent": [
+ ]
+}{
+ "hero_name": "Morphling",
+ "Skill": [
   {
-   "Level 10 Talent +0.2s Mischief Invulnerability Duration replaced with +75 Primal Spring Max Damage": "Rework",
-   "Level 25 Talent Additional Wukong's Command Ring now also increases cast range by +350": "New"
+   "skill_name": "Morph",
+   "Aghanim's Scepter Upgrade reworked\nAdds an alternative cast to Morph. When enabled": "Rework"
   }
  ]
 }{
  "hero_name": "Muerta",
  "Skill": [
   {
-   "skill_name": "Gunslinger",
-   "Is now toggleable and no longer prioritizes heroes": "New"
+   "skill_name": "The Calling",
+   "If an enemy hero dies inside The Calling": "New",
+   "Mana Cost decreased from 150/175/200/225 to 145/160/175/190": "Buff"
   },
   {
-   "skill_name": "Pierce the Veil",
-   "Bonus Attack Damage decreased from 70/110/150 to 70/100/130": "Nerf"
+   "skill_name": "Gunslinger",
+   "Secondary Target Bonus Search Range increased from 150 to 175": "Buff"
+  },
+  {
+   "skill_name": "Parting Shot",
+   "Physical Body Damage Reduction decreased from 50% to 35%": "Nerf"
   }
  ]
 }{
  "hero_name": "Naga Siren",
- "Talent": [
+ "Skill": [
   {
-   "Level 10 Talent Rip Tide Damage decreased from +30 to +25": "Nerf"
+   "skill_name": "Armor"
   }
  ]
 }{
- "hero_name": "Nature's Prophet"
+ "hero_name": "Nature's Prophet",
+ "Skill": [
+  {
+   "skill_name": "Sprout",
+   "Consuming a tree spawned from Sprout with a Tango no longer grants healing": "Removed",
+   "Now deals 14/20/26/32 damage every 0.5s for the duration. Damage is dealt in a 275 radius": "New"
+  }
+ ]
 }{
  "hero_name": "Necrophos",
  "Skill": [
   {
-   "skill_name": "Death Pulse",
-   "Mana Cost increased from 100/120/140/160 to 115/130/145/160": "Nerf"
+   "skill_name": "Ghost Shroud",
+   "Aghanim's Scepter Upgrade removed": "Removed"
   },
   {
    "skill_name": "Heartstopper Aura",
-   "Aghanim's Scepter Health Regen to Decay decreased from 55% to 50%": "Nerf"
-  }
- ],
- "Talent": [
-  {
-   "Level 20 Talent Heartstopper Regen Reduction decreased from +30% to +25%": "Nerf"
+   "Now upgradable by Aghanim's Scepter\nHealth Decay is increased by 60% of Necrophos's current health regeneration": "New"
   }
  ]
 }{
  "hero_name": "Night Stalker",
  "Skill": [
   {
-   "skill_name": "Void",
-   "Mana Cost decreased from 90/100/110/110 to 90/95/100/105": "Buff"
+   "skill_name": "Crippling Fear",
+   "Now deals 25/30/35/40 magical damage per second": "New"
   },
   {
-   "skill_name": "Hunter in the Night",
-   "Aghanim's Shard Max Health Restore decreased from 35% to 30%": "Nerf"
+   "skill_name": "Dark Ascension",
+   "Now refreshes cooldowns of non-ultimate abilities on cast": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Dark Ascension Damage decreased from +35 to +30": "Nerf"
+   "Level 15 Talent Hunter in the Night Status Resistance increased from +15% to +25%": "Buff"
   }
  ]
 }{
  "hero_name": "Nyx Assassin",
  "Skill": [
   {
-   "skill_name": "Burrow",
-   "No longer requires Nyx Assassin to face a direction when casting spells": "New"
-  }
- ],
- "Talent": [
+   "skill_name": "Spiked Carapace",
+   "Damage Reflected increased from 100% to 125%": "Buff",
+   "Cooldown rescaled from 25/20/15/10s to 26/20/14/8s": "Rescale"
+  },
   {
-   "Level 10 Talent +6% Spell Amplification replaced with +75 Vendetta Damage": "Rework"
+   "skill_name": "Vendetta",
+   "Bonus Damage decreased from 300/450/600 to 300/400/500": "Nerf",
+   "Duration increased from 40/50/60s to 60s": "Buff"
   }
  ]
 }{
  "hero_name": "Ogre Magi",
- "Talent": [
+ "Skill": [
   {
-   "Level 10 Talent Ignite DPS decreased from +16 to +15": "Nerf",
-   "Level 15 Talent +250 Health replaced with +2/0.01 Dumb Luck Max Mana/Mana Regen Per Strength": "Rework"
+   "skill_name": "Unrefined Fireblast",
+   "Damage decreased from 275 to 150": "Nerf",
+   "Now also deals damage equal to 1.5x of Ogre Magi's Strength": "New",
+   "Now also affected by level 10 talent -1s Cooldown": "Buff"
   }
  ]
 }{
  "hero_name": "Omniknight",
  "Skill": [
   {
-   "skill_name": "Guardian Angel",
-   "Ability reworked\nNow a single target ability with a 900 Cast Range\nMana Cost decreased from 150/200/250 to 100/150/200\n160/140/120s Cooldown replaced with 2 Charges. Charge Restore Time: 80/70/60s\nAghanim's Scepter reworked. Now grants an additional charge": "Rework"
+   "skill_name": "Purification",
+   "Cast Range increased from 550 to 600": "Buff"
+  },
+  {
+   "skill_name": "Repel",
+   "Heavenly Grace renamed to Repel\nNo longer grants bonus strength and health regen per dispelled debuff\nNow grants bonus strength and health regen per debuff currently on the unit\nNow only applies to the target": "Rework"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent -30s Guardian Angel Cooldown replaced with -15s Guardian Angel Charge Restore Time": "Rework"
+   "Level 10 Talent +4s Heavenly Grace Duration replaced with -2s Purification Cooldown": "Rework",
+   "Level 15 Talent -2s Purification Cooldown replaced with +3 Repel Strength/Regen per Debuff": "Rework",
+   "Level 20 Talent +3 Heavenly Grace Strength/Regen per Debuff replaced with +2s Repel Duration": "Rework"
   }
  ]
 }{
@@ -871,29 +1024,25 @@
  "Skill": [
   {
    "skill_name": "Purifying Flames",
-   "Cast Point improved from 0.15s to 0.10s": "Buff"
-  },
-  {
-   "skill_name": "False Promise",
-   "Cast Range decreased from 700/850/1000 to 700/800/900": "Nerf"
-  }
- ],
- "Talent": [
-  {
-   "Level 15 Talent +80 Fortune's End Damage replaced with +60 Enemy Damage/Ally Heal Per Effect Dispelled by Fortune's End": "Rework"
+   "Heal per second increased from 11/22/33/44 to 15/25/35/45": "Buff",
+   "Total Heal increased from 99/198/297/396 to 135/225/315/405": "Buff"
   }
  ]
 }{
  "hero_name": "Outworld Destroyer",
  "Skill": [
   {
-   "skill_name": "Sanity's Eclipse",
-   "Radius increased from 400/500/600 to 450/525/600": "Buff"
-  }
- ],
- "Talent": [
+   "skill_name": "Astral Imprisonment",
+   "Aghanim's Shard Ally Movement Speed increased from 60% to 70%": "Buff"
+  },
   {
-   "Level 20 Talent +20 Strength replaced with +20% Spell Lifesteal": "Rework"
+   "skill_name": "Essence Flux",
+   "Aghanim's Scepter now fully prevents the damage that would put Outworld Destroyer's health below 20%": "Rework",
+   "Aghanim's Scepter Max Mana as barrier increased from 50% to 75%": "Buff"
+  },
+  {
+   "skill_name": "Sanity's Eclipse",
+   "Now applies a Mana Allergy debuff to enemies for 7s": "New"
   }
  ]
 }{
@@ -901,92 +1050,95 @@
  "Skill": [
   {
    "skill_name": "Shield Crash",
-   "Damage type changed from Magical to Physical": "Rework",
-   "Cooldown in Ball form is now always decreased to 9/6/3s": "Rework"
+   "No longer provides damage reduction per hero to Pangolier": "Removed",
+   "Now grants 50/100/150/200 barrier per hero to Pangolier for 10 seconds": "New"
+  },
+  {
+   "skill_name": "Lucky Shot",
+   "No longer disarms": "Removed",
+   "Now adds 40/80/120/160 attack speed reduction to its targets": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent 3s Shield Crash CD in Ball replaced with +80 Shield Crash Barrier Per Hero": "Rework",
-   "Level 20 Talent +100 Shield Crash Barrier Per Hero replaced with +125 Shield Crash Radius": "Rework"
+   "Level 20 Talent +5% Shield Crash Reduction Per Hero replaced with +100 Shield Crash Barrier Per Hero": "Rework"
   }
  ]
 }{
  "hero_name": "Phantom Assassin",
  "Skill": [
   {
-   "skill_name": "Phantom Strike",
-   "No longer provides lifesteal": "Removed",
-   "Duration increased from 2s to 2.5s": "Buff"
-  },
-  {
-   "skill_name": "Fan of Knives",
-   "Damage type changed from Pure to Physical": "Rework",
-   "Max Health Damage increased from 16% to 25%": "Buff"
+   "skill_name": "Coup de Grace",
+   "Ability reworked\nPhantom Assassin refines her combat abilities": "Rework"
   }
  ]
 }{
  "hero_name": "Phantom Lancer",
- "Skill": [
-  {
-   "skill_name": "Spirit Lance",
-   "Aghanim's Scepter no longer increases movement slow": "Removed"
-  }
- ],
  "Talent": [
   {
-   "Level 10 Talent +8 Strength replaced with +10 Phantom Rush Agility": "Rework",
-   "Level 15 Talent Spirit Lance Cooldown Reduction decreased from 1.5s to 1s": "Nerf"
+   "Level 10 Talent Spirit Lance Damage decreased from +50 to +40": "Nerf",
+   "Level 15 Talent Spirit Lance Cooldown Reduction decreased from 2s to 1.5s": "Nerf"
   }
  ]
 }{
  "hero_name": "Phoenix",
  "Skill": [
   {
+   "skill_name": "Icarus Dive",
+   "Damage Interval decreased from 1s to 0.2s": "Buff"
+  },
+  {
    "skill_name": "Fire Spirits",
-   "Projectile Speed increased from 900 to 1000": "Buff"
+   "Damage Interval decreased from 1s to 0.2s": "Buff"
   },
   {
    "skill_name": "Sun Ray",
-   "Aghanim's Shard Movement Speed Slow decreased from 12% to 10%": "Nerf"
-  }
- ],
- "Talent": [
+   "Now applies a stackable 2% miss chance debuff for every tick of damage (every 0.2s). Duration: 5s. Duration is refreshed with each debuff stack applied": "New"
+  },
   {
-   "Level 10 Talent +6% Spell Amplification replaced with +20 Icarus Dive Damage Per Second": "Rework"
+   "skill_name": "Supernova",
+   "Damage Interval decreased from 1s to 0.2s": "Buff"
   }
  ]
 }{
  "hero_name": "Primal Beast",
  "Skill": [
   {
+   "skill_name": "Pulverize",
+   "Bonus Damage per hit decreased from 30/50/70 to 20/40/60": "Nerf"
+  },
+  {
    "skill_name": "Rock Throw",
-   "Max Travel Time decreased from 1.7s to 1.5s": "Buff",
-   "Fragment Flight Distance decreased from 600 to 525": "Nerf",
-   "Fragment Flight Time decreased from 0.6s to 0.5s": "Buff",
-   "Fragment Impact Radius increased from 150 to 185": "Buff"
+   "Now provides an Uproar stack per each enemy hero hit": "New"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 10 Talent Magic Resistance During Trample increased from +20% to +25%": "Buff",
+   "Level 20 Talent Uproar Armor Per Stack increased from +6 to +7": "Buff",
+   "Level 20 Talent Trample Attack Multiplier decreased from +25% to +20%": "Nerf"
   }
  ]
 }{
  "hero_name": "Puck",
  "Skill": [
   {
-   "skill_name": "Illusory Orb",
-   "Cooldown decreased from 12/11/10/9s to 11/10/9/8s": "Buff"
-  }
- ],
- "Talent": [
+   "skill_name": "Phase Shift",
+   "Aghanim's Shard Bonus Damage increased from 20 to 35": "Buff"
+  },
   {
-   "Level 10 Talent Waning Rift Silence Duration increased from +0.75s to +1s": "Buff",
-   "Level 20 Talent Initial/Break Dream Coil Damage increased from +150 to +175": "Buff"
+   "skill_name": "Dream Coil",
+   "Aghanim's Scepter Rapid Fire attack rate now mirrors Puck's attack rate": "Rework",
+   "Aghanim's Scepter Rapid Fire keeps attacking enemies that are stunned by breaking the Dream Coil's leash": "New"
   }
  ]
 }{
  "hero_name": "Pudge",
- "Talent": [
+ "Skill": [
   {
-   "Level 10 Talent Armor increased from +4 to +5": "Buff",
-   "Level 15 Talent Meat Hook Damage increased from +120 to +140": "Buff"
+   "skill_name": "Meat Hook",
+   "Now instantly kills illusions": "New",
+   "Cast stun on Pudge is now removed if the hook finds a target": "Rework"
   }
  ]
 }{
@@ -994,12 +1146,7 @@
  "Skill": [
   {
    "skill_name": "Nether Ward",
-   "Cooldown increased from 35s to 40s": "Nerf"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent +20 Movement Speed replaced with +10% Decrepify Movement Speed To Allies": "Rework"
+   "Base Damage increased from 50/60/70/80 to 50/70/90/110": "Buff"
   }
  ]
 }{
@@ -1007,19 +1154,18 @@
  "Skill": [
   {
    "skill_name": "Shadow Strike",
-   "Aghanim's Scepter Radius decreased from 400 to 375": "Nerf"
+   "Cooldown decreased from 16/12/8/4s to 13/10/7/4s": "Buff"
   },
   {
    "skill_name": "Scream of Pain",
-   "Mana Cost rescaled from 100/110/120/130 to 120": "Rescale"
-  }
- ],
- "Talent": [
+   "Radius increased from 550 to 600": "Buff"
+  },
   {
-   "Level 10 Talent +8 Strength replaced with +10 Shadow Strike Heal Per Tick": "Rework",
-   "Level 10 Talent Damage increased from +15 to +20": "Buff",
-   "Level 20 Talent Sonic Wave Cooldown Reduction increased from 40s to 45s": "Buff",
-   "Level 25 Talent Sonic Wave Damage increased from +200 to +250": "Buff"
+   "skill_name": "Sonic Wave",
+   "Damage increased from 310/430/550 to 350/500/650": "Buff",
+   "Damage now gets gradually applied over the 1.4s duration of the knockback": "Rework",
+   "Knockback is now undispellable": "Rework",
+   "Cooldown decreased from 110/100/90s to 110/95/80s": "Buff"
   }
  ]
 }{
@@ -1027,27 +1173,25 @@
  "Skill": [
   {
    "skill_name": "Static Link",
-   "Damage Drain Rate decreased from 7/12/17/22 to 5/10/15/20": "Nerf",
-   "Link Duration increased from 5/6/7/8s to 10s": "Buff"
+   "Now upgradable by Aghanim's Shard\nIncreases cast range by 150 and adds alternative cast to Static Link. When toggled on": "New"
   },
   {
    "skill_name": "Storm Surge",
-   "Damage rescaled from 45/80/115/150 to 40/80/120/160": "Rescale",
-   "Movement Slow increased from 20/25/30/35% to 25/30/35/40%": "Buff"
+   "Bonus Speed decreased from 10/15/20/25% to 8/12/16/20%": "Nerf",
+   "Previous Aghanim's Shard Upgrade is now a part of the basic ability\nThere is an 18% chance when attacked": "Rework"
   }
  ],
  "Talent": [
   {
-   "Level 10 Talent +14 Agility replaced with +10% Spell Lifesteal": "Rework",
-   "Level 15 Talent +14 Strength replaced with Static Link Steal 1 Armor per Second": "Rework"
+   "Level 20 Talent +21% Storm Surge Move Speed replaced with +25% Storm Surge Damage and Slow": "Rework"
   }
  ]
 }{
  "hero_name": "Riki",
  "Skill": [
   {
-   "skill_name": "Tricks of the Trade",
-   "Mana Cost rescaled from 55 to 45/55/65/75": "Rescale"
+   "skill_name": "Cloak and Dagger",
+   "Backstab Agility Damage Multiplier decreased from 1.2/1.6/2.0 to 1/1.4/1.8": "Nerf"
   }
  ]
 }{
@@ -1055,63 +1199,64 @@
  "Skill": [
   {
    "skill_name": "Telekinesis",
-   "Cooldown decreased from 28/26/24/22s to 24/21/18/15s": "Buff",
-   "Aghanim's Shard Throw Distance decreased from +50% to +35%": "Nerf"
+   "Aghanim's Shard Bonus Throw Range decreased from 85% to 50%": "Nerf"
   },
   {
-   "skill_name": "Spell Steal",
-   "Projectile Speed increased from 1200 to 1500": "Buff"
-  }
- ],
- "Talent": [
-  {
-   "Level 20 Talent +240 Telekinesis Land Distance replaced with -4s Telekinesis Cooldown": "Rework",
-   "Level 25 Talent -12s Telekinesis Cooldown replaced with +400 Telekinesis Land Distance": "Rework"
+   "skill_name": "Arcane Supremacy",
+   "Cast Range decreased from 100/150/200/250 to 60/120/180/240": "Nerf"
   }
  ]
 }{
  "hero_name": "Sand King",
  "Skill": [
   {
-   "skill_name": "Burrowstrike",
-   "Damage rescaled from 80/130/200/260 to 80/140/200/260": "Rescale"
+   "skill_name": "Sand Storm",
+   "Now constantly moves towards Sand King at a speed of 100ms": "New",
+   "Aghanim's Scepter Burrowstrike spine radius now equals 10% of Sand Storm's current radius\n Decreased from 65 to 42.5/50/57.5/65; Level 15 talent increases radius by 12.5 more": "Rework",
+   "Decreased from 65 to 42.5/50/57.5/65; Level 15 talent increases radius by 12.5 more": "Nerf"
   },
   {
-   "skill_name": "Caustic Finale",
-   "Base Damage decreased from 70/90/110/130 to 50/70/90/110": "Nerf"
+   "skill_name": "Epicenter",
+   "Aghanim's Shard effect now triggers every 2.5s instead of every 700 units moved": "Rework"
   }
  ],
  "Talent": [
   {
-   "Level 10 Talent Sand Storm Damage Per Second decreased from +20 to +15": "Nerf"
+   "Level 20 Talent +100 Epicenter Base Radius replaced with +100 Base Radius and +25 Incremental Radius of Epicenter": "Rework"
   }
  ]
 }{
  "hero_name": "Shadow Demon",
- "Skill": [
+ "Talent": [
   {
-   "skill_name": "Disruption",
-   "Illusion Damage decreased from 30/45/60/75% to 20/30/40/50%": "Nerf",
-   "Illusions now also have 40/50/60/70 bonus base damage (decreased by outgoing damage reduction)": "New"
-  },
-  {
-   "skill_name": "Shadow Poison",
-   "Projectile Speed increased from 1000 to 1200": "Buff"
+   "Level 20 Talent Disseminate Shared Damage increased from +10% to +15%": "Buff"
   }
  ]
 }{
- "hero_name": "Shadow Fiend"
+ "hero_name": "Shadow Fiend",
+ "Skill": [
+  {
+   "skill_name": "Requiem of Souls",
+   "Aghanim's Scepter Damage on Return increased from 40% to 60%": "Buff"
+  }
+ ]
 }{
  "hero_name": "Shadow Shaman",
  "Skill": [
   {
-   "skill_name": "Shackles",
-   "Aghanim's Shard Serpent Wards Duration decreased from 7s to 6s": "Nerf"
-  }
- ],
- "Talent": [
+   "skill_name": "Ether Shock",
+   "Mana Cost decreased from 100/115/130/145 to 90/105/120/135": "Buff"
+  },
   {
-   "Level 10 Talent -2s Hex Cooldown replaced with +10% Hex Damage Amplification": "Rework"
+   "skill_name": "Hex",
+   "Now amplifies damage the target takes by 5/10/15/20%": "New",
+   "Duration increased from 1.3/1.8/2.3/2.8s to 2/2.3/2.6/2.9s": "Buff",
+   "Mana Cost increased from 50/100/150/200 to 110/140/170/200": "Nerf",
+   "Cooldown increased from 12s to 24/20/16/12s": "Nerf"
+  },
+  {
+   "skill_name": "Shackles",
+   "Total Damage/Heal increased from 60/130/200/270 to 75/150/225/300": "Buff"
   }
  ]
 }{
@@ -1119,8 +1264,27 @@
  "Skill": [
   {
    "skill_name": "Glaives of Wisdom",
-   "Now deals Magic Damage that doesn't pierce Debuff Immunity. This makes its damage affect Debuff Immune enemies": "Rework",
-   "Intelligence to Damage increased from 15/35/55/75% to 20/40/60/80%": "Buff"
+   "Aghanim's Shard now silences all targets hit if glaives bounce": "New"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 20 Talent +10% Glaives of Wisdom Damage replaced with 1 Glaives of Wisdom Bounce": "Rework",
+   "Level 25 Talent 2 Glaives of Wisdom Bounces replaced with +25% Glaives of Wisdom Damage": "Rework"
+  }
+ ]
+}{
+ "hero_name": "Skywrath Mage",
+ "Skill": [
+  {
+   "skill_name": "Arcane Bolt",
+   "Aghanim's Scepter now creates 2 additional bolts instead of 1": "Buff"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 15 Talent Ancient Seal Cooldown Reduction decreased from 8s to 7s": "Rework",
+   "Level 15 Talent +1 Arcane Bolt Per Cast replaced with +25% Arcane Bolt Spell Lifesteal": "Rework"
   }
  ]
 }{
@@ -1128,20 +1292,21 @@
  "Skill": [
   {
    "skill_name": "Slithereen Crush",
-   "Radius decreased from 350 to 325": "Nerf"
-  }
- ],
- "Talent": [
+   "Cast Point improved from 0.35s to 0.25s": "Buff",
+   "Puddle Duration increased from 3/4/5/6s to 7s": "Buff",
+   "Puddle Duration with Aghanim's Scepter increased from 22/23/24/25s to 25s": "Buff"
+  },
   {
-   "Level 20 Talent Slithereen Crush Damage decreased from +150 to +125": "Nerf",
-   "Level 25 Talent Slithereen Crush Cooldown Reduction decreased from 4s to 3s": "Nerf"
+   "skill_name": "Bash of the Deep",
+   "Now passively grants 10/20/30/40 attack damage when in water": "New"
   }
  ]
 }{
  "hero_name": "Slark",
- "Talent": [
+ "Skill": [
   {
-   "Level 15 Talent Shadow Dance Regen increased from +40 to +50": "Buff"
+   "skill_name": "Depth Shroud",
+   "Linger Duration decreased from 0.5s to 0.01s": "Buff"
   }
  ]
 }{
@@ -1149,58 +1314,65 @@
  "Skill": [
   {
    "skill_name": "Lil' Shredder",
-   "Damage increased from 25/50/75/100 to 30/55/80/105": "Buff"
-  },
+   "Fixed Damage per shot increased from 20/45/70/95 to 25/50/75/100": "Buff",
+   "Mana Cost increased from 50/65/80/95 to 70/80/90/100": "Nerf"
+  }
+ ],
+ "Talent": [
   {
-   "skill_name": "Mortimer Kisses",
-   "Impact Damage increased from 160/240/320 to 180/270/360": "Buff"
+   "Level 20 Talent Lil' Shredder Uses Your Attack Damage replaced with 3x Lil Shredder Multishot": "Rework",
+   "Level 25 Talent 3x Lil Shredder Multishot replaced with Lil' Shredder Uses 100% of Your Attack Damage": "Rework"
+  }
+ ]
+}{
+ "hero_name": "Sniper",
+ "Skill": [
+  {
+   "skill_name": "Assassinate",
+   "Now also performs an autoattack on the target": "New",
+   "Damage decreased from 320/510/700 to 250/350/450": "Nerf",
+   "Is now refreshed whenever Sniper kills an enemy hero\nThis includes all kills by Sniper and not just ones from Assassinate": "New",
+   "Mana Cost decreased from 175/225/275 to 175": "Buff"
   }
  ]
 }{
  "hero_name": "Spectre",
  "Skill": [
   {
-   "skill_name": "Dispersion",
-   "Minimum Radius decreased from 400 to 300": "Nerf",
-   "Now only triggers one cast of Spectral Dagger per illusion": "Rework"
+   "skill_name": "Shadow Step",
+   "Now an Ultimate ability. Haunt Damage: 40/60/80%; Haunt Damage Taken: 200%; Duration: 5/6/7s; Cooldown: 80/60/40s; Mana Cost: 150": "New",
+   "No longer casts a Spectral Dagger on its target": "Removed"
+  },
+  {
+   "skill_name": "Reality",
+   "Now has a 3s cooldown": "New",
+   "Now casts a Spectral Dagger on the target": "New"
   },
   {
    "skill_name": "Haunt",
-   "Cooldown decreased from 180s to 160s": "Buff"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent +5 All Attributes replaced with -100 Desolate Ally Radius": "Rework"
+   "Now granted by Aghanim's Scepter. Haunt Damage: 80%; Haunt Damage Taken: 200%; Duration: 7s; Cooldown: 180s; Mana Cost: 150": "Rework"
   }
  ]
 }{
  "hero_name": "Spirit Breaker",
  "Skill": [
   {
-   "skill_name": "Bulldoze",
-   "Movement Speed bonus decreased from 10/15/20/25% to 8/12/16/20%": "Nerf"
+   "skill_name": "Charge of Darkness",
+   "Charge Bonus Speed decreased from 325/350/375/400 to 250/300/350/400": "Nerf"
   }
  ],
  "Talent": [
   {
-   "Level 20 Talent +25% Greater Bash Damage replaced with +17% Greater Bash Chance": "Rework",
-   "Level 20 Talent 200 Charge of Darkness Bonus Speed replaced with Bulldoze Grants 400 All Damage Barrier": "Rework",
-   "Level 25 Talent +20% Greater Bash Chance replaced with +25% Greater Bash Damage": "Rework",
-   "Level 25 Talent Bulldoze 500 All Damage Barrier replaced with +200 Charge of Darkness Bonus Speed": "Rework"
+   "Level 20 Talent +17% Greater Bash Chance replaced with +25% Greater Bash Damage": "Rework",
+   "Level 25 Talent +25% Greater Bash Damage replaced with +20% Greater Bash Chance": "Rework"
   }
  ]
 }{
  "hero_name": "Storm Spirit",
  "Skill": [
   {
-   "skill_name": "Static Remnant",
-   "Remnant Activation Time decreased from 1.0s to 0.75s": "Buff"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent +20 Attack Speed replaced with +150 Attack Range when Overloaded": "Rework"
+   "skill_name": "Ball Lightning",
+   "Damage decreased from 8/12/16 to 6/10/14": "Nerf"
   }
  ]
 }{
@@ -1208,117 +1380,92 @@
  "Skill": [
   {
    "skill_name": "Storm Hammer",
-   "Aghanim's Scepter now increases damage by 180 if Sven travels with the Storm Hammer": "New"
+   "Radius increased from 255 to 270": "Buff"
   },
   {
-   "skill_name": "Warcry",
-   "Aghanim's Shard passive aura now also provides a +3% movement speed": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Warcry Duration increased from +3s to +4s": "Buff",
-   "Level 20 Talent +8% Warcry Movement Speed replaced with +20% God's Strength Slow Resistance": "Rework"
+   "skill_name": "God's Strength",
+   "Now also grants 30/35/40% slow resistance for the duration": "New"
   }
  ]
 }{
  "hero_name": "Techies",
  "Skill": [
   {
-   "skill_name": "Blast Off!",
-   "Current HP Self Damage decreased from 35/30/25/20% to 20%": "Buff"
+   "skill_name": "Reactive Tazer",
+   "Can now be detonated via Detonate Tazer sub-ability at any time during its effect to end it with an AoE explosion\nThe sub-ability replaces Reactive Tazer for the duration of the buff but is unavailable for the first 0.5s to prevent accidental detonation. Cooldown starts upon cast": "New",
+   "Cooldown rescaled from 28/24/20/16s to 30/25/20/15s": "Rescale"
   }
  ]
 }{
  "hero_name": "Templar Assassin",
  "Skill": [
   {
-   "skill_name": "Psionic Projection",
-   "Now deals 200 damage instantly upon arrival and activates the trap as if is was fully charged": "New"
+   "skill_name": "Psionic Trap",
+   "Damage Tick Interval decreased from 1s to 0.5s": "Buff",
+   "Bonus Damage increased from 250/300/350 to 275/325/375": "Buff"
   }
  ]
 }{
  "hero_name": "Terrorblade",
  "Skill": [
   {
-   "skill_name": "Terror Wave",
-   "Wave effect now follows Terrorblade and disappears if he is killed": "Rework"
+   "skill_name": "Metamorphosis",
+   "Casting Metamorphosis now ends Demon Zeal prematurely": "New"
   },
   {
    "skill_name": "Demon Zeal",
-   "Now applies to Reflection illusions with 50% effectiveness": "New"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Reflection Cooldown Reduction increased from 3s to 4s": "Buff",
-   "Level 15 Talent +275 Health replaced with -20s Metamorphosis Cooldown": "Rework"
+   "Ability reworked\nNo longer dispels Terrorblade\nBonus Attack Speed and Movement Speed increased from 65 to 100\nNo longer grants double bonus to melee units\nNow creates a 1200 range aura around Terrorblade which provides Demon Zeal buff to his illusions\nDuration increased from 7s to 30s; Cooldown increased from 14s to 60s\nCan no longer be cast while under the effect of Metamorphosis. Casting Metamorphosis or Terror Wave now ends Demon Zeal prematurely": "Rework"
   }
  ]
 }{
  "hero_name": "Tidehunter",
  "Skill": [
   {
-   "skill_name": "Gush",
-   "Mana Cost decreased from 100/105/110/115 to 100": "Buff"
+   "skill_name": "Tendrils of the Deep",
+   "Removed": "Removed"
   },
   {
    "skill_name": "Dead in the Water",
-   "Attacks to Destroy decreased from 5 to 4": "Nerf"
+   "New ability granted by Aghanim's Shard\nTidehunter throws a chain that leashes an enemy hero to a heavy anchor. Attempting to move more than 350 units away from the anchor reduces the hero's movement speed to 100": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Anchor Smash Damage Reduction increased from +25% to +30%": "Buff"
+   "Level 15 Talent Gush Damage decreased from +120 to +100": "Nerf",
+   "Level 20 Talent +40 Kraken Shell Damage Block replaced with +4 Kraken Shell Damage Block per Anchor Smash Kill\nCounts every hero that dies under the effect of Anchor Smash debuff.  Effect is retroacctive": "Rescale"
   }
  ]
 }{
  "hero_name": "Timbersaw",
- "Skill": [
-  {
-   "skill_name": "Reactive Armor",
-   "Max Stacks increased from 10/20/30/40 to 15/24/33/42": "Buff",
-   "Stacks per Hero Attack increased from 2 to 3": "Buff"
-  }
- ],
  "Talent": [
   {
-   "Level 10 Talent +200 Health replaced with +0.2 Reactive Armor Regeneration Per Stack": "Rework",
-   "Level 15 Talent +6 Reactive Armor Stacks and Duration replaced with +6 Max / +1 Hero Attack Reactive Armor Stacks": "Rework"
+   "Level 15 Talent +7% Spell Amplification replaced with +3% Whirling Death Stat Loss": "Rework"
   }
  ]
 }{
  "hero_name": "Tinker",
  "Skill": [
   {
-   "skill_name": "Laser",
-   "Cast Range decreased from 600 to 450": "Nerf"
-  },
-  {
    "skill_name": "Heat-Seeking Missile",
-   "Range decreased from 2000 to 1500": "Nerf"
+   "Mana Cost increased from 95/105/115/125 to 105/115/125/135": "Nerf"
   },
   {
    "skill_name": "Rearm",
-   "Now grants +15/20/25% Magic Resistance for 4s": "New"
-  },
+   "Mana Cost increased from 130/185/240 to 140/195/250": "Nerf"
+  }
+ ],
+ "Talent": [
   {
-   "skill_name": "Warp Flare",
-   "Now also applies a root": "New"
+   "Level 10 Talent +2s Laser Blind Duration replaced with +50 Laser Radius": "Rework",
+   "Level 25 Talent Heat-Seeking Missile Ministun decreased from +0.25s to +0.2s": "Nerf"
   }
  ]
 }{
  "hero_name": "Tiny",
  "Skill": [
   {
-   "skill_name": "Tree Grab",
-   "Bonus Base Damage increased from 20 to 20/25/30/35": "Buff",
-   "Cooldown decreased from 22/19/16/13s to 16/15/14/13s": "Buff",
-   "Aghanim's Shard now increases damage of thrown trees by 100": "New"
-  },
-  {
    "skill_name": "Grow",
-   "Toss Bonus Damage increased from 100/200/300 to 100/250/400": "Buff"
+   "Now also provides 15/30/45% slow resistance": "New"
   }
  ]
 }{
@@ -1326,68 +1473,66 @@
  "Skill": [
   {
    "skill_name": "Nature's Guise",
-   "Aghanim's Shard Movement Speed bonus decreased from +15% to +8%": "Nerf"
-  },
-  {
-   "skill_name": "Living Armor",
-   "Heal per second decreased from 3/4/5/6 to 2/3/4/5": "Nerf",
-   "Mana Cost increased from 50 to 55": "Nerf"
-  }
- ],
- "Talent": [
-  {
-   "Level 10 Talent Nature's Grasp Cooldown Reduction decreased from 5s to 4s": "Nerf"
+   "Now considers Nature's Grasp vines as trees": "New",
+   "Tree Search Radius increased from 150 to 200": "Buff"
   }
  ]
 }{
  "hero_name": "Troll Warlord",
  "Skill": [
   {
-   "skill_name": "Fervor",
-   "Aghanim's Shard Chance of Extra Attack per stack increased from 3% to 4%": "Buff"
+   "skill_name": "Rampage",
+   "Removed": "Removed"
   },
   {
-   "skill_name": "Battle Trance",
-   "Now allows Troll Warlord to receive movement orders if there are no valid targets within range": "Rework"
+   "skill_name": "Berserker's Rage (Ranged)",
+   "Both Whirling Axes abilities are now accessible at the same time. Casting any of them automatically switches Troll Warlord to the form of the used ability": "New"
+  },
+  {
+   "skill_name": "Whirling Axes (Ranged)",
+   "Damage rescaled from 90 to 80/100/120/140": "Rescale"
+  },
+  {
+   "skill_name": "Fervor",
+   "Now upgradable by Aghanim's Shard\nIncreases max Fervor stacks by 4 and grants Troll 20% + 3% chance per Fervor stack to fire an additional ranged attack to any unit within the ranged attack range plus 175": "New"
   }
  ]
 }{
  "hero_name": "Tusk",
  "Skill": [
   {
-   "skill_name": "Walrus Punch",
-   "Now also deals 50 bonus damage which is affected by crit multiplier": "New",
-   "Critical Damage decreased from 250/325/400% to 200/275/350%": "Nerf"
+   "skill_name": "Tag Team",
+   "Now passively grants Tusk a 20/30/40/50 Attack Speed Slow aura within 350 radius": "New"
   }
  ]
 }{
  "hero_name": "Underlord",
  "Skill": [
   {
-   "skill_name": "Pit of Malice",
-   "Now deals 20/30/40/50 damage upon rooting a unit": "New",
-   "Cast Point improved from 0.35s to 0.25s": "Buff"
+   "skill_name": "Firestorm",
+   "Cooldown increased from 15/14/13/12s to 16/15/14/13s": "Nerf",
+   "Aghanim's Shard now allows targeting allies": "New"
   },
   {
-   "skill_name": "Fiend's Gate",
-   "Cast Point improved from 0.45s to 0.2s": "Buff"
+   "skill_name": "Pit of Malice",
+   "Cast Point improved from 0.45s to 0.35s": "Buff"
+  }
+ ],
+ "Talent": [
+  {
+   "Level 20 Talent Firestorm Burn Damage decreased from +1% to +0.8%": "Nerf"
   }
  ]
 }{
  "hero_name": "Undying",
  "Skill": [
   {
+   "skill_name": "Decay",
+   "Cooldown increased from 10/8/6/4s to 13/10/7/4s": "Nerf"
+  },
+  {
    "skill_name": "Soul Rip",
-   "Now takes Undying into account when counting nearby units": "Rework",
-   "Mana Cost decreased from 110 to 100": "Buff"
-  },
-  {
-   "skill_name": "Tombstone",
-   "Aghanim's Shard Stun Duration on Tombstone's destruction decreased from 3s to 2s": "Nerf"
-  },
-  {
-   "skill_name": "Flesh Golem",
-   "Slow Duration decreased from 6s to 4s": "Nerf"
+   "Mana Cost decreased from 120 to 110": "Buff"
   }
  ]
 }{
@@ -1395,87 +1540,85 @@
  "Skill": [
   {
    "skill_name": "Overpower",
-   "Slow Resistance increased from 10/15/20/25% to 15/20/25/30%": "Buff"
-  },
+   "Now also grants 10/15/20/25% slow resistance": "New"
+  }
+ ],
+ "Talent": [
   {
-   "skill_name": "Fury Swipes",
-   "Damage per attack increased from 10/19/28/37 to 13/21/29/37": "Buff"
+   "Level 15 Talent Enrage Status Resistance increased from +10% to +20%": "Buff",
+   "Level 20 Talent Fury Swipes Damage decreased from +12 to +10": "Nerf",
+   "Level 20 Talent -2s Earthshock Cooldown replaced with +400 Earthshock Radius": "Rework",
+   "Level 25 Talent Enrage provides half benefits to allies in a 700 radius replaced with Earthshock has 2 Charges. Base charge restore time equals the cooldown of the current level of Earthshock": "Rework"
   }
  ]
 }{
  "hero_name": "Vengeful Spirit",
  "Skill": [
   {
-   "skill_name": "Nether Swap",
-   "Damage increased from 50 to 150/300/450": "Buff",
-   "No longer reduces damage taken": "Removed",
-   "Now gives Vengeful Spirit and allied targets now gain a damage barrier for 10s. Barrier health is equal to the spell's Damage value": "New"
+   "skill_name": "Wave of Terror",
+   "Now also reduces the enemy's total attack damage by 15/20/25/30%": "New"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Wave of Terror Armor Reduction increased from 4 to 5": "Buff",
-   "Level 20 Talent -15s Nether Swap Cooldown replaced with Wave of Terror Steals 20% of Reduced Damage and Armor": "Rework",
-   "Level 25 Talent +40% Nether Swap Damage Reduction replaced with -18s Nether Swap Cooldown": "Rework"
+   "Level 10 Talent Nether Swap Enemy Damage increased from +150 to +200": "Buff",
+   "Level 15 Talent Wave of Terror Armor Reduction increased from 3 to 4": "Buff"
   }
  ]
 }{
  "hero_name": "Venomancer",
- "Skill": [
-  {
-   "skill_name": "Plague Ward",
-   "Ward Damage rescaled from 13/22/31/40 to 14/22/30/38": "Rescale"
-  },
-  {
-   "skill_name": "Noxious Plague",
-   "Initial Damage increased from 150/250/350 to 200/300/400": "Buff",
-   "Cooldown decreased from 120/100/80s to 100/90/80s": "Buff"
-  }
- ],
  "Talent": [
   {
-   "Level 15 Talent Poison Sting Slow decreased from +8% to +6%": "Nerf"
+   "Level 10 Talent Poison Sting Health Regen Reduction decreased from 20% to 15%": "Nerf"
   }
  ]
 }{
  "hero_name": "Viper",
  "Skill": [
   {
-   "skill_name": "Nethertoxin",
-   "No longer applies Break": "Removed",
-   "Now slows attack speed by 30/40/50/60": "New"
+   "skill_name": "Viper Strike",
+   "Duration increased from 5s to 6s": "Buff",
+   "Initial Attack Slow increased from 40/60/80 to 80/120/160": "Buff",
+   "Damage per second decreased from 80/120/160 to 70/110/150": "Nerf",
+   "Projectile Speed increased from 1200 to 1500": "Buff"
   },
   {
-   "skill_name": "Viper Strike",
-   "Now also applies Break": "New",
-   "Movement Slow increased from 40/60/80% to 60/70/80%": "Buff",
-   "Cast Point improved from 0.3s to 0.2s": "Buff"
-  }
- ]
-}{
- "hero_name": "Visage",
- "Skill": [
-  {
-   "skill_name": "Soul Assumption",
-   "Damage is now calculated before reductions": "Rework"
+   "skill_name": "Nosedive",
+   "Cast Range increased from 375 to 475": "Buff"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Soul Assumption Targets increased from 2 to 3": "Buff"
+   "Level 25 Talent -11s Nethertoxin Cooldown replaced with Become Universal": "Rework"
+  }
+ ]
+}{
+ "hero_name": "Visage",
+ "Talent": [
+  {
+   "Level 15 Talent +1 Armor Corruption to Visage and Familiars replaced with +2s Grave Chill Duration": "Rework",
+   "Level 20 Talent +20 Visage and Familiars Movement Speed replaced with +1 Armor Corruption to Visage and Familiars": "Rework"
   }
  ]
 }{
  "hero_name": "Void Spirit",
  "Skill": [
   {
-   "skill_name": "Resonant Pulse",
-   "Barrier per hero hit increased from 30/50/70/90 to 40/60/80/100": "Buff"
-  }
- ],
- "Talent": [
+   "skill_name": "Aether Remnant",
+   "Aghanim's Shard now makes non-hero units take 30% of ability's damage every second they spend on the Remnant's path instead of one instance of full damage": "Rework"
+  },
   {
-   "Level 15 Talent Mana Regen increased from +1.5 to +1.75": "Buff"
+   "skill_name": "Dissimilate",
+   "Phase Duration decreased from 1.3s to 1.1s": "Nerf"
+  },
+  {
+   "skill_name": "Resonant Pulse",
+   "Aghanim's Scepter Base Charge Restore Time decreased from 18s to 15s": "Buff"
+  },
+  {
+   "skill_name": "Astral Step",
+   "Mana Cost decreased from 100 to 90": "Buff",
+   "Base Charge Restore Time decreased from 28/23/18s to 25/20/15s": "Buff"
   }
  ]
 }{
@@ -1483,93 +1626,105 @@
  "Skill": [
   {
    "skill_name": "Fatal Bonds",
-   "Mana Cost increased from 110/120/130/140 to 120/130/140/150": "Nerf"
+   "Units that die while affected by Fatal Bonds now spawn an imp that lasts for 15 seconds\nImps' stats improve with each level of Fatal Bonds. Aghanim's Shard now also increases the level of imps by 1\nImps cannot be controlled and chase after nearby units": "New"
+  },
+  {
+   "skill_name": "Upheaval",
+   "With Aghanim's Shard now summons imps from the current level of Fatal Bonds": "New"
+  },
+  {
+   "skill_name": "Chaotic Offering",
+   "Golem now has 60% slow resistance": "New",
+   "Mana Cost rescaled from 250/375/500 to 200/400/600": "Rescale"
   }
  ]
 }{
  "hero_name": "Weaver",
- "Talent": [
-  {
-   "Level 10 Talent Strength decreased from +9 to +8": "Nerf",
-   "Level 25 Talent +1 Geminate Attack no longer applies to attacks made via Shukuchi with Aghanim's Shard": "Removed"
-  }
- ]
-}{
- "hero_name": "Windranger",
  "Skill": [
   {
-   "skill_name": "Powershot",
-   "Now slows the target for up to 15/20/25/30%": "New",
-   "Mana Cost rescaled from 90/100/110/120 to 100": "Rescale"
-  },
-  {
-   "skill_name": "Windrun",
-   "No longer slows enemies. Corresponding Aghanim's Scepter effect was also removed": "Removed",
-   "Aghanim's Scepter Damage Reduction increased from 35% to 45%": "Buff"
-  },
-  {
-   "skill_name": "Gale Force",
-   "Duration increased from 3s to 3.5s": "Buff"
+   "skill_name": "Shukuchi",
+   "Aghanim's Shard Upgrade reworked\nNow procs Geminate Attack 0.2s after exiting the Shukuchi invisibility and also procs an additional attack if Weaver has level 25 talent +1 Geminate Attack. Procs still search for marked enemies in 1200 radius around Weaver": "Rework"
   }
  ],
  "Talent": [
   {
-   "Level 10 Talent +225 Windrun Radius replaced with +20% Powershot Slow": "Rework"
+   "Level 10 Talent Shukuchi Damage increased from +50 to +55": "Buff"
+  }
+ ]
+}{
+ "hero_name": "Windranger",
+ "Talent": [
+  {
+   "Level 15 Talent Windrun Cooldown Reduction decreased from 3s to 2.5s": "Nerf",
+   "Level 20 Talent Shackleshot Duration increased from +0.65s to +0.75s": "Buff",
+   "Level 25 Talent Focus Fire Kills Advance Cooldown decreased from 20s to 18s": "Nerf"
   }
  ]
 }{
  "hero_name": "Winter Wyvern",
  "Skill": [
   {
+   "skill_name": "Cold Embrace",
+   "Max HP Heal per second increased from 1.75/2.5/3.25/4% to 2.25/3/3.75/4.5%": "Buff"
+  },
+  {
    "skill_name": "Winter's Curse",
-   "Cast Range increased from 700/750/800 to 800": "Buff",
-   "Mana Cost decreased from 250 to 200/225/250": "Buff",
-   "Now provides vision over the affected unit and their surroundings": "New"
+   "Winter Wyvern can no longer deal physical damage to units affected by Winter's Curse": "Removed",
+   "Affected units now take 30% more magical and pure damage from Winter Wyvern and units under her control": "New",
+   "Cooldown decreased from 90/85/80s to 85/80/75s": "Buff"
   }
  ]
 }{
  "hero_name": "Witch Doctor",
  "Skill": [
   {
-   "skill_name": "Voodoo Restoration",
-   "No longer deals damage": "Removed",
-   "Heal increased from 10/22/34/46 to 20/30/40/50": "Buff"
-  }
- ],
- "Talent": [
+   "skill_name": "Paralyzing Cask",
+   "Bounce Delay decreased from 0.3s to 0.1s": "Buff"
+  },
   {
-   "Level 25 Talent +1.5% Max Health Voodoo Restoration Heal/Damage replaced with +2% Max Health Voodoo Restoration Heal": "Rework"
+   "skill_name": "Death Ward",
+   "Now deals pure damage and pierces debuff immunity": "New",
+   "Damage decreased from 90/150/210 to 60/110/160": "Nerf",
+   "Aghanim's Scepter attacks can now also bounce to creeps (heroes prioritized)": "New"
+  },
+  {
+   "skill_name": "Voodoo Switcheroo",
+   "Attack Speed Reduction increased from 30 to 40": "Nerf",
+   "Mana Cost increased from 150 to 200": "Nerf"
   }
  ]
 }{
  "hero_name": "Wraith King",
  "Skill": [
   {
-   "skill_name": "Reincarnation",
-   "Cooldown increased from 180/140/100s to 180/150/120s": "Nerf",
-   "Aghanim's Shard Additional Skeletons decreased from +3 to +2": "Nerf",
-   "Aghanim's Scepter Cooldown Reduction decreased from 30s to 15s": "Nerf"
+   "skill_name": "Vampiric Spirit",
+   "Skeletons now deal 25% more damage to heroes": "New",
+   "Skeletons' Armor increased by 2": "Buff"
   }
  ],
  "Talent": [
   {
-   "Level 15 Talent Skeletons Attack Damage decreased from +26 to +23": "Nerf",
-   "Level 20 Talent Minimum Skeletons Spawned decreased from +6 to +5": "Nerf",
-   "Level 20 Talent Cleave increased from +25% to +35%": "Buff"
+   "Level 10 Talent Vampiric Spirit Lifesteal increased from +8% to +10%": "Buff",
+   "Level 15 Talent Wraithfire Blast Stun Duration increased from +0.5s to +0.75s": "Buff"
   }
  ]
 }{
  "hero_name": "Zeus",
  "Skill": [
   {
-   "skill_name": "Lightning Bolt",
-   "Now deals 2x damage to creeps": "New"
+   "skill_name": "Thundergod's Wrath",
+   "Damage decreased from 350/500/650 to 300/425/550": "Nerf",
+   "Now also deals damage equal to 5/7.5/10% of target's max HP": "New"
+  },
+  {
+   "skill_name": "Lightning Hands",
+   "Ability changed from auto-cast to toggle": "Rework"
   }
  ]
 }{
- "hero_name": "2023-12-14"
+ "hero_name": "2023-08-09"
 }{
- "hero_name": "2023-12-18"
+ "hero_name": "2023-08-11"
 }{
  "hero_name": "Patch Notes"
 }

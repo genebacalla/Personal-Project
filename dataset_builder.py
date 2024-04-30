@@ -1,7 +1,3 @@
-
-
-
-
 from bs4 import BeautifulSoup
 import requests
 import time
@@ -11,7 +7,7 @@ import os
 
 class DatasetBuilder:
 
-    subhead = ['Buff',"Nerf","New","Rework","Rescale","Removed","Rework"]
+    subhead = ['Buff',"Nerf","New","Rework","Rescale","Removed"]
     header_hero = ['Heroes','Hero_Updates']
     headers = ['Attribute','Talent','Skill']
     
@@ -30,6 +26,10 @@ class DatasetBuilder:
         html_content = resp.content
         return BeautifulSoup(html_content,'html.parser')
         
+
+    # A look-ahead implementation using zip function. If a 'None" object is encountered 
+    # in the passed list, the main dictionary will be saved into a JSON file for dataset. 
+
     def build_json(self,patch):
         main={}
         frame=[]
@@ -141,7 +141,7 @@ patches = ["7.34","7.34b","7.34c","7.34d","7.34e","7.35"]
 
 
 
-obj = DatasetBuilder("7.35")
+obj = DatasetBuilder("7.34")
 patch_list = obj.get_patch_notes()
 obj.build_json(patch_list)
 
